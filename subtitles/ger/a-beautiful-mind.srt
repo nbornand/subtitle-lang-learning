@@ -1,0 +1,6085 @@
+1
+00:01:21,687 --> 00:01:24,679
+UNIVERSITÄT PRINCETON
+SEPTEMBER 1947
+
+2
+00:01:26,527 --> 00:01:28,882
+Die Mathematiker gewannen den Krieg.
+
+3
+00:01:29,647 --> 00:01:32,605
+Mathematiker entschlüsselten
+die japanischen Kodes...
+
+4
+00:01:32,727 --> 00:01:34,558
+und bauten die Atombombe.
+
+5
+00:01:34,927 --> 00:01:37,521
+Mathematiker wie Sie.
+
+6
+00:01:38,887 --> 00:01:42,323
+Das erklärte Ziel der Sowjets
+ist der globale Kommunismus.
+
+7
+00:01:43,047 --> 00:01:44,799
+In der Medizin oder der Wirtschaft,
+
+8
+00:01:44,887 --> 00:01:47,003
+in der Technologie oder im Weltraum,
+
+9
+00:01:47,087 --> 00:01:49,157
+die Schlachtlinien wurden gezogen.
+
+10
+00:01:49,727 --> 00:01:52,287
+Um zu siegen, brauchen wir Ergebnisse,
+
+11
+00:01:52,527 --> 00:01:55,360
+die sich veröffentlichen lassen
+und anwendbar sind.
+
+12
+00:01:55,447 --> 00:01:58,200
+Wer unter Ihnen wird also
+der neue Morse werden?
+
+13
+00:01:59,807 --> 00:02:01,365
+Der neue Einstein?
+
+14
+00:02:01,887 --> 00:02:04,560
+Wer unter Ihnen wird
+der Vermittler von Demokratie,
+
+15
+00:02:04,647 --> 00:02:06,683
+Freiheit und Entdeckungen sein?
+
+16
+00:02:07,647 --> 00:02:11,322
+Heute legen wir die Zukunft Amerikas
+in lhre fähigen Hände.
+
+17
+00:02:13,127 --> 00:02:15,197
+Willkommen in Princeton, meine Herren.
+
+18
+00:02:31,807 --> 00:02:34,321
+Hansen reicht das Carnegie-Stipendium nicht,
+
+19
+00:02:34,407 --> 00:02:36,477
+nein, er will einfach alles haben.
+
+20
+00:02:37,207 --> 00:02:40,756
+Zum ersten Mal wurde der Carnegie-Preis
+aufgeteilt. Hansen ist außer sich.
+
+21
+00:02:40,847 --> 00:02:44,999
+Er liebäugelt mit dem Wheeler-Labor,
+der neuen Militär-Denkstube am MIT.
+
+22
+00:02:45,087 --> 00:02:47,282
+Dieses Jahr nehmen sie nur einen auf.
+
+23
+00:02:47,367 --> 00:02:49,164
+Hansen steht immer an erster Stelle.
+
+24
+00:02:49,247 --> 00:02:50,839
+Er ist viel zu gut für Mathematik.
+
+25
+00:02:50,927 --> 00:02:53,361
+Es sollte fürs Präsidentenamt kandidieren.
+
+26
+00:03:02,607 --> 00:03:06,919
+Es sollte mathematisch erklärbar sein,
+wie schrecklich lhre Krawatte aussieht.
+
+27
+00:03:11,407 --> 00:03:12,886
+Danke.
+
+28
+00:03:14,247 --> 00:03:15,885
+Neilson, symbolische Kryptografie.
+
+29
+00:03:15,967 --> 00:03:18,959
+Neils knackte einen japanischen Kode,
+schwächte die Faschisten.
+
+30
+00:03:19,047 --> 00:03:21,925
+Zumindest erzählt er das den Mädels,
+nicht wahr, Neils?
+
+31
+00:03:22,007 --> 00:03:23,998
+Ich heiße Bender. Atomphysik.
+
+32
+00:03:24,087 --> 00:03:26,043
+-Und Sie sind?
+-Komme ich zu spät?
+
+33
+00:03:26,127 --> 00:03:28,925
+-Ja, Herr Sol.
+-Oh, gut. Hallo.
+
+34
+00:03:29,767 --> 00:03:32,327
+-Sol. Richard Sol.
+-Die Last des Genies.
+
+35
+00:03:32,407 --> 00:03:34,477
+-Da ist er.
+-So viele Bittsteller und so wenig Zeit.
+
+36
+00:03:34,527 --> 00:03:36,518
+-Herr Sol.
+-Wie geht es Ihnen?
+
+37
+00:03:36,607 --> 00:03:37,960
+-Bender.
+-Freut mich.
+
+38
+00:03:38,047 --> 00:03:40,436
+-Meinen Glückwunsch, Herr Hansen.
+-Danke.
+
+39
+00:03:40,887 --> 00:03:42,525
+Ich nehme noch eins.
+
+40
+00:03:43,727 --> 00:03:44,876
+Entschuldigung?
+
+41
+00:03:44,967 --> 00:03:47,037
+Verzeihen Sie. Ich hielt Sie für den Kellner.
+
+42
+00:03:47,127 --> 00:03:49,595
+-Nett bleiben.
+-Nettigkeit ist nicht Hansens Stärke.
+
+43
+00:03:49,687 --> 00:03:51,040
+Ein echter Fehler.
+
+44
+00:03:51,127 --> 00:03:53,004
+Nun, Martin Hansen.
+
+45
+00:03:54,127 --> 00:03:55,958
+Sie heißen doch Martin, oder?
+
+46
+00:03:56,047 --> 00:03:57,844
+Nun, ja, John, das stimmt.
+
+47
+00:03:57,927 --> 00:04:01,283
+Ich denke,
+man gewöhnt sich an Fehlkalkulationen.
+
+48
+00:04:03,647 --> 00:04:05,717
+Ich habe lhre Vorabpublikationen gelesen,
+
+49
+00:04:07,207 --> 00:04:08,117
+beide.
+
+50
+00:04:08,207 --> 00:04:09,879
+Die eine über die Nazi-Kodes...
+
+51
+00:04:09,967 --> 00:04:12,606
+und die andere über nicht-lineare Gleichungen,
+
+52
+00:04:12,727 --> 00:04:16,003
+und ich bin zutiefst überzeugt,
+dass keine davon eine fruchtbare...
+
+53
+00:04:16,087 --> 00:04:18,647
+oder innovative Idee enthält.
+
+54
+00:04:21,487 --> 00:04:23,159
+Genießen Sie lhren Punsch.
+
+55
+00:04:27,087 --> 00:04:29,442
+Meine Herren, ich stelle Ihnen John Nash vor,
+
+56
+00:04:29,527 --> 00:04:31,757
+das geheimnisvolle Genie aus West Virginia.
+
+57
+00:04:31,847 --> 00:04:34,725
+Den anderen Gewinner
+des hervorragenden Carnegie-Stipendiums.
+
+58
+00:04:34,807 --> 00:04:36,365
+-OK.
+-Ja?
+
+59
+00:04:36,447 --> 00:04:37,675
+Natürlich.
+
+60
+00:05:07,727 --> 00:05:09,524
+O Gott.
+
+61
+00:05:10,607 --> 00:05:13,167
+Der verlorene Zimmergenosse trifft ein.
+
+62
+00:05:14,047 --> 00:05:15,719
+Zimmergenosse?
+
+63
+00:05:15,807 --> 00:05:17,479
+O Gott, nein.
+
+64
+00:05:19,647 --> 00:05:22,286
+Wussten Sie, dass wenn man einen Kater hat,
+
+65
+00:05:22,767 --> 00:05:25,076
+nicht genug Wasser im Körper vorhanden ist,
+
+66
+00:05:25,167 --> 00:05:27,442
+um den Stoffwechsel in Gang zu halten?
+
+67
+00:05:27,647 --> 00:05:31,242
+Weshalb man auch förmlich vor Durst stirbt.
+
+68
+00:05:31,527 --> 00:05:34,325
+Apropos, vor Durst sterben...
+
+69
+00:05:35,367 --> 00:05:37,358
+Da fühlt man sich bestimmt...
+
+70
+00:05:37,807 --> 00:05:42,005
+so ziemlich, als habe man einen Kater,
+der einen letztlich umbringt.
+
+71
+00:05:44,007 --> 00:05:45,360
+John Nash?
+
+72
+00:05:45,447 --> 00:05:47,005
+Hallo.
+
+73
+00:05:47,207 --> 00:05:48,640
+Charles Herman.
+
+74
+00:05:48,887 --> 00:05:50,445
+Freut mich.
+
+75
+00:05:59,647 --> 00:06:01,444
+In Ordnung! Gut gemacht!
+
+76
+00:06:06,687 --> 00:06:09,645
+Nun, es ist offiziell.
+Ich bin fast wieder ein Mensch.
+
+77
+00:06:10,447 --> 00:06:14,645
+Herr Wachtmeister, ich sah den Fahrer,
+der mich rammte. Er hieß Johnny Walker.
+
+78
+00:06:19,487 --> 00:06:21,921
+Nun, gestern Abend kam ich rechtzeitig...
+
+79
+00:06:22,167 --> 00:06:24,397
+zu den Cocktails der Englisch-Abteilung zurück.
+
+80
+00:06:24,487 --> 00:06:25,681
+Da stand ich meinen Mann,
+
+81
+00:06:25,767 --> 00:06:29,999
+dank der Hilfe eines besonders hübschen Dings
+mit einer Leidenschaft für...
+
+82
+00:06:30,327 --> 00:06:33,842
+D.H. Lawrence.
+Sie sind nicht leicht abzulenken, was?
+
+83
+00:06:33,927 --> 00:06:36,316
+-lch bin hier, um zu arbeiten.
+-Wirklich? Stimmt.
+
+84
+00:06:36,407 --> 00:06:38,125
+Das sehe ich. Herrje!
+
+85
+00:06:47,847 --> 00:06:49,997
+Ist mein Zimmergenosse ein Dummkopf?
+
+86
+00:06:53,687 --> 00:06:55,086
+Hören Sie zu.
+
+87
+00:06:55,287 --> 00:06:57,437
+Da wir das Eis nicht brechen können,
+
+88
+00:06:58,007 --> 00:07:00,077
+warum ertränken wir es dann nicht?
+
+89
+00:07:09,647 --> 00:07:11,524
+Und, was ist lhre Geschichte?
+
+90
+00:07:12,207 --> 00:07:15,882
+Sind Sie das arme Kind,
+das nie Exeter oder Andover besuchen konnte?
+
+91
+00:07:16,407 --> 00:07:18,967
+Trotz privilegierter Erziehung
+bin ich ausgeglichen.
+
+92
+00:07:19,047 --> 00:07:21,561
+Ich habe zwei, die mir ganz schön zusetzen.
+
+93
+00:07:22,807 --> 00:07:26,243
+Vielleicht kommen Sie mit Zahlen
+besser zurecht als mit Leuten.
+
+94
+00:07:26,327 --> 00:07:29,922
+Meine Grundschullehrerin sagte,
+ich sei mit einem zweifachen Hirn,
+
+95
+00:07:30,007 --> 00:07:32,441
+aber mit nur einem halben Herzen geboren.
+
+96
+00:07:33,127 --> 00:07:35,357
+Wow! Die klingt ja reizend!
+
+97
+00:07:36,327 --> 00:07:38,158
+Die Wahrheit ist, dass ich...
+
+98
+00:07:38,247 --> 00:07:40,317
+Ich mag Menschen nicht besonders.
+
+99
+00:07:40,847 --> 00:07:42,360
+Und sie mögen mich nicht besonders.
+
+100
+00:07:42,447 --> 00:07:45,678
+Aber warum? Bei all
+lhrem offensichtlichen Witz und Charme?
+
+101
+00:07:47,807 --> 00:07:49,399
+Im Ernst, John.
+
+102
+00:07:51,087 --> 00:07:52,520
+Mathematik...
+
+103
+00:07:53,567 --> 00:07:56,639
+Mathematik wird Sie nie
+einer höheren Wahrheit nahe bringen.
+
+104
+00:07:56,727 --> 00:07:58,365
+Und wissen Sie, warum?
+
+105
+00:07:58,807 --> 00:08:01,765
+Weil sie langweilig ist.
+Sie ist wirklich langweilig.
+
+106
+00:08:02,447 --> 00:08:06,076
+Wissen Sie, dass die Hälfte
+dieser Schulbuben schon publiziert hat?
+
+107
+00:08:06,247 --> 00:08:08,807
+Ich kann keine Zeit
+mit diesen Kursen und...
+
+108
+00:08:08,927 --> 00:08:10,918
+mit diesen Büchern verschwenden.
+
+109
+00:08:13,247 --> 00:08:17,479
+Indem ich die schwachen Mutmaßungen
+von geringeren Sterblichen auswendig lerne!
+
+110
+00:08:18,567 --> 00:08:20,558
+Ich muss darüber hinaus blicken,
+
+111
+00:08:20,807 --> 00:08:22,763
+auf die herrschenden Dynamiken.
+
+112
+00:08:26,647 --> 00:08:28,638
+Eine wirklich originelle Idee haben.
+
+113
+00:08:28,727 --> 00:08:31,082
+Nur so kann ich mich hervorheben.
+
+114
+00:08:31,167 --> 00:08:33,761
+-Nur so kann ich jemals...
+-Wichtig sein.
+
+115
+00:08:36,527 --> 00:08:38,085
+Ja.
+
+116
+00:08:39,807 --> 00:08:42,605
+-Wer ist jetzt dran?
+-Für einen Tag habe ich genug gespielt.
+
+117
+00:08:42,687 --> 00:08:44,359
+-Komm schon.
+-lch hasse dieses Spiel.
+
+118
+00:08:44,447 --> 00:08:46,039
+Feiglinge, alle von euch!
+
+119
+00:08:46,127 --> 00:08:48,197
+Will niemand meine Herausforderung annehmen?
+
+120
+00:08:48,287 --> 00:08:51,677
+Na los, Bender. Dem Gewinner macht
+Sol die Wäsche, das ganze Semester.
+
+121
+00:08:51,767 --> 00:08:54,645
+-Erscheint das jemandem unfair?
+-Überhaupt nicht.
+
+122
+00:08:56,767 --> 00:08:58,644
+-Seht ihn nur!
+-Nash!
+
+123
+00:08:58,727 --> 00:09:00,479
+Machen Sie einen Rückwärts-Spaziergang?
+
+124
+00:09:00,567 --> 00:09:04,242
+Ich will einen Algorithmus erstellen,
+der ihre Bewegungen definiert.
+
+125
+00:09:08,687 --> 00:09:09,881
+Durchgeknallt.
+
+126
+00:09:10,847 --> 00:09:14,123
+Nash, ich dachte, Sie wären fort.
+Sie besuchen nie einen Kurs oder...
+
+127
+00:09:14,207 --> 00:09:16,402
+Kurse vernebeln das Denken.
+
+128
+00:09:16,967 --> 00:09:19,527
+Sie zerstören das Potential für echte Kreativität.
+
+129
+00:09:19,607 --> 00:09:21,199
+Das wusste ich nicht.
+
+130
+00:09:21,287 --> 00:09:24,006
+Nash wird uns alle mit seinem Genie verblüffen.
+
+131
+00:09:24,087 --> 00:09:28,160
+Mit anderen Worten, er hat nicht die Nerven,
+sich der Konkurrenz zu stellen.
+
+132
+00:09:29,247 --> 00:09:30,441
+Haben Sie Angst?
+
+133
+00:09:30,527 --> 00:09:33,041
+Schreckliche. Todesangst.
+Bin wie versteinert.
+
+134
+00:09:33,127 --> 00:09:34,958
+Sie verwirren mich zutiefst.
+
+135
+00:09:35,887 --> 00:09:37,240
+Nicht gestärkt.
+
+136
+00:09:37,327 --> 00:09:39,238
+Gemangelt und gefaltet.
+
+137
+00:09:42,047 --> 00:09:44,117
+Ich möchte Sie etwas fragen, John.
+
+138
+00:09:44,287 --> 00:09:45,606
+Bitte, nur zu, Martin.
+
+139
+00:09:45,687 --> 00:09:49,600
+Bender und Sol haben Allens Prüfung
+von Perrons Theorien korrekt vervollständigt.
+
+140
+00:09:49,687 --> 00:09:51,279
+Eine adäquate Arbeit...
+
+141
+00:09:52,047 --> 00:09:53,685
+ohne jegliche Innovation.
+
+142
+00:09:53,767 --> 00:09:56,327
+-lch bin geschmeichelt. Und Sie?
+-Geschmeichelt.
+
+143
+00:09:56,407 --> 00:10:00,480
+Und das Verteidigungsministerium prüft gerade
+zwei Waffenvorschläge von mir.
+
+144
+00:10:00,647 --> 00:10:02,444
+Abgeleiteter Blödsinn.
+
+145
+00:10:03,887 --> 00:10:06,640
+Aber Nashs Leistungen: null.
+
+146
+00:10:06,727 --> 00:10:10,402
+Ich bin ein geduldiger Mann, Martin.
+Folgt noch eine richtige Frage?
+
+147
+00:10:11,247 --> 00:10:14,637
+Was, wenn Sie nie mit lhrer originellen Idee
+aufwarten können?
+
+148
+00:10:16,327 --> 00:10:19,683
+Wie fühlen Sie sich dann,
+wenn ich für Wheeler ausgewählt werde...
+
+149
+00:10:19,767 --> 00:10:21,120
+und Sie nicht?
+
+150
+00:10:24,367 --> 00:10:26,005
+Was, wenn Sie verlieren?
+
+151
+00:10:36,767 --> 00:10:38,837
+Sie hätten nicht gewinnen dürfen.
+
+152
+00:10:39,367 --> 00:10:41,835
+Ich machte den ersten Zug
+und mein Spiel war perfekt.
+
+153
+00:10:41,927 --> 00:10:43,565
+Die Hybris der Geschlagenen.
+
+154
+00:10:43,647 --> 00:10:45,319
+Das Spiel ist fehlerhaft.
+
+155
+00:10:51,487 --> 00:10:54,320
+Meine Herren, der große John Nash.
+
+156
+00:11:00,487 --> 00:11:02,921
+Sie waren zwei Tage hier drin.
+
+157
+00:11:05,567 --> 00:11:08,161
+Hansen hat noch eine Arbeit veröffentlicht.
+
+158
+00:11:08,247 --> 00:11:11,319
+Ich finde nicht einmal ein Thema
+für meine Doktorarbeit.
+
+159
+00:11:12,527 --> 00:11:15,564
+Das Gute ist,
+dass Sie die Fensterkunst erfunden haben.
+
+160
+00:11:17,447 --> 00:11:20,166
+Das ist eine Gruppe, die Touch Football spielt.
+
+161
+00:11:20,247 --> 00:11:23,478
+Das ist eine Horde Tauben,
+die um Brotkrumen kämpft.
+
+162
+00:11:25,607 --> 00:11:29,805
+Und das ist eine Frau, die einen Mann verfolgt,
+der ihre Tasche gestohlen hat.
+
+163
+00:11:30,127 --> 00:11:32,118
+John, Sie haben einen Raub beobachtet.
+
+164
+00:11:32,207 --> 00:11:33,560
+Das ist seltsam.
+
+165
+00:11:33,687 --> 00:11:36,201
+Wo es Konkurrenz gibt, verliert immer jemand.
+
+166
+00:11:36,287 --> 00:11:39,677
+Das weiß auch meine Nichte, John,
+und sie ist etwa so groß.
+
+167
+00:11:39,767 --> 00:11:42,235
+Könnte ich nur eine Gleichung entwickeln,
+
+168
+00:11:42,887 --> 00:11:45,924
+wo der bestimmende Faktor
+ein nicht einmaliges Ereignis ist...
+
+169
+00:11:46,007 --> 00:11:47,645
+und wo niemand verliert.
+
+170
+00:11:47,967 --> 00:11:51,039
+Die Wirkung,
+die das auf Konfliktsituationen hätte...
+
+171
+00:11:51,127 --> 00:11:53,038
+Wann haben Sie zuletzt gegessen?
+
+172
+00:11:53,127 --> 00:11:55,595
+-Wann aßen Sie zuletzt etwas?
+-Auf die Wechselkurse?
+
+173
+00:11:55,687 --> 00:11:57,359
+Sie wissen schon, Nahrung.
+
+174
+00:11:58,847 --> 00:12:01,407
+Sie haben keinen Respekt
+vor kognitiver Träumerei.
+
+175
+00:12:01,487 --> 00:12:03,762
+Ja, aber vor Pizza...
+
+176
+00:12:05,367 --> 00:12:07,881
+Also vor Pizza habe ich enormen Respekt.
+
+177
+00:12:09,647 --> 00:12:11,603
+Und natürlich vor Bier.
+
+178
+00:12:17,127 --> 00:12:18,958
+Ich habe Respekt vor Bier.
+
+179
+00:12:20,287 --> 00:12:22,243
+Ich habe Respekt vor Bier!
+
+180
+00:12:30,207 --> 00:12:32,198
+-Guten Abend, Neils.
+-He, Nash.
+
+181
+00:12:32,287 --> 00:12:34,039
+Wer gewinnt? Sie oder Sie?
+
+182
+00:12:34,727 --> 00:12:37,321
+-Guten Abend, Nash.
+-He, Leute. He, Nash.
+
+183
+00:12:39,247 --> 00:12:41,442
+Er sucht sicherlich Sie.
+
+184
+00:12:45,887 --> 00:12:47,240
+He, Nash.
+
+185
+00:12:47,327 --> 00:12:49,636
+Neils versucht, lhre Aufmerksamkeit zu erregen.
+
+186
+00:12:49,727 --> 00:12:51,445
+-Sie machen Witze.
+-O nein.
+
+187
+00:12:56,727 --> 00:12:59,480
+-Gehen Sie mit Gott.
+-Kommen Sie zurück als Mann.
+
+188
+00:13:00,167 --> 00:13:02,761
+-Wer wagt, gewinnt.
+-An die Arbeit.
+
+189
+00:13:05,087 --> 00:13:08,523
+Meine Herren, ich möchte Sie erinnern,
+dass meine Chancen auf Erfolg...
+
+190
+00:13:08,607 --> 00:13:10,837
+mit jedem Versuch dramatisch steigen.
+
+191
+00:13:19,367 --> 00:13:21,358
+Das wird ein Klassiker.
+
+192
+00:13:50,647 --> 00:13:53,525
+Vielleicht wollen Sie mich
+zu einem Drink einladen?
+
+193
+00:13:57,687 --> 00:13:59,837
+Ich weiß nicht, was ich sagen soll,
+
+194
+00:13:59,927 --> 00:14:02,395
+damit Sie mit mir verkehren,
+aber könnten wir...
+
+195
+00:14:02,487 --> 00:14:05,206
+vielleicht annehmen,
+ich hätte das Erforderliche gesagt?
+
+196
+00:14:05,287 --> 00:14:08,120
+Im Grunde reden wir ja
+über den Austausch von Flüssigkeiten.
+
+197
+00:14:08,207 --> 00:14:10,675
+Also, könnten wir gleich zum Sex übergehen?
+
+198
+00:14:11,847 --> 00:14:13,644
+Oh, das war süß.
+
+199
+00:14:14,527 --> 00:14:16,518
+Gute Nacht, Arschloch!
+
+200
+00:14:17,007 --> 00:14:18,645
+Meine Damen, warten Sie!
+
+201
+00:14:20,527 --> 00:14:24,236
+Mir gefiel besonders das
+mit dem Flüssigkeitsaustausch. Das war...
+
+202
+00:14:24,887 --> 00:14:26,559
+wirklich charmant.
+
+203
+00:14:30,647 --> 00:14:32,160
+Gehen wir ein paar Schritte, John.
+
+204
+00:14:32,247 --> 00:14:34,602
+Ich wollte mit Ihnen reden.
+
+205
+00:14:34,767 --> 00:14:38,237
+Die Fakultät macht die Zwischenberichte fertig.
+
+206
+00:14:38,327 --> 00:14:41,046
+Wir entscheiden,
+welche Bewerbungen wir fördern wollen.
+
+207
+00:14:41,127 --> 00:14:43,402
+Wheeler, Sir. Das wäre meine erste Wahl.
+
+208
+00:14:43,487 --> 00:14:46,126
+Eigentlich kommt für mich
+keine zweite Wahl in Frage.
+
+209
+00:14:46,207 --> 00:14:50,280
+lhre Kollegen haben Kurse besucht.
+Sie haben Arbeiten erstellt. Und veröffentlicht.
+
+210
+00:14:50,367 --> 00:14:52,119
+Ich suche noch, Sir, nach meiner...
+
+211
+00:14:52,207 --> 00:14:54,437
+-Originellen Idee.
+-Regulierende Dynamiken, Sir.
+
+212
+00:14:54,527 --> 00:14:58,361
+Das ist sehr schlau, John, aber ich fürchte,
+bei weitem nicht gut genug.
+
+213
+00:15:04,207 --> 00:15:05,959
+-Gestatten Sie?
+-Danke.
+
+214
+00:15:06,127 --> 00:15:07,924
+Ich arbeite am Ursprung von Faktoren.
+
+215
+00:15:08,007 --> 00:15:10,237
+Meine Handelsstrategien
+sind viel versprechend.
+
+216
+00:15:10,327 --> 00:15:13,524
+Würden Sie nur noch ein Treffen
+mit Professor Einstein arrangieren.
+
+217
+00:15:13,607 --> 00:15:15,598
+Ich habe Sie wiederholt darum gebeten.
+
+218
+00:15:15,687 --> 00:15:17,962
+Ich könnte ihm meine Revisionen zu seiner...
+
+219
+00:15:18,047 --> 00:15:19,275
+John.
+
+220
+00:15:21,207 --> 00:15:23,767
+Sehen Sie, was die da drinnen machen?
+
+221
+00:15:26,087 --> 00:15:28,282
+Meinen Glückwunsch, Professor Max.
+
+222
+00:15:28,367 --> 00:15:30,881
+Danke, Sir. Ich danke Ihnen.
+
+223
+00:15:32,007 --> 00:15:33,679
+Es sind die Füllfederhalter.
+
+224
+00:15:33,767 --> 00:15:38,079
+Das ist den Mitgliedern der Abteilung
+vorbehalten, für eine einmalige Leistung.
+
+225
+00:15:38,167 --> 00:15:39,964
+Was sehen Sie, John?
+
+226
+00:15:41,087 --> 00:15:42,725
+Anerkennung.
+
+227
+00:15:43,447 --> 00:15:45,597
+Gut gemacht, Herr Professor.
+
+228
+00:15:45,687 --> 00:15:47,996
+Versuchen Sie, Fertigkeiten zu sehen.
+
+229
+00:15:48,087 --> 00:15:49,964
+Gibt es da einen Unterschied?
+
+230
+00:15:51,687 --> 00:15:53,757
+Sie haben nicht genau hingesehen.
+
+231
+00:15:55,047 --> 00:15:59,643
+Tut mir Leid, aber bisher rechtfertigen
+lhre Leistungen keinen Platz.
+
+232
+00:16:03,407 --> 00:16:05,125
+Guten Tag.
+
+233
+00:16:14,727 --> 00:16:16,683
+Und ich gratuliere Ihnen, Sir.
+
+234
+00:16:17,127 --> 00:16:18,685
+Herzlichen Dank.
+
+235
+00:16:35,327 --> 00:16:36,965
+Ich kann es nicht sehen.
+
+236
+00:16:44,007 --> 00:16:45,645
+Herrgott, John.
+
+237
+00:16:46,847 --> 00:16:48,280
+Ich darf nicht versagen.
+
+238
+00:16:48,367 --> 00:16:50,961
+-Das ist alles, was ich bin.
+-Komm, gehen wir raus.
+
+239
+00:16:51,047 --> 00:16:52,878
+Ich muss etwas zu Ende bringen.
+
+240
+00:16:52,967 --> 00:16:56,118
+-lch kann nicht länger ins Leere starren.
+-John, das reicht.
+
+241
+00:16:56,207 --> 00:17:00,246
+Ich muss mich anpassen,
+ihre Regeln befolgen, ihre Bücher lesen,
+
+242
+00:17:00,327 --> 00:17:02,318
+ihre Kurse besuchen.
+
+243
+00:17:02,487 --> 00:17:05,206
+Komm schon! Los, schlag dir den Kopf ein!
+Bring dich um.
+
+244
+00:17:05,567 --> 00:17:07,842
+Tu das nicht. Mach keinen Unsinn.
+
+245
+00:17:07,927 --> 00:17:11,522
+Schlag dir den Kopf ein!
+Hau dir ein Loch in den wertlosen Kopf.
+
+246
+00:17:11,607 --> 00:17:14,644
+Verdammt, Charles!
+Was zum Teufel ist dein Problem?
+
+247
+00:17:17,607 --> 00:17:19,325
+Es ist nicht mein Problem.
+
+248
+00:17:21,167 --> 00:17:23,078
+Und es ist nicht dein Problem.
+
+249
+00:17:26,167 --> 00:17:27,759
+Es ist ihr Problem.
+
+250
+00:17:27,967 --> 00:17:30,925
+Die Antwort liegt nicht im "Anpassen".
+
+251
+00:17:31,607 --> 00:17:33,086
+Sie liegt da draußen,
+
+252
+00:17:33,607 --> 00:17:35,484
+wo du gearbeitet hast.
+
+253
+00:17:55,567 --> 00:17:57,159
+Das war schwer.
+
+254
+00:18:00,607 --> 00:18:02,837
+Dieser Typ, Isaac Newton, hatte Recht.
+
+255
+00:18:02,927 --> 00:18:05,566
+-Der hatte einen guten Einfall.
+-Schlauer Kopf.
+
+256
+00:18:05,887 --> 00:18:09,118
+Keine Sorge, das gehört mir.
+Ich komme gleich und hole es.
+
+257
+00:18:14,727 --> 00:18:16,558
+Da kommen sie, meine Herren.
+
+258
+00:18:21,607 --> 00:18:23,120
+Atmen Sie tief durch.
+
+259
+00:18:23,767 --> 00:18:28,124
+Nash, vielleicht hören Sie für fünf Sekunden
+auf, lhre Unterlagen zu durchstöbern.
+
+260
+00:18:31,567 --> 00:18:33,398
+Ich werde Ihnen kein Bier ausgeben.
+
+261
+00:18:33,487 --> 00:18:36,240
+Oh, uns geht es hier nicht ums Bier,
+mein Freund.
+
+262
+00:18:40,327 --> 00:18:43,524
+Meint noch jemand,
+sie sollte sich in Zeitlupe bewegen?
+
+263
+00:18:44,047 --> 00:18:46,083
+Ob sie wohl auf eine große Hochzeit aus ist?
+
+264
+00:18:46,167 --> 00:18:48,237
+Sagen wir Degen? Pistolen bei Morgengrauen?
+
+265
+00:18:48,327 --> 00:18:50,283
+Haben Sie denn alles vergessen?
+
+266
+00:18:50,687 --> 00:18:52,882
+Erinnern Sie sich an die Lehren
+von Adam Smith,
+
+267
+00:18:52,967 --> 00:18:55,276
+dem Vater der modernen Volkswirtschaft.
+
+268
+00:18:55,607 --> 00:18:59,441
+"lm Wettbewerb dienen die individuellen
+Anstrengungen einem gemeinsamen Wohl."
+
+269
+00:18:59,527 --> 00:19:01,404
+Jeder ist auf sich gestellt, meine Herren.
+
+270
+00:19:01,487 --> 00:19:03,955
+Die Verlierer bleiben
+an ihren Freundinnen hängen.
+
+271
+00:19:04,047 --> 00:19:05,639
+Ich werde nicht verlieren.
+
+272
+00:19:05,727 --> 00:19:08,685
+Sie können sie zur Tränke führen,
+aber darum trinkt sie nicht.
+
+273
+00:19:08,767 --> 00:19:10,166
+Keiner bewegt sich.
+
+274
+00:19:10,247 --> 00:19:12,886
+Sie sieht hier herüber. Sie sieht Nash an.
+
+275
+00:19:13,087 --> 00:19:15,237
+O Gott. Jetzt hat er noch einen Vorteil,
+
+276
+00:19:15,327 --> 00:19:17,283
+aber warten Sie, bis er den Mund öffnet.
+
+277
+00:19:17,367 --> 00:19:19,198
+Erinnern Sie sich ans letzte Mal?
+
+278
+00:19:19,287 --> 00:19:21,437
+Das ging in die Geschichte ein.
+
+279
+00:19:27,687 --> 00:19:30,838
+-Adam Smith sollte mal überholt werden.
+-Wovon reden Sie?
+
+280
+00:19:32,007 --> 00:19:34,521
+Wenn wir uns alle auf die Blondine stürzen,
+
+281
+00:19:38,487 --> 00:19:40,205
+blockieren wir einander nur.
+
+282
+00:19:40,287 --> 00:19:43,120
+Kein einziger von uns wird an sie herankommen.
+
+283
+00:19:43,807 --> 00:19:46,241
+Dann wenden wir uns ihren Freundinnen zu,
+
+284
+00:19:47,327 --> 00:19:52,003
+aber die werden uns die kalte Schulter zeigen,
+weil niemand gerne die zweite Wahl ist.
+
+285
+00:19:52,087 --> 00:19:54,681
+Also was, wenn niemand die Blondine beachtet?
+
+286
+00:19:56,287 --> 00:19:58,403
+Wir kommen uns nicht in die Quere...
+
+287
+00:19:58,567 --> 00:20:01,365
+und wir beleidigen auch nicht
+die anderen Mädchen.
+
+288
+00:20:02,207 --> 00:20:05,005
+Das ist der einzige Weg,
+wie wir gewinnen können.
+
+289
+00:20:06,287 --> 00:20:09,085
+Der einzige Weg, wie wir alle flachgelegt werden.
+
+290
+00:20:13,407 --> 00:20:15,079
+Adam Smith sagte:
+
+291
+00:20:15,287 --> 00:20:17,403
+"Die besten Ergebnisse erzielt man,
+
+292
+00:20:18,087 --> 00:20:21,159
+"wenn alle in der Gruppe
+ihren eigenen Vorteil anstreben."
+
+293
+00:20:21,247 --> 00:20:23,807
+Stimmt. Unvollständig. OK?
+
+294
+00:20:24,567 --> 00:20:27,001
+Denn die besten Ergebnisse erzielt man,
+
+295
+00:20:28,207 --> 00:20:30,163
+wenn alle in der Gruppe...
+
+296
+00:20:30,247 --> 00:20:32,363
+ihren eigenen Vorteil anstreben...
+
+297
+00:20:33,047 --> 00:20:34,162
+und den der Gruppe.
+
+298
+00:20:34,247 --> 00:20:37,205
+Wenn Sie damit die Blondine kriegen wollen,
+seien Sie verdammt.
+
+299
+00:20:37,287 --> 00:20:40,563
+Regulierende Dynamiken. Adam Smith...
+
+300
+00:20:42,007 --> 00:20:43,679
+irrte sich.
+
+301
+00:20:43,767 --> 00:20:46,042
+-Jetzt geht's los.
+-Vorsicht, Vorsicht.
+
+302
+00:20:48,567 --> 00:20:49,841
+Danke.
+
+303
+00:21:01,527 --> 00:21:04,087
+"C" aus "S" ist gleich "C" aus "T".
+
+304
+00:22:04,447 --> 00:22:07,883
+Ist Ihnen bewusst, dass das
+150 Jahre Wirtschaftstheorie umkehrt?
+
+305
+00:22:07,967 --> 00:22:09,036
+Ja, das weiß ich, Sir.
+
+306
+00:22:09,127 --> 00:22:12,244
+-Das ist ein bisschen anmaßend, nicht?
+-Das ist es, Sir.
+
+307
+00:22:19,127 --> 00:22:20,879
+Nun, Herr Nash,
+
+308
+00:22:21,447 --> 00:22:23,961
+bei einem Durchbruch dieser Größenordnung...
+
+309
+00:22:24,087 --> 00:22:28,080
+bin ich zuversichtlich, dass Sie jeden Posten
+bekommen, den Sie anstreben.
+
+310
+00:22:33,607 --> 00:22:35,279
+Das Wheeler-Labor...
+
+311
+00:22:36,167 --> 00:22:38,840
+wird Sie bitten, zwei Teamkollegen zu empfehlen.
+
+312
+00:22:42,607 --> 00:22:44,598
+Stills und Frank sind eine exzellente Wahl.
+
+313
+00:22:44,687 --> 00:22:46,484
+Sol und Bender, Sir.
+
+314
+00:22:46,567 --> 00:22:50,003
+Sol und Bender sind
+außerordentliche Mathematiker.
+
+315
+00:22:50,087 --> 00:22:54,399
+Haben Sie bedacht, dass Sol und Bender
+vielleicht eigene Pläne haben?
+
+316
+00:22:58,007 --> 00:22:59,360
+Wir haben es geschafft!
+
+317
+00:22:59,447 --> 00:23:01,438
+Wheeler, wir haben es geschafft!
+
+318
+00:23:02,167 --> 00:23:04,044
+Prost, Prost, Prost!
+
+319
+00:23:06,287 --> 00:23:08,926
+OK, das ist ein seltsamer Moment,
+meine Herren.
+
+320
+00:23:32,207 --> 00:23:33,845
+Regulierende Dynamiken.
+
+321
+00:23:36,807 --> 00:23:38,240
+Meinen Glückwunsch, John.
+
+322
+00:23:38,327 --> 00:23:41,239
+-Zum Wohl! Auf das Wheeler-Labor!
+-Auf Wheeler!
+
+323
+00:23:51,767 --> 00:23:54,884
+DAS PENTAGON 1953 - FÜNF JAHRE SPÄTER
+
+324
+00:24:05,047 --> 00:24:07,641
+Herr General,
+der Analytiker des Wheeler-Labors ist da.
+
+325
+00:24:07,727 --> 00:24:09,399
+Dr. Nash, lhr Mantel?
+
+326
+00:24:09,487 --> 00:24:10,806
+Danke, Sir.
+
+327
+00:24:12,527 --> 00:24:15,121
+Das ist der Leiter
+des Wheeler-Teams, Dr. John Nash.
+
+328
+00:24:15,207 --> 00:24:17,801
+-Gut, dass Sie kommen konnten, Doktor.
+-Hallo.
+
+329
+00:24:18,767 --> 00:24:20,200
+Hier entlang.
+
+330
+00:24:20,607 --> 00:24:23,917
+Wir haben Funkübertragungen
+aus Moskau aufgefangen.
+
+331
+00:24:24,807 --> 00:24:28,482
+Der Computer kann kein Muster erkennen,
+aber es ist sicher ein Kode.
+
+332
+00:24:28,887 --> 00:24:30,479
+Warum das, Herr General?
+
+333
+00:24:31,007 --> 00:24:33,567
+Haben Sie je etwas einfach gewusst,
+Dr. Nash?
+
+334
+00:24:35,607 --> 00:24:36,960
+Andauernd.
+
+335
+00:24:39,287 --> 00:24:41,676
+Wir haben verschiedene Kodes entwickelt.
+
+336
+00:24:43,007 --> 00:24:45,646
+Möchten Sie unsere bisherigen Daten einsehen?
+
+337
+00:24:47,687 --> 00:24:49,040
+-Herr Doktor?
+-6-7-3-7.
+
+338
+00:24:50,327 --> 00:24:52,204
+0-3-6...
+
+339
+00:25:05,247 --> 00:25:07,158
+8-4-9-4.
+
+340
+00:25:35,687 --> 00:25:37,678
+9-1-4-0-3-4.
+
+341
+00:25:54,727 --> 00:25:56,365
+Ich brauche eine Karte.
+
+342
+00:25:58,647 --> 00:26:02,435
+46-13-08, 67-46-90.
+
+343
+00:26:04,767 --> 00:26:06,405
+Starkey Corners, Maine.
+
+344
+00:26:07,607 --> 00:26:09,325
+48-03-01.
+
+345
+00:26:09,407 --> 00:26:12,205
+91-26-35.
+
+346
+00:26:13,287 --> 00:26:15,005
+Prairie Portage, Minnesota.
+
+347
+00:26:15,367 --> 00:26:17,642
+Das sind die Längen- und Breitengrade.
+
+348
+00:26:17,807 --> 00:26:19,399
+Da sind mindestens noch zehn andere.
+
+349
+00:26:19,487 --> 00:26:23,400
+Es scheinen Anweisungen zu sein,
+wie man die Grenze in die USA überquert.
+
+350
+00:26:24,047 --> 00:26:25,526
+Außerordentlich.
+
+351
+00:26:26,327 --> 00:26:29,205
+Meine Herren, wir müssen rasch handeln.
+
+352
+00:26:31,327 --> 00:26:35,206
+-Wer ist der Große Bruder?
+-Sie haben lhrem Land einen Dienst erwiesen.
+
+353
+00:26:35,687 --> 00:26:37,279
+-Captain!
+-Jawohl.
+
+354
+00:26:38,687 --> 00:26:40,917
+Begleiten Sie Dr. Nash.
+
+355
+00:26:41,047 --> 00:26:43,322
+Was haben die Russen vor, Herr General?
+
+356
+00:26:44,207 --> 00:26:47,404
+Captain Rogers wird Sie
+aus der Sperrzone führen, Herr Doktor.
+
+357
+00:26:47,487 --> 00:26:48,556
+Danke.
+
+358
+00:26:49,327 --> 00:26:51,557
+Dr. Nash, folgen Sie mir bitte.
+
+359
+00:26:58,167 --> 00:27:01,125
+Keiner von denen, die sagten,
+ihnen gefiele die Methode nicht,
+
+360
+00:27:01,207 --> 00:27:05,086
+nannte uns eine andere anwendbare Methode,
+die wirkungsvoll wäre.
+
+361
+00:27:05,967 --> 00:27:07,958
+-Das ist Dr. Nash.
+-ln Ordnung.
+
+362
+00:27:14,087 --> 00:27:17,762
+WHEELER, LABOR DES VERTEIDIGUNGSMIN.
+CAMPUS DES MIT
+
+363
+00:27:21,847 --> 00:27:23,997
+-Danke, Sir.
+-Wie war's im Pentagon?
+
+364
+00:27:24,087 --> 00:27:27,602
+Haben sie wirklich das Wort
+"geheim" aus dem Wörterbuch gestrichen?
+
+365
+00:27:27,687 --> 00:27:29,803
+Hallo. Die Klimaanlage streikt mal wieder.
+
+366
+00:27:29,887 --> 00:27:32,924
+Wie soll ich hier drinnen die Welt retten,
+wenn ich zerschmelze?
+
+367
+00:27:33,007 --> 00:27:34,884
+Unsere Herzen fühlen mit dir.
+
+368
+00:27:35,247 --> 00:27:37,966
+Zwei Reisen zum Pentagon in vier Jahren.
+
+369
+00:27:38,047 --> 00:27:40,515
+-Das sind zwei mehr, als wir machten.
+-Es wird besser.
+
+370
+00:27:40,607 --> 00:27:43,565
+Wir erhielten
+unseren neuesten schillernden Auftrag.
+
+371
+00:27:43,687 --> 00:27:47,760
+Sie wissen, die Russen haben die H-Bombe,
+die Nazis repatriieren Südafrika,
+
+372
+00:27:47,847 --> 00:27:50,805
+die Chinesen haben ein stehendes Heer
+von 2,8 Millionen...
+
+373
+00:27:50,887 --> 00:27:53,720
+und ich unterziehe einen Damm
+einem Belastungstest.
+
+374
+00:27:54,287 --> 00:27:56,562
+Du bist wieder auf dem Titelblatt
+der Fortune.
+
+375
+00:27:56,647 --> 00:27:59,719
+Bitte beachte den Gebrauch des Wortes "du",
+nicht "wir".
+
+376
+00:28:00,407 --> 00:28:02,398
+Da sollte nur ich sein.
+
+377
+00:28:05,207 --> 00:28:07,402
+Sie beraubten mich
+der Fields-Auszeichnung und...
+
+378
+00:28:07,487 --> 00:28:10,684
+nun muss ich mir auch noch das Titelblatt
+mit diesen Hackern teilen,
+
+379
+00:28:10,767 --> 00:28:12,485
+diesen Schülern der Banalität.
+
+380
+00:28:12,567 --> 00:28:16,242
+Was genau ist der Unterschied
+zwischen Genie und dem höchsten Genie?
+
+381
+00:28:16,927 --> 00:28:18,280
+Eine ganze Menge.
+
+382
+00:28:18,767 --> 00:28:21,725
+Er ist dein Sohn.
+Jedenfalls hast du zehn Minuten.
+
+383
+00:28:21,807 --> 00:28:24,879
+-lch habe immer zehn Minuten.
+-Bis zu deinem neuen Kurs?
+
+384
+00:28:31,047 --> 00:28:34,039
+Kann ich keine Krankschreibung
+von einem Arzt bekommen oder so?
+
+385
+00:28:34,127 --> 00:28:36,561
+Du bist selbst ein Doktor, John, und nein.
+
+386
+00:28:36,847 --> 00:28:39,566
+Du kennst die Regeln,
+wir kriegen die schöne Einrichtung...
+
+387
+00:28:39,647 --> 00:28:43,606
+und das MIT Amerikas größte Denker,
+die die großen Denker von morgen unterrichten.
+
+388
+00:28:43,687 --> 00:28:46,838
+-Arme Schweine.
+-Also, einen schönen Schultag.
+
+389
+00:28:47,047 --> 00:28:48,446
+Die Glocke läutet.
+
+390
+00:29:09,327 --> 00:29:11,716
+Die strebsamen jungen Denker von morgen.
+
+391
+00:29:21,087 --> 00:29:24,875
+Können wir eins geöffnet lassen, Herr Professor?
+Es ist wirklich heiß.
+
+392
+00:29:26,287 --> 00:29:30,758
+lhr Wohlbefinden steht hinter meiner Fähigkeit
+zurück, meine eigene Stimme zu hören.
+
+393
+00:29:35,087 --> 00:29:36,440
+Ich persönlich...
+
+394
+00:29:37,207 --> 00:29:40,916
+denke, dieser Kurs
+wird eine Verschwendung lhrer und,
+
+395
+00:29:41,007 --> 00:29:42,918
+was weit schlimmer ist,
+
+396
+00:29:44,327 --> 00:29:45,680
+meiner Zeit sein.
+
+397
+00:29:47,407 --> 00:29:49,967
+Dennoch, da sind wir also.
+
+398
+00:29:50,047 --> 00:29:52,845
+Also passen Sie auf oder auch nicht.
+
+399
+00:29:53,927 --> 00:29:56,566
+Sie können lhre Aufgaben machen,
+wie Sie wollen.
+
+400
+00:29:56,647 --> 00:29:58,080
+Wir haben begonnen.
+
+401
+00:30:00,927 --> 00:30:01,962
+Fräulein.
+
+402
+00:30:05,367 --> 00:30:06,766
+Entschuldigen Sie!
+
+403
+00:30:07,287 --> 00:30:09,357
+Entschuldigen Sie!
+
+404
+00:30:09,607 --> 00:30:10,517
+Hallo!
+
+405
+00:30:12,527 --> 00:30:13,880
+Wir haben ein kleines Problem.
+
+406
+00:30:13,967 --> 00:30:16,640
+Es ist extrem heiß hier drinnen,
+wenn die Fenster zu sind,
+
+407
+00:30:16,727 --> 00:30:19,002
+und extrem laut, wenn sie offen sind.
+
+408
+00:30:19,087 --> 00:30:21,555
+Ich fragte mich, ob es wohl möglich wäre,
+
+409
+00:30:21,647 --> 00:30:25,401
+ich weiß nicht, vielleicht anderswo zu arbeiten,
+etwa für 45 Minuten?
+
+410
+00:30:25,487 --> 00:30:28,081
+-Kein Problem.
+-Danke vielmals!
+
+411
+00:30:28,167 --> 00:30:29,998
+-Pause!
+-Verstanden!
+
+412
+00:30:30,247 --> 00:30:32,715
+Legen wir los. Machen wir etwas sauber.
+
+413
+00:30:34,567 --> 00:30:37,923
+In Berechnungen mit vielen Variablen
+gibt es oft...
+
+414
+00:30:38,887 --> 00:30:42,118
+eine Reihe von Lösungen für jedes Problem,
+das sich stellt.
+
+415
+00:30:45,167 --> 00:30:47,476
+Wie ich sagte, wird das Problem hier...
+
+416
+00:30:48,207 --> 00:30:50,960
+einige von Ihnen Monate kosten,
+bis sie es lösen.
+
+417
+00:30:51,447 --> 00:30:53,085
+Für andere unter Ihnen...
+
+418
+00:30:54,567 --> 00:30:57,445
+wird es eine lebenslange Aufgabe sein.
+
+419
+00:31:10,567 --> 00:31:11,841
+Professor Nash.
+
+420
+00:31:24,967 --> 00:31:26,480
+William Parcher.
+
+421
+00:31:27,327 --> 00:31:28,680
+Der große Bruder,
+
+422
+00:31:30,287 --> 00:31:31,720
+zu lhren Diensten.
+
+423
+00:31:32,007 --> 00:31:34,760
+Was kann ich
+für das Verteidigungsministerium tun?
+
+424
+00:31:34,847 --> 00:31:38,237
+-Wollen Sie mein Gehalt erhöhen?
+-Gehen wir ein paar Schritte.
+
+425
+00:31:39,207 --> 00:31:42,119
+-Eindrucksvolle Arbeit im Pentagon.
+-Ja, das war es.
+
+426
+00:31:42,327 --> 00:31:45,922
+Oppenheimer sagte immer: "Ein Genie
+sieht die Antwort noch vor der Frage."
+
+427
+00:31:46,007 --> 00:31:47,645
+Sie kannten Oppenheimer?
+
+428
+00:31:47,927 --> 00:31:50,236
+Sein Projekt unterstand meiner Leitung.
+
+429
+00:31:50,727 --> 00:31:52,046
+Welches Projekt?
+
+430
+00:31:55,087 --> 00:31:57,840
+-Das Projekt.
+-So einfach ist es nicht, wissen Sie?
+
+431
+00:31:57,927 --> 00:31:59,406
+Nun, Sie haben den Krieg beendet.
+
+432
+00:31:59,487 --> 00:32:02,877
+Wir haben 150.000 Menschen
+in einer Sekunde eingeäschert.
+
+433
+00:32:02,967 --> 00:32:05,686
+Große Taten tragen hohe Kosten,
+Herr Parcher.
+
+434
+00:32:06,767 --> 00:32:11,761
+Es zeigt sich, dass auf beiden Seiten
+Überzeugungen ein Luxus sind, Herr Nash.
+
+435
+00:32:13,927 --> 00:32:16,157
+Ich werde versuchen, daran zu denken.
+
+436
+00:32:18,687 --> 00:32:20,917
+Also, John, keine Familie,
+
+437
+00:32:21,567 --> 00:32:23,319
+keine engen Freunde.
+
+438
+00:32:23,807 --> 00:32:27,402
+-Wie kommt das?
+-lch denke gerne, weil ich ein einsamer Wolf bin.
+
+439
+00:32:28,527 --> 00:32:31,837
+Aber hauptsächlich deshalb,
+weil die Leute mich nicht mögen.
+
+440
+00:32:32,327 --> 00:32:33,885
+Es gibt gewisse Aufgaben,
+
+441
+00:32:33,967 --> 00:32:38,119
+wo lhr Mangel an persönlichen Beziehungen
+als Vorteil betrachtet werden kann.
+
+442
+00:32:39,887 --> 00:32:42,606
+-Das ist eine Sicherheitszone.
+-Sie kennen mich.
+
+443
+00:32:45,407 --> 00:32:46,760
+Waren Sie je hier?
+
+444
+00:32:46,847 --> 00:32:50,601
+Bei unserer Einführung sagte man uns,
+diese Lager stünden leer.
+
+445
+00:32:50,687 --> 00:32:52,757
+Das ist nicht ganz zutreffend.
+
+446
+00:33:28,407 --> 00:33:30,318
+Für das, was ich Ihnen sagen werde,
+
+447
+00:33:30,407 --> 00:33:33,638
+werde ich lhre Sicherheitszulassung
+auf streng geheim erweitern.
+
+448
+00:33:33,727 --> 00:33:37,606
+Die Weitergabe geheimer Informationen
+kann das Gefängnis nach sich ziehen.
+
+449
+00:33:37,687 --> 00:33:38,802
+Verstanden?
+
+450
+00:33:39,487 --> 00:33:40,886
+Welche Operation?
+
+451
+00:33:42,567 --> 00:33:44,603
+Erstellt vom
+BÜRO FÜR STRATEGISCHE PLANUNG
+
+452
+00:33:46,287 --> 00:33:47,925
+Die sind eine gute Idee.
+
+453
+00:33:51,807 --> 00:33:55,356
+Die Fabrik befindet sich in Berlin,
+wir beschlagnahmten sie bei Kriegsende.
+
+454
+00:33:55,447 --> 00:33:58,837
+Naziingenieure versuchten den Bau
+einer tragbaren Atombombe.
+
+455
+00:33:59,327 --> 00:34:03,764
+Die Sowjets eroberten diese Einrichtung vor uns
+und wir verloren das verdammte Ding.
+
+456
+00:34:05,887 --> 00:34:08,117
+Die Marschrouten vom Pentagon.
+
+457
+00:34:09,007 --> 00:34:11,282
+Sie hatten damit zu tun, nicht wahr?
+
+458
+00:34:11,367 --> 00:34:13,722
+Die Sowjets sind nicht so einig,
+wie alle glauben.
+
+459
+00:34:13,807 --> 00:34:16,879
+Eine Fraktion der Roten Armee,
+die sich Novaya Svoboda nennt,
+
+460
+00:34:16,967 --> 00:34:19,435
+die "Neue Freiheit",
+kontrolliert die Bombe...
+
+461
+00:34:19,527 --> 00:34:22,599
+und will sie auf amerikanischem Boden
+detonieren lassen.
+
+462
+00:34:23,007 --> 00:34:26,204
+lhr Plan ist es,
+höchste zivile Verluste herbeizuführen.
+
+463
+00:34:30,407 --> 00:34:34,195
+Der Mensch ist so vieler Gräuel fähig,
+wie er Vorstellungskraft hat.
+
+464
+00:34:36,047 --> 00:34:39,198
+Die Neue Freiheit hat Agenten
+hier in den USA.
+
+465
+00:34:40,527 --> 00:34:44,486
+McCarthy ist ein Idiot,
+aber leider hat er trotzdem Recht.
+
+466
+00:34:45,607 --> 00:34:47,643
+Die Neue Freiheit kontaktiert ihre Agenten...
+
+467
+00:34:47,727 --> 00:34:50,764
+über Kodes, die in Zeitungen
+und Magazinen enthalten sind,
+
+468
+00:34:50,847 --> 00:34:52,485
+und da kommen Sie dann ins Spiel.
+
+469
+00:34:52,567 --> 00:34:55,877
+Sehen Sie, John, was Sie hervorhebt, ist,
+
+470
+00:34:56,727 --> 00:34:59,321
+dass Sie ganz einfach...
+
+471
+00:34:59,887 --> 00:35:04,039
+das größte Naturtalent der Kodeentschlüsselung
+sind, das ich je gesehen habe.
+
+472
+00:35:08,967 --> 00:35:11,686
+Was genau soll ich für Sie tun?
+
+473
+00:35:16,887 --> 00:35:19,799
+Prägen Sie sich diese Liste von Zeitschriften ein.
+
+474
+00:35:21,087 --> 00:35:25,877
+Überprüfen Sie jeden neuen Artikel, finden Sie
+versteckte Kodes und entschlüsseln Sie sie.
+
+475
+00:35:27,967 --> 00:35:30,162
+Legen Sie lhr Kinn auf die Kinnstütze.
+
+476
+00:35:30,247 --> 00:35:33,523
+-Schauen Sie das Licht an.
+-Puls 88, regelmäßig.
+
+477
+00:35:36,727 --> 00:35:39,116
+OK, das wird vielleicht etwas unangenehm.
+
+478
+00:35:41,207 --> 00:35:43,801
+Das kam ein bisschen überraschend,
+nicht wahr?
+
+479
+00:35:44,047 --> 00:35:46,641
+Er hat gerade eine Radium-Diode implantiert.
+
+480
+00:35:46,847 --> 00:35:48,917
+Keine Sorge, es ist ungefährlich.
+
+481
+00:35:49,087 --> 00:35:51,237
+Voraussichtlich wird das Isotop zerfallen.
+
+482
+00:35:51,327 --> 00:35:54,364
+Deshalb werden sich die Zahlen
+immer mal wieder ändern.
+
+483
+00:35:54,767 --> 00:35:57,361
+Sie sind der Zugangskode zu lhrem Briefkasten.
+
+484
+00:35:59,247 --> 00:36:01,886
+Bin ich damit ein Spion?
+
+485
+00:36:11,007 --> 00:36:14,124
+MUTTER! ACHTE AUF DIE TAGE
+DER "SCHMUTZGEFAHR"!
+
+486
+00:36:14,647 --> 00:36:15,875
+Treten Sie ein.
+
+487
+00:36:19,727 --> 00:36:22,287
+O Mann, Sie müssen wirklich wichtig sein.
+
+488
+00:36:29,887 --> 00:36:31,957
+Es ist in Ordnung, Mike.
+
+489
+00:36:41,127 --> 00:36:42,765
+Woran arbeiten Sie?
+
+490
+00:36:44,727 --> 00:36:46,604
+Unterliegt der Geheimhaltung.
+
+491
+00:36:47,567 --> 00:36:49,444
+Alle haben eine halbe Stunde gewartet.
+
+492
+00:36:49,527 --> 00:36:52,166
+-Worauf?
+-Auf den Kurs.
+
+493
+00:36:53,047 --> 00:36:55,117
+Sie haben den Kurs heute verpasst.
+
+494
+00:36:55,527 --> 00:36:58,280
+Ich hege den Verdacht,
+
+495
+00:36:59,527 --> 00:37:01,483
+dass mich niemand vermisst hat.
+
+496
+00:37:02,047 --> 00:37:04,959
+Die Problemstellung,
+die Sie an die Tafel schrieben,
+
+497
+00:37:06,047 --> 00:37:07,366
+habe ich gelöst.
+
+498
+00:37:08,087 --> 00:37:11,159
+-Nein, haben Sie nicht.
+-Sie haben nicht mal hingesehen.
+
+499
+00:37:11,887 --> 00:37:15,516
+Ich sagte nie, dass die Vektorfelder
+rationale Funktionen waren.
+
+500
+00:37:19,407 --> 00:37:21,079
+lhre Lösung ist elegant.
+
+501
+00:37:23,487 --> 00:37:25,717
+Aber in diesem speziellen Fall...
+
+502
+00:37:27,127 --> 00:37:29,277
+ist sie letzten Endes nicht korrekt.
+
+503
+00:37:49,527 --> 00:37:52,439
+-Sie sind noch da.
+-lch bin noch da.
+
+504
+00:37:53,767 --> 00:37:54,677
+Warum?
+
+505
+00:37:55,687 --> 00:37:58,326
+Ich frage mich, Professor Nash,
+
+506
+00:38:00,047 --> 00:38:02,436
+ob ich Sie zum Abendessen einladen darf.
+
+507
+00:38:06,007 --> 00:38:07,804
+Sie essen doch, oder?
+
+508
+00:38:08,047 --> 00:38:10,277
+Gelegentlich ja.
+
+509
+00:38:10,367 --> 00:38:13,040
+Einzeltisch. Prometheus, allein,
+an den Felsen gefesselt,
+
+510
+00:38:13,127 --> 00:38:17,006
+mit dem Vogel, der über ihm seine Runden zieht.
+Sie wissen, wie das ist.
+
+511
+00:38:18,367 --> 00:38:21,404
+Nein, ich schätze, Sie wissen nicht...
+
+512
+00:38:24,207 --> 00:38:28,280
+Hinterlegen Sie lhre Adresse in meinem Büro.
+Ich hole Sie Freitag ab,
+
+513
+00:38:28,847 --> 00:38:31,281
+um acht Uhr, und wir gehen essen.
+
+514
+00:38:39,167 --> 00:38:43,319
+Noch eins. Haben Sie einen Namen
+oder soll ich Sie weiter "Fräulein" nennen?
+
+515
+00:38:45,887 --> 00:38:47,036
+Herr Gouverneur,
+
+516
+00:38:47,127 --> 00:38:50,085
+-darf ich Ihnen vorstellen...
+-Fräulein Alicia Larde.
+
+517
+00:38:51,407 --> 00:38:54,046
+Herr Professor, bitte. Sie und der Gouverneur.
+
+518
+00:38:56,287 --> 00:38:58,801
+Warten Sie einen Moment. Entschuldigen Sie.
+
+519
+00:38:59,367 --> 00:39:02,757
+Davon will ich einen Abzug.
+Das erste große Rendezvous und so.
+
+520
+00:39:03,207 --> 00:39:05,801
+Also, ihr Jungs müsst gut aussehen,
+
+521
+00:39:07,047 --> 00:39:11,199
+was nicht der Zustand ist,
+in dem ihr euch von Natur aus befindet.
+
+522
+00:39:14,847 --> 00:39:17,680
+So. Besser.
+
+523
+00:39:18,487 --> 00:39:21,445
+-lch überrasche ihn.
+-Damit sollten Sie fortfahren.
+
+524
+00:39:21,527 --> 00:39:22,846
+Herr Professor.
+
+525
+00:39:39,327 --> 00:39:41,124
+Gott ist bestimmt Maler.
+
+526
+00:39:42,127 --> 00:39:44,402
+Warum sonst gäbe es so viele Farben?
+
+527
+00:39:47,287 --> 00:39:48,766
+Malen Sie?
+
+528
+00:39:50,167 --> 00:39:52,442
+Das habe ich eigentlich nicht gesagt,
+
+529
+00:39:53,047 --> 00:39:56,357
+aber ja, das tue ich.
+
+530
+00:40:05,487 --> 00:40:06,556
+Hier.
+
+531
+00:40:07,967 --> 00:40:09,161
+Hier bin ich.
+
+532
+00:40:09,407 --> 00:40:10,760
+lhre Verabredung.
+
+533
+00:40:12,847 --> 00:40:16,283
+Üben Sie sich in menschlicher Interaktion
+und sozialem Verhalten.
+
+534
+00:40:16,367 --> 00:40:18,005
+So lautet das Vorhaben.
+
+535
+00:40:20,687 --> 00:40:22,723
+Champagner wäre sehr nett.
+
+536
+00:40:24,687 --> 00:40:26,040
+Ich warte draußen.
+
+537
+00:40:26,727 --> 00:40:28,763
+Ich hole den Champagner.
+
+538
+00:40:36,967 --> 00:40:38,286
+Oh, danke.
+
+539
+00:40:39,767 --> 00:40:41,200
+Vielen Dank dafür.
+
+540
+00:40:41,287 --> 00:40:42,925
+Nein, behalten Sie ihn.
+
+541
+00:40:43,327 --> 00:40:46,205
+Ich glaube,
+Entscheidungen zu fällen bringt Glück.
+
+542
+00:40:47,007 --> 00:40:49,362
+-Sie auch?
+-Nein.
+
+543
+00:40:50,447 --> 00:40:52,358
+Ich glaube nicht an Glück.
+
+544
+00:40:56,487 --> 00:40:59,206
+Aber ich glaube daran,
+Dingen Wert zu verleihen.
+
+545
+00:41:09,247 --> 00:41:11,841
+Ich habe einmal versucht, sie alle zu zählen.
+
+546
+00:41:12,647 --> 00:41:16,640
+Ich kam bis zu 4348.
+
+547
+00:41:18,647 --> 00:41:20,717
+Sie sind außerordentlich seltsam.
+
+548
+00:41:20,967 --> 00:41:23,720
+Ich wette, Sie haben viel Erfolg bei Frauen.
+
+549
+00:41:29,327 --> 00:41:31,761
+Dann eben ein paar seltsame Gewohnheiten.
+
+550
+00:41:36,687 --> 00:41:38,564
+Überlegen Sie sich eine Form.
+
+551
+00:41:40,047 --> 00:41:41,162
+Was?
+
+552
+00:41:42,247 --> 00:41:45,239
+Suchen Sie sich eine Form aus,
+ein Tier oder irgendwas.
+
+553
+00:41:47,047 --> 00:41:48,036
+OK.
+
+554
+00:41:49,447 --> 00:41:50,675
+Ein Schirm.
+
+555
+00:42:27,247 --> 00:42:28,680
+Noch mal.
+
+556
+00:42:29,887 --> 00:42:30,842
+Machen Sie es noch mal.
+
+557
+00:42:30,927 --> 00:42:34,363
+-ln Ordnung. Was möchten Sie?
+-Einen Tintenfisch.
+
+558
+00:42:52,967 --> 00:42:54,958
+KÜNSTLICHES LEBEN, DREl TAGE ALT
+
+559
+00:42:57,807 --> 00:42:59,763
+kalt - gut - besser - am besten
+
+560
+00:43:00,807 --> 00:43:04,243
+Wie wir uns nach 15 Jahren
+mit 300 $ monatlich zur Ruhe setzten
+
+561
+00:43:04,447 --> 00:43:06,438
+KÜNSTLICHES LEBEN, DREl TAGE ALT
+
+562
+00:43:08,047 --> 00:43:10,038
+KÜNSTLICHES LEBEN
+
+563
+00:44:05,407 --> 00:44:07,204
+UNTERLIEGT DER GEHEIMHALTUNG
+
+564
+00:45:18,527 --> 00:45:20,597
+Du redest nicht viel, nicht wahr?
+
+565
+00:45:20,727 --> 00:45:23,764
+Ich kann mit dir nicht
+über meine Arbeit reden, Alicia.
+
+566
+00:45:24,207 --> 00:45:25,959
+Ich meine nicht die Arbeit.
+
+567
+00:45:30,287 --> 00:45:32,278
+Das Aufpolieren meiner Interaktionen,
+
+568
+00:45:32,367 --> 00:45:35,996
+um sie sozial akzeptabel zu machen,
+bedeutet einen enormen Aufwand.
+
+569
+00:45:37,287 --> 00:45:40,643
+Ich habe die Tendenz,
+den Informationsfluss zu beschleunigen,
+
+570
+00:45:42,087 --> 00:45:43,600
+indem ich direkt bin.
+
+571
+00:45:45,287 --> 00:45:48,723
+-Oft erziele ich keine angenehmen Ergebnisse.
+-Versuch es doch.
+
+572
+00:45:50,607 --> 00:45:51,676
+In Ordnung.
+
+573
+00:45:56,047 --> 00:45:57,719
+Ich finde dich attraktiv.
+
+574
+00:45:59,047 --> 00:46:02,801
+Deine aggressive Annäherung an mich
+zeigt, dass es dir ebenso ergeht.
+
+575
+00:46:03,327 --> 00:46:08,082
+Dennoch erfordert es das Ritual, dass wir mit
+einer Reihe platonischer Aktivitäten fortfahren,
+
+576
+00:46:08,167 --> 00:46:10,158
+bevor wir Sex miteinander haben.
+
+577
+00:46:10,647 --> 00:46:13,036
+Ich fahre mit diesen Aktivitäten fort,
+
+578
+00:46:13,447 --> 00:46:15,403
+aber was die Tatsachen betrifft,
+
+579
+00:46:15,487 --> 00:46:19,560
+will ich in Wirklichkeit so bald wie möglich
+mit dir Verkehr haben.
+
+580
+00:46:21,567 --> 00:46:23,603
+Haust du mir jetzt eine runter?
+
+581
+00:46:47,287 --> 00:46:48,959
+Wie war das Ergebnis?
+
+582
+00:46:59,127 --> 00:47:00,560
+KUNSTSCHÄTZE AUS DEN ANDEN
+
+583
+00:47:01,647 --> 00:47:04,115
+USA - Altertum
+
+584
+00:47:05,607 --> 00:47:07,086
+Was tust du da?
+
+585
+00:47:11,247 --> 00:47:15,286
+Ich versuche, langfristig wiederholte
+Formulierungen in Zeitschriften auszusondern.
+
+586
+00:47:15,367 --> 00:47:16,402
+Und du?
+
+587
+00:47:16,607 --> 00:47:18,677
+Seltsame Art zu reden, Herr Nash.
+
+588
+00:47:23,087 --> 00:47:24,361
+Kenne ich dich?
+
+589
+00:47:24,847 --> 00:47:28,123
+Mein Onkel sagt, Sie sind sehr schlau,
+aber nicht sehr nett...
+
+590
+00:47:28,207 --> 00:47:30,801
+und ich soll es ignorieren,
+wenn Sie gemein zu mir sind.
+
+591
+00:47:30,887 --> 00:47:32,764
+Und wer ist dein Onkel?
+
+592
+00:47:32,847 --> 00:47:35,122
+Der verlorene Zimmergenosse...
+
+593
+00:47:35,407 --> 00:47:36,601
+kehrt zurück.
+
+594
+00:47:40,807 --> 00:47:42,763
+Komm her, Charles.
+
+595
+00:47:48,327 --> 00:47:51,603
+Meine Schwester starb bei einem Autounfall.
+
+596
+00:47:53,247 --> 00:47:54,839
+Nicht zu weit, Marcee!
+
+597
+00:47:55,647 --> 00:47:59,959
+lhr wilder Ehemann war zu betrunken, um
+zu wissen, dass er zum Fahren zu betrunken war.
+
+598
+00:48:00,047 --> 00:48:02,003
+Also nahm ich sie auf.
+
+599
+00:48:03,807 --> 00:48:07,004
+-Sie ist so klein.
+-Sie ist jung. Bei denen ist das so.
+
+600
+00:48:09,447 --> 00:48:10,846
+Ich bin in Harvard,
+
+601
+00:48:11,447 --> 00:48:13,881
+absolviere den Workshop für große Schriftsteller.
+
+602
+00:48:13,967 --> 00:48:15,844
+Ein verdammter D.H. Lawrence.
+
+603
+00:48:16,007 --> 00:48:19,204
+Ich denke wirklich,
+du solltest mal ein neues Buch kaufen.
+
+604
+00:48:20,767 --> 00:48:23,156
+Ich habe viel über dich gelesen.
+
+605
+00:48:24,407 --> 00:48:25,965
+Wie geht es dir, John?
+
+606
+00:48:26,767 --> 00:48:29,327
+Am Anfang war meine Arbeit hier trivial,
+
+607
+00:48:29,727 --> 00:48:32,241
+aber dann erfolgte ein neuer Auftrag und...
+
+608
+00:48:32,767 --> 00:48:34,678
+Ich darf dir keine Details preisgeben.
+
+609
+00:48:34,767 --> 00:48:37,361
+Topsecret? Illegale Kontrollen?
+Verdeckte Ermittlungen?
+
+610
+00:48:37,447 --> 00:48:38,960
+Etwas in der Art.
+
+611
+00:48:39,367 --> 00:48:41,835
+-Und...
+-Ja?
+
+612
+00:48:43,207 --> 00:48:45,163
+Ich habe ein Mädchen kennen gelernt.
+
+613
+00:48:45,247 --> 00:48:46,965
+-Nein! Menschlich?
+-Homo sapiens.
+
+614
+00:48:47,047 --> 00:48:49,720
+-Zweibeiner?
+-Ja. Und entgegen aller Wahrscheinlichkeit...
+
+615
+00:48:49,807 --> 00:48:53,038
+findet sie mich
+auf verschiedenen Ebenen attraktiv.
+
+616
+00:48:53,167 --> 00:48:55,044
+Gott, das ist wunderbar.
+
+617
+00:48:55,727 --> 00:48:58,446
+Geschmack kennt keine Verantwortung,
+stimmt's?
+
+618
+00:49:01,567 --> 00:49:04,320
+-Soll ich sie heiraten?
+-O Gott. Richtig.
+
+619
+00:49:05,967 --> 00:49:09,596
+Ich meine, es läuft alles gut.
+Die Arbeit ist bestens. Ich habe genug Geld.
+
+620
+00:49:09,687 --> 00:49:11,757
+Es scheint alles zusammenzupassen.
+
+621
+00:49:12,767 --> 00:49:15,156
+Aber wie kann man sich ganz sicher sein?
+
+622
+00:49:16,567 --> 00:49:18,717
+Nichts ist jemals ganz sicher, John.
+
+623
+00:49:19,727 --> 00:49:21,957
+Das ist das Einzige, dass ich ganz sicher weiß.
+
+624
+00:49:28,287 --> 00:49:29,720
+Guten Abend.
+
+625
+00:49:36,407 --> 00:49:40,480
+Alicia, sei nicht böse. Ich habe bei der Arbeit
+nicht auf die Zeit geachtet,
+
+626
+00:49:41,527 --> 00:49:42,721
+wieder mal.
+
+627
+00:49:44,607 --> 00:49:45,926
+Es tut mir Leid.
+
+628
+00:49:46,407 --> 00:49:48,682
+Ich hatte keine Zeit, es einzuwickeln.
+
+629
+00:49:49,447 --> 00:49:51,722
+Herzlichen Glückwunsch zum Geburtstag.
+
+630
+00:49:54,687 --> 00:49:58,885
+Die Facetten des Glases, siehst du,
+bewirken eine Streuung auf ganzer Wellenlänge,
+
+631
+00:49:58,967 --> 00:50:00,764
+wenn man also hineinsieht, sieht man...
+
+632
+00:50:00,847 --> 00:50:03,486
+Jede erdenkbare Farbe.
+
+633
+00:50:04,687 --> 00:50:08,521
+Weißt du noch, wie du damals sagtest,
+Gott müsse ein Maler sein, der Farben wegen?
+
+634
+00:50:08,607 --> 00:50:11,121
+Das hast du im Haus des Gouverneurs gesagt.
+
+635
+00:50:12,327 --> 00:50:14,602
+Ich dachte, du hättest nicht zugehört.
+
+636
+00:50:16,567 --> 00:50:18,125
+Ich habe zugehört.
+
+637
+00:50:24,687 --> 00:50:26,564
+Es ist schön.
+
+638
+00:50:42,127 --> 00:50:45,199
+Alicia, erfordert unsere Beziehung
+eine langfristige Bindung?
+
+639
+00:50:45,287 --> 00:50:49,280
+Denn ich brauche einen Beweis,
+Daten, die verifizierbar, empirisch sind.
+
+640
+00:50:55,247 --> 00:50:57,807
+Tut mir Leid, gib mir einen Moment,
+
+641
+00:50:58,727 --> 00:51:02,163
+um meinen mädchenhaften Begriff
+von Romantik neu zu definieren.
+
+642
+00:51:05,207 --> 00:51:06,435
+Einen Beweis?
+
+643
+00:51:07,047 --> 00:51:08,560
+Verifizierbare Daten.
+
+644
+00:51:10,167 --> 00:51:11,316
+OK.
+
+645
+00:51:14,687 --> 00:51:16,564
+Wie groß ist das Universum?
+
+646
+00:51:16,847 --> 00:51:17,882
+Unendlich.
+
+647
+00:51:18,207 --> 00:51:19,322
+Woher weißt du das?
+
+648
+00:51:19,407 --> 00:51:22,638
+-Alle Daten deuten darauf hin.
+-Aber bisher wurde es nicht bewiesen?
+
+649
+00:51:22,727 --> 00:51:25,799
+Du hast es nicht gesehen.
+Wie kannst du dir sicher sein?
+
+650
+00:51:26,327 --> 00:51:28,557
+Das bin ich nicht, ich glaube es nur.
+
+651
+00:51:31,087 --> 00:51:33,157
+Mit der Liebe ist es wohl genauso.
+
+652
+00:51:40,487 --> 00:51:41,556
+Jetzt...
+
+653
+00:51:42,247 --> 00:51:44,317
+ist der Teil, den du nicht kennst,
+
+654
+00:51:46,247 --> 00:51:48,477
+die Frage, ob ich dich heiraten will.
+
+655
+00:52:08,807 --> 00:52:10,559
+In die Kamera lächeln!
+
+656
+00:52:15,447 --> 00:52:16,880
+Gut gemacht!
+
+657
+00:52:18,967 --> 00:52:21,003
+Herzlichen Glückwunsch.
+
+658
+00:52:21,087 --> 00:52:22,679
+Du siehst so schön aus.
+
+659
+00:52:23,927 --> 00:52:25,326
+Hallo, wie geht's?
+
+660
+00:52:31,847 --> 00:52:33,724
+-Tschüs.
+-Tschüs, bis dann.
+
+661
+00:52:36,127 --> 00:52:37,242
+Fahrt vorsichtig!
+
+662
+00:52:47,287 --> 00:52:49,118
+CAMBRIDGE, MA - OKTOBER 1954
+
+663
+00:53:03,887 --> 00:53:05,445
+U.S. Regierung - 73864D
+
+664
+00:53:05,647 --> 00:53:07,399
+Steigen Sie ein. Schnell.
+
+665
+00:53:10,887 --> 00:53:12,639
+Sie folgen uns.
+
+666
+00:53:16,807 --> 00:53:20,038
+-Wer folgt uns?
+-Der Briefkasten wurde entdeckt.
+
+667
+00:53:20,727 --> 00:53:22,001
+Runter!
+
+668
+00:53:22,847 --> 00:53:24,200
+Unten bleiben!
+
+669
+00:53:51,327 --> 00:53:53,602
+-Hier, nehmen Sie das.
+-lch schieße auf niemanden.
+
+670
+00:53:53,687 --> 00:53:56,247
+-Nehmen Sie die verdammte Waffe!
+-Nein!
+
+671
+00:54:14,127 --> 00:54:16,641
+Bleiben Sie hinten. Bewegen Sie sich nicht.
+
+672
+00:55:01,047 --> 00:55:02,116
+John?
+
+673
+00:55:09,047 --> 00:55:10,082
+Hallo.
+
+674
+00:55:13,047 --> 00:55:14,639
+Wo warst du?
+
+675
+00:55:17,407 --> 00:55:19,796
+-Sol...
+-Ja, ich habe mit Sol gesprochen.
+
+676
+00:55:20,127 --> 00:55:23,119
+Er sagte, dass du das Büro
+vor Stunden verlassen hast.
+
+677
+00:55:25,487 --> 00:55:27,603
+Warum hast du mich nicht angerufen?
+
+678
+00:55:31,887 --> 00:55:33,286
+Geht es dir gut?
+
+679
+00:55:42,087 --> 00:55:43,156
+Schatz?
+
+680
+00:55:45,407 --> 00:55:46,601
+John...
+
+681
+00:55:47,287 --> 00:55:49,926
+Bitte, rede mit mir.
+Sag mir, was passiert ist.
+
+682
+00:55:51,167 --> 00:55:52,885
+John, öffne die Tür.
+
+683
+00:55:54,567 --> 00:55:56,717
+Komm, öffne die Tür! Lass mich rein!
+
+684
+00:55:57,487 --> 00:55:58,806
+Rede mit mir!
+
+685
+00:56:00,607 --> 00:56:02,120
+John!
+
+686
+00:56:02,807 --> 00:56:04,365
+Öffne diese Tür!
+
+687
+00:56:20,967 --> 00:56:22,798
+Achtet auf die Autos, Kinder.
+
+688
+00:57:03,207 --> 00:57:04,242
+John.
+
+689
+00:57:05,967 --> 00:57:07,002
+William.
+
+690
+00:57:07,607 --> 00:57:09,837
+Dafür habe ich nicht unterschrieben.
+
+691
+00:57:09,927 --> 00:57:12,077
+Wenn ein Motor knallt
+oder eine Tür zuschlägt...
+
+692
+00:57:12,167 --> 00:57:15,079
+Ich verstehe das besser,
+als Sie sich vorstellen.
+
+693
+00:57:25,007 --> 00:57:26,998
+Sie müssen sich beruhigen, John.
+
+694
+00:57:27,727 --> 00:57:30,082
+Hören Sie.
+Das mit der Bombe wird abgeschlossen,
+
+695
+00:57:30,167 --> 00:57:32,283
+hauptsächlich dank lhrer Verdienste.
+
+696
+00:57:32,367 --> 00:57:35,439
+Finden Sie nicht, dass lhre Angst
+ein geringer Preis dafür ist?
+
+697
+00:57:35,527 --> 00:57:38,087
+William, meine Situation hat sich verändert.
+
+698
+00:57:38,527 --> 00:57:40,040
+Alicia ist schwanger.
+
+699
+00:57:48,207 --> 00:57:51,085
+Ich sagte Ihnen,
+dass Beziehungen gefährlich seien.
+
+700
+00:57:51,167 --> 00:57:53,635
+Es war lhre Wahl, das Mädchen zu heiraten.
+
+701
+00:57:54,167 --> 00:57:56,681
+Ich habe nicht versucht, das zu verhindern.
+
+702
+00:57:58,767 --> 00:58:01,759
+Am Besten lässt sich
+für die Sicherheit aller sorgen,
+
+703
+00:58:01,847 --> 00:58:03,838
+wenn Sie lhre Arbeit fortsetzen.
+
+704
+00:58:04,767 --> 00:58:06,439
+Nun, ich kündige einfach.
+
+705
+00:58:06,607 --> 00:58:08,120
+Das werden Sie nicht.
+
+706
+00:58:08,207 --> 00:58:09,356
+Warum sollte ich nicht?
+
+707
+00:58:09,447 --> 00:58:13,042
+Weil ich den Russen das Wissen vorenthalte,
+dass Sie für uns arbeiten.
+
+708
+00:58:13,127 --> 00:58:15,402
+Wenn Sie nicht mehr für mich arbeiten,
+
+709
+00:58:15,687 --> 00:58:17,643
+arbeite ich nicht mehr für Sie.
+
+710
+00:58:30,207 --> 00:58:32,277
+Parcher!
+
+711
+00:58:37,407 --> 00:58:39,079
+John, bist du in Ordnung?
+
+712
+00:58:59,327 --> 00:59:00,316
+John?
+
+713
+00:59:00,487 --> 00:59:02,876
+Mach es aus! Mach das Licht aus!
+
+714
+00:59:05,847 --> 00:59:07,485
+Warum soll ich das tun?
+
+715
+00:59:07,847 --> 00:59:10,725
+-Warum soll ich das Licht ausmachen?
+-Was ist mit dir los?
+
+716
+00:59:10,807 --> 00:59:12,957
+Du musst zu deiner Schwester ziehen.
+
+717
+00:59:13,407 --> 00:59:16,558
+Der Wagen steht hinten.
+Nimm die Commonwealth, keine Nebenstraßen.
+
+718
+00:59:16,647 --> 00:59:17,875
+Bleib da, wo Menschen sind.
+
+719
+00:59:17,967 --> 00:59:19,525
+John, ich fahre nirgendwohin!
+
+720
+00:59:19,607 --> 00:59:21,996
+Wenn du dort ankommst,
+warte auf meinen Anruf.
+
+721
+00:59:22,087 --> 00:59:23,759
+-Pack deine Sachen.
+-lch fahre nicht.
+
+722
+00:59:23,847 --> 00:59:25,439
+Halt! Hör auf damit!
+
+723
+00:59:26,327 --> 00:59:27,521
+Bitte, Alicia.
+
+724
+00:59:30,167 --> 00:59:32,317
+Ich erkläre es dir, sobald ich kann.
+
+725
+01:00:08,887 --> 01:00:11,355
+UNIVERSITÄT HARVARD
+NATIONALE MATHEMATIKER-KONFERENZ
+
+726
+01:00:17,047 --> 01:00:19,641
+Onkel John!
+
+727
+01:00:23,847 --> 01:00:25,485
+Hallo, kleines Mädchen!
+
+728
+01:00:26,167 --> 01:00:28,476
+Wow, da will aber jemand umarmt werden!
+
+729
+01:00:28,847 --> 01:00:31,122
+Ich sah dich auf der Tafel und dachte:
+
+730
+01:00:31,207 --> 01:00:35,325
+"Wie könnte ich einen Gastvortrag
+des unnachahmlichen John Nash verpassen?"
+
+731
+01:00:38,167 --> 01:00:39,395
+Was ist los?
+
+732
+01:00:42,207 --> 01:00:45,438
+Ich sitze in der Patsche.
+Ich glaube, ich brauche vielleicht Hilfe.
+
+733
+01:00:45,527 --> 01:00:47,438
+Sagst du mir, worum es geht?
+
+734
+01:00:47,607 --> 01:00:49,245
+Professor Nash!
+
+735
+01:00:49,607 --> 01:00:50,676
+Willkommen!
+
+736
+01:00:53,007 --> 01:00:53,962
+Nachher?
+
+737
+01:01:01,807 --> 01:01:06,597
+Also sehen wir, dass die Nullen
+aus der Riemann-Zeta-Funktion...
+
+738
+01:01:07,167 --> 01:01:09,317
+mit den Besonderheiten...
+
+739
+01:01:09,607 --> 01:01:11,723
+in der Raum-Zeit übereinstimmen...
+
+740
+01:01:12,447 --> 01:01:15,007
+Besonderheiten in der Raum-Zeit, die dann...
+
+741
+01:01:18,287 --> 01:01:20,596
+Und die konventionelle Zahlentheorie...
+
+742
+01:01:22,607 --> 01:01:26,680
+Sie stellt das Profil
+der relativistischen Forschung auf den Kopf.
+
+743
+01:01:42,327 --> 01:01:45,205
+Manchmal enttäuschen die Zahlen
+unsere Erwartungen.
+
+744
+01:01:47,007 --> 01:01:51,478
+Variablen kann man unmöglich
+einen rationalen Wert zuteilen.
+
+745
+01:02:11,287 --> 01:02:12,800
+Professor Nash!
+
+746
+01:02:22,687 --> 01:02:25,076
+-Stehen bleiben!
+-Professor Nash?
+
+747
+01:02:26,807 --> 01:02:32,086
+Professor Nash, wir wollen doch
+eine Szene vermeiden, oder etwa nicht?
+
+748
+01:02:32,927 --> 01:02:34,155
+Was wollen Sie?
+
+749
+01:02:34,887 --> 01:02:36,320
+Ich heiße Rosen.
+
+750
+01:02:36,727 --> 01:02:38,638
+Dr. Rosen. Ich bin Psychiater.
+
+751
+01:02:39,207 --> 01:02:41,846
+Vergeben Sie mir,
+wenn mich das nicht überzeugt.
+
+752
+01:02:41,927 --> 01:02:44,395
+Ich möchte, dass Sie mit mir kommen, John.
+
+753
+01:02:45,487 --> 01:02:47,557
+Nur für eine kleine Unterhaltung.
+
+754
+01:02:48,687 --> 01:02:50,678
+Ich habe wohl keine andere Wahl.
+
+755
+01:03:01,247 --> 01:03:02,885
+Hilfe! Helfe mir jemand!
+
+756
+01:03:07,367 --> 01:03:08,356
+Zu Hilfe!
+
+757
+01:03:08,447 --> 01:03:10,961
+Helfen Sie mir! Lassen Sie mich los!
+
+758
+01:03:11,487 --> 01:03:13,125
+Ich weiß, wer Sie sind!
+
+759
+01:03:13,327 --> 01:03:14,726
+Nein, nein, nicht!
+
+760
+01:03:14,807 --> 01:03:17,367
+Charles, das sind Russen! Sie sind Russen!
+
+761
+01:03:17,527 --> 01:03:19,165
+Ruf jemanden an!
+
+762
+01:03:19,247 --> 01:03:20,965
+-Russen!
+-Halten Sie das Bein fest.
+
+763
+01:03:21,047 --> 01:03:22,526
+Lassen Sie mich.
+
+764
+01:03:22,647 --> 01:03:24,763
+Bleiben Sie weg von mir!
+
+765
+01:03:29,807 --> 01:03:30,922
+Na also.
+
+766
+01:03:32,127 --> 01:03:33,401
+Alles wird gut.
+
+767
+01:03:37,007 --> 01:03:38,725
+Hier ist alles in Ordnung.
+
+768
+01:03:40,767 --> 01:03:42,678
+Passen Sie auf lhren Kopf auf.
+
+769
+01:04:10,647 --> 01:04:11,477
+John?
+
+770
+01:04:15,407 --> 01:04:16,965
+Können Sie mich hören?
+
+771
+01:04:30,327 --> 01:04:31,726
+Ganz ruhig jetzt.
+
+772
+01:04:32,407 --> 01:04:34,682
+Thorazin wirkt eine Weile nach.
+
+773
+01:04:38,047 --> 01:04:40,003
+Tut mir Leid wegen der Fesseln.
+
+774
+01:04:40,527 --> 01:04:42,961
+Sie haben einen teuflischen rechten Haken.
+
+775
+01:04:44,687 --> 01:04:45,802
+Wo bin ich?
+
+776
+01:04:47,807 --> 01:04:50,116
+Psychiatrisches Krankenhaus MacArthur.
+
+777
+01:04:52,607 --> 01:04:54,996
+Das erscheint mir sehr unwahrscheinlich.
+
+778
+01:04:55,527 --> 01:04:57,483
+Sie haben einen Fehler gemacht.
+
+779
+01:04:58,327 --> 01:05:01,080
+Meine Arbeit findet
+nicht-militärische Anwendung.
+
+780
+01:05:01,327 --> 01:05:03,158
+Welche Arbeit ist das, John?
+
+781
+01:05:05,567 --> 01:05:07,205
+Ich weiß von gar nichts.
+
+782
+01:05:07,847 --> 01:05:10,725
+Es ist nicht gut, Geheimnisse zu haben,
+wissen Sie.
+
+783
+01:05:25,447 --> 01:05:26,436
+Charles?
+
+784
+01:05:28,567 --> 01:05:29,636
+Charles?
+
+785
+01:05:31,847 --> 01:05:34,156
+Ich wollte dich nicht darin verwickeln.
+
+786
+01:05:35,327 --> 01:05:36,726
+Es tut mir Leid.
+
+787
+01:05:42,247 --> 01:05:43,566
+Charles?
+
+788
+01:05:51,167 --> 01:05:54,079
+Der verlorene Zimmergenosse wird demaskiert.
+
+789
+01:05:55,727 --> 01:05:58,446
+"Du sahst meinen Namen
+auf der Vorlesungsliste"?
+
+790
+01:05:58,567 --> 01:06:00,603
+Du verlogener Hurensohn!
+
+791
+01:06:00,887 --> 01:06:03,355
+Mit wem reden Sie?
+Sagen Sie mir, wen Sie sehen.
+
+792
+01:06:03,447 --> 01:06:05,802
+Wie spricht man "Charles Herman"
+russisch aus?
+
+793
+01:06:05,887 --> 01:06:08,037
+Wie spricht man es auf Russisch aus?
+
+794
+01:06:08,247 --> 01:06:10,602
+Da ist niemand, John.
+
+795
+01:06:11,047 --> 01:06:14,084
+Er ist genau dort.
+
+796
+01:06:14,927 --> 01:06:16,679
+Halt! Ich weiß gar nichts!
+
+797
+01:06:16,847 --> 01:06:19,407
+Halt! Ich weiß gar nichts!
+
+798
+01:06:21,287 --> 01:06:22,925
+Meine Name ist John Nash.
+
+799
+01:06:23,047 --> 01:06:25,117
+Ich werde gegen meinen Willen festgehalten.
+
+800
+01:06:25,207 --> 01:06:27,562
+Man soll das Verteidigungsministerium
+verständigen.
+
+801
+01:06:27,647 --> 01:06:29,524
+Ich heiße John Nash.
+
+802
+01:06:29,607 --> 01:06:31,563
+Ich werde gegen meinen Willen festgehalten.
+
+803
+01:06:37,207 --> 01:06:38,686
+Was ist mit ihm los?
+
+804
+01:06:41,567 --> 01:06:43,444
+John leidet an Schizophrenie.
+
+805
+01:06:44,647 --> 01:06:47,241
+Leute mit dieser Störung sind oft paranoid.
+
+806
+01:06:50,887 --> 01:06:52,320
+Aber seine Arbeit.
+
+807
+01:06:52,767 --> 01:06:54,837
+Er hat mit Verschwörungen zu tun.
+
+808
+01:06:55,687 --> 01:06:57,837
+Ja, ich weiß.
+
+809
+01:06:58,687 --> 01:07:01,918
+In Johns Welt wird dieses Benehmen akzeptiert,
+
+810
+01:07:02,167 --> 01:07:03,361
+ja gefördert.
+
+811
+01:07:03,967 --> 01:07:06,925
+Deshalb blieb seine Krankheit
+lange unbehandelt,
+
+812
+01:07:07,007 --> 01:07:08,759
+viel länger als normal ist.
+
+813
+01:07:09,847 --> 01:07:11,360
+Was meinen Sie? Wie lange?
+
+814
+01:07:11,447 --> 01:07:13,199
+Wahrscheinlich seit der Hochschule.
+
+815
+01:07:13,287 --> 01:07:16,245
+Zumindest haben da wohl
+seine Halluzinationen eingesetzt.
+
+816
+01:07:16,327 --> 01:07:18,636
+Wovon reden Sie? Welche Halluzinationen?
+
+817
+01:07:18,727 --> 01:07:20,843
+Bisher weiß ich von einer.
+
+818
+01:07:21,527 --> 01:07:24,405
+Ein imaginärer Zimmergenosse
+namens Charles Herman.
+
+819
+01:07:25,647 --> 01:07:27,603
+Charles ist keine Einbildung.
+
+820
+01:07:27,687 --> 01:07:29,803
+Sie sind seit Princeton die besten Freunde.
+
+821
+01:07:29,887 --> 01:07:32,845
+Haben Sie Charles je getroffen?
+Kam er je zum Abendessen?
+
+822
+01:07:33,527 --> 01:07:36,200
+Er kommt immer nur so kurz in die Stadt,
+zu Vorlesungen.
+
+823
+01:07:36,287 --> 01:07:38,755
+-War er auf lhrer Hochzeit?
+-Er musste unterrichten.
+
+824
+01:07:38,847 --> 01:07:41,520
+Sahen Sie ein Foto
+oder sprachen Sie mit ihm am Telefon?
+
+825
+01:07:41,607 --> 01:07:43,040
+Das ist lächerlich.
+
+826
+01:07:43,327 --> 01:07:45,318
+Ich habe in Princeton angerufen.
+
+827
+01:07:45,687 --> 01:07:48,565
+Nach ihren Unterlagen wohnte John allein.
+
+828
+01:07:52,247 --> 01:07:54,966
+Was ist also wahrscheinlicher?
+Dass lhr Mann,
+
+829
+01:07:55,047 --> 01:07:57,402
+ein Mathematiker ohne militärische Ausbildung,
+
+830
+01:07:57,487 --> 01:08:01,116
+-als Spion vor den Russen flieht...
+-Das klingt, als sei er verrückt.
+
+831
+01:08:01,207 --> 01:08:04,005
+Oder hat er den Bezug zur Wirklichkeit verloren?
+
+832
+01:08:06,887 --> 01:08:10,038
+Ich kann ihm nur helfen,
+indem ich ihm den Unterschied...
+
+833
+01:08:10,247 --> 01:08:13,842
+zwischen dem, was real ist,
+und dem, was er sich vorstellt, zeige.
+
+834
+01:08:17,327 --> 01:08:18,555
+Kommen Sie.
+
+835
+01:08:20,847 --> 01:08:22,519
+Woran hat er gearbeitet?
+
+836
+01:08:24,247 --> 01:08:25,839
+Seine Arbeit ist geheim.
+
+837
+01:08:25,927 --> 01:08:27,883
+Er erwähnte einen Leiter...
+
+838
+01:08:28,287 --> 01:08:30,164
+mit Namen William Parcher.
+
+839
+01:08:30,607 --> 01:08:33,075
+Vielleicht kann Herr Parcher
+uns einiges erklären.
+
+840
+01:08:33,167 --> 01:08:35,806
+Aber ohne Freigabe dringe ich nicht
+zu ihm vor.
+
+841
+01:08:37,207 --> 01:08:41,439
+Wollen Sie, dass ich Ihnen helfe,
+Details der Arbeit meines Mannes zu erfahren?
+
+842
+01:08:41,767 --> 01:08:44,122
+John hält mich für einen russischen Spion.
+
+843
+01:08:44,207 --> 01:08:45,640
+Denken Sie das auch?
+
+844
+01:08:50,247 --> 01:08:52,522
+-Was hat der Arzt gesagt?
+-lst er krank?
+
+845
+01:08:52,607 --> 01:08:53,642
+Ich weiß es nicht.
+
+846
+01:08:53,727 --> 01:08:55,843
+Ich will sehen, woran John gearbeitet hat.
+
+847
+01:08:55,927 --> 01:08:58,646
+-Du kannst nicht in sein Büro.
+-Das ist Sperrzone, Alicia.
+
+848
+01:08:58,727 --> 01:08:59,637
+Stopp.
+
+849
+01:09:13,807 --> 01:09:14,956
+O mein Gott.
+
+850
+01:09:19,207 --> 01:09:20,765
+O mein Gott.
+
+851
+01:09:28,407 --> 01:09:30,284
+Warum habt ihr nichts gesagt?
+
+852
+01:09:30,887 --> 01:09:33,196
+Alicia, John war immer...
+
+853
+01:09:33,447 --> 01:09:35,358
+etwas seltsam.
+
+854
+01:09:35,687 --> 01:09:37,996
+Er sagte, er entschlüssele Kodes.
+
+855
+01:09:38,087 --> 01:09:40,965
+-Geheiminformation.
+-Topsecret, Teil des Militärunternehmens.
+
+856
+01:09:41,047 --> 01:09:42,241
+Sagte er das?
+
+857
+01:09:43,847 --> 01:09:45,075
+Es war möglich.
+
+858
+01:09:45,167 --> 01:09:48,159
+Ständig erhalten wir Direktiven,
+die nicht erklärt werden.
+
+859
+01:09:48,247 --> 01:09:51,717
+-Es war möglich.
+-Möglich, aber nicht wahrscheinlich.
+
+860
+01:09:54,207 --> 01:09:58,564
+In letzter Zeit war er viel erregter
+und als du angerufen hast...
+
+861
+01:09:58,727 --> 01:10:01,287
+Das ist also, was er den ganzen Tag machte?
+
+862
+01:10:02,327 --> 01:10:04,124
+Zeitschriften zerschnippeln?
+
+863
+01:10:05,927 --> 01:10:07,599
+Nicht nur.
+
+864
+01:11:26,287 --> 01:11:28,437
+-Es tut mir so Leid.
+-Es ist OK.
+
+865
+01:11:32,207 --> 01:11:33,686
+Du hast mir gefehlt.
+
+866
+01:11:36,847 --> 01:11:38,485
+Ich muss mit dir reden.
+
+867
+01:11:38,967 --> 01:11:40,082
+OK.
+
+868
+01:11:45,207 --> 01:11:47,437
+Alicia, ich habe darüber nachgedacht.
+
+869
+01:11:47,687 --> 01:11:50,520
+Und mir ist klar, dass mein Verhalten...
+
+870
+01:11:50,767 --> 01:11:53,839
+und meine Unfähigkeit,
+dir die Situation zu erörtern,
+
+871
+01:11:54,367 --> 01:11:56,597
+dir verrückt erschienen sein müssen.
+
+872
+01:11:56,767 --> 01:11:58,723
+Ich ließ dir keine andere Wahl.
+
+873
+01:11:59,327 --> 01:12:00,919
+Ich verstehe es...
+
+874
+01:12:01,287 --> 01:12:03,847
+-und es tut mir ehrlich Leid.
+-Das ist OK.
+
+875
+01:12:05,127 --> 01:12:06,845
+Alles wird wieder gut.
+
+876
+01:12:08,727 --> 01:12:10,319
+Alles wird wieder gut.
+
+877
+01:12:11,567 --> 01:12:13,398
+Wir müssen nur leise reden.
+
+878
+01:12:14,767 --> 01:12:17,998
+Vielleicht hören Sie uns ab.
+Vielleicht sind da Mikrofone.
+
+879
+01:12:19,367 --> 01:12:21,483
+Von jetzt an erzähle ich dir alles.
+
+880
+01:12:21,967 --> 01:12:25,403
+Es ist gegen das Protokoll,
+aber du musst es wissen,
+
+881
+01:12:26,047 --> 01:12:29,084
+damit du mir hier raushelfen kannst.
+
+882
+01:12:30,967 --> 01:12:33,686
+Ich erledige Topsecret-Arbeit für die Regierung.
+
+883
+01:12:33,927 --> 01:12:35,758
+Es gibt da eine Bedrohung...
+
+884
+01:12:36,127 --> 01:12:37,958
+von katastrophalem Ausmaß.
+
+885
+01:12:39,047 --> 01:12:41,800
+Ich denke, die Russen haben gemerkt,
+dass ich zu gut bin.
+
+886
+01:12:41,887 --> 01:12:44,037
+Deshalb wollen sie mich aus dem Weg räumen.
+
+887
+01:12:44,127 --> 01:12:47,199
+Sie halten mich hier fest,
+wollen mich von der Arbeit abhalten.
+
+888
+01:12:47,287 --> 01:12:48,845
+Du musst zum Wheeler fahren.
+
+889
+01:12:48,927 --> 01:12:51,566
+-Du musst William Parcher finden.
+-Stopp.
+
+890
+01:12:51,767 --> 01:12:52,882
+Hör auf.
+
+891
+01:12:58,207 --> 01:12:59,720
+Ich fuhr zum Wheeler.
+
+892
+01:13:00,207 --> 01:13:01,356
+Gut, gut.
+
+893
+01:13:01,487 --> 01:13:03,398
+Es gibt keinen William Parcher.
+
+894
+01:13:04,567 --> 01:13:06,762
+Natürlich gibt es ihn. Ich arbeitete für ihn.
+
+895
+01:13:06,847 --> 01:13:09,441
+Und wie? Hast du Kodes entschlüsselt?
+
+896
+01:13:09,887 --> 01:13:14,119
+Hast du Umschläge für die Regierung
+in einem geheimen Briefkasten hinterlassen?
+
+897
+01:13:15,487 --> 01:13:16,920
+Woher weißt du das?
+
+898
+01:13:17,047 --> 01:13:18,526
+Sol ist dir gefolgt.
+
+899
+01:13:20,207 --> 01:13:22,960
+-Er dachte, es sei harmlos.
+-Sol ist mir gefolgt?
+
+900
+01:13:28,007 --> 01:13:29,076
+GEHEIM
+
+901
+01:13:31,487 --> 01:13:33,239
+Sie wurden nie geöffnet.
+
+902
+01:13:36,247 --> 01:13:37,965
+Es ist nicht wirklich.
+
+903
+01:13:39,247 --> 01:13:41,317
+Es gibt keine Verschwörung, John.
+
+904
+01:13:44,407 --> 01:13:46,443
+Es gibt keinen William Parcher.
+
+905
+01:13:47,807 --> 01:13:50,082
+Es existiert alles nur in deinem Kopf.
+
+906
+01:13:51,887 --> 01:13:54,321
+Versteht du, Schatz?
+
+907
+01:13:56,087 --> 01:13:57,281
+Du bist krank.
+
+908
+01:14:00,927 --> 01:14:02,406
+Du bist krank, John.
+
+909
+01:14:02,887 --> 01:14:04,036
+John?
+
+910
+01:14:14,527 --> 01:14:15,562
+Kode Rot.
+
+911
+01:14:15,727 --> 01:14:18,321
+Dr. Rosen, Kode Rot. Beobachtungszimmer 2.
+
+912
+01:14:32,807 --> 01:14:33,796
+John?
+
+913
+01:14:40,127 --> 01:14:41,765
+Das lmplantat ist fort.
+
+914
+01:14:43,247 --> 01:14:44,919
+Ich kann es nicht finden.
+
+915
+01:14:48,967 --> 01:14:50,116
+Es ist fort.
+
+916
+01:15:20,527 --> 01:15:23,087
+Sehen Sie, der Alptraum der Schizophrenie...
+
+917
+01:15:23,607 --> 01:15:26,121
+liegt darin, nicht zu wissen, was wahr ist.
+
+918
+01:15:26,927 --> 01:15:28,440
+Stellen Sie sich vor,
+
+919
+01:15:28,567 --> 01:15:31,559
+Sie haben plötzlich erfahren,
+dass Menschen und Orte...
+
+920
+01:15:31,687 --> 01:15:36,841
+und Momente, die Ihnen höchst wichtig waren,
+nicht fort, nicht tot sind,
+
+921
+01:15:37,287 --> 01:15:40,324
+sondern schlimmer, nie existiert haben.
+
+922
+01:15:43,927 --> 01:15:45,997
+Was für eine Hölle muss das sein.
+
+923
+01:15:51,727 --> 01:15:53,445
+Ich injiziere das Insulin.
+
+924
+01:15:54,287 --> 01:15:55,879
+8.42 Uhr.
+
+925
+01:16:52,007 --> 01:16:53,201
+Wie oft?
+
+926
+01:16:55,367 --> 01:16:57,835
+Fünf mal wöchentlich, zehn Wochen lang.
+
+927
+01:17:18,487 --> 01:17:20,239
+UNIVERSITÄT PRINCETON - EIN JAHR SPÄTER
+
+928
+01:17:20,327 --> 01:17:23,558
+John war immer so stolz darauf,
+Princeton besucht zu haben.
+
+929
+01:17:24,007 --> 01:17:26,077
+Hansen leitet jetzt die Abteilung.
+
+930
+01:17:26,167 --> 01:17:28,727
+Also denkt er weiter an uns, erinnert uns.
+
+931
+01:17:29,887 --> 01:17:30,876
+Ja.
+
+932
+01:17:31,207 --> 01:17:35,086
+John will sich aber dem Campus nicht nähern.
+Ich glaube, er schämt sich.
+
+933
+01:17:39,247 --> 01:17:40,521
+Willst du das?
+
+934
+01:17:42,087 --> 01:17:44,555
+Und, Alicia, wie kommst du zurecht?
+
+935
+01:17:46,127 --> 01:17:47,845
+Die Enttäuschung ist überwunden.
+
+936
+01:17:47,927 --> 01:17:51,840
+Sie sagten, mit den Medikamenten
+und einer weniger stressigen Umgebung...
+
+937
+01:17:53,127 --> 01:17:54,879
+Ich meine, wie geht es dir?
+
+938
+01:18:01,767 --> 01:18:03,723
+Ich denke oft, was ich fühle...
+
+939
+01:18:04,607 --> 01:18:06,279
+ist Verpflichtung.
+
+940
+01:18:08,767 --> 01:18:11,201
+Oder Schuld deswegen, weil ich fort will.
+
+941
+01:18:13,447 --> 01:18:16,678
+Wut auf John, auf Gott und...
+
+942
+01:18:19,527 --> 01:18:20,801
+Aber...
+
+943
+01:18:23,687 --> 01:18:25,325
+dann sehe ich ihn an...
+
+944
+01:18:26,727 --> 01:18:30,242
+und zwinge mich dazu, den Mann zu sehen,
+den ich geheiratet habe.
+
+945
+01:18:31,767 --> 01:18:33,644
+Und dann wird er dieser Mann.
+
+946
+01:18:33,807 --> 01:18:37,322
+Dann verwandelt er sich in jemanden,
+den ich liebe.
+
+947
+01:18:40,567 --> 01:18:43,445
+Und ich verwandele mich in jemanden,
+der ihn liebt.
+
+948
+01:18:46,647 --> 01:18:48,603
+Das ist nicht immer so, aber...
+
+949
+01:18:50,847 --> 01:18:52,200
+es reicht aus.
+
+950
+01:18:53,527 --> 01:18:56,963
+Ich halte John
+für einen sehr glücklichen Mann, Alicia.
+
+951
+01:19:02,247 --> 01:19:03,885
+So unglücklich.
+
+952
+01:19:07,487 --> 01:19:09,000
+-Da sind wir.
+-Das ist das Haus?
+
+953
+01:19:09,087 --> 01:19:11,282
+Es ist in der Nähe meiner Arbeit.
+
+954
+01:19:11,367 --> 01:19:13,756
+John? Du hast Besuch.
+
+955
+01:19:17,087 --> 01:19:17,997
+Hallo.
+
+956
+01:19:20,847 --> 01:19:22,405
+Ich hoffe, das ist OK.
+
+957
+01:19:29,647 --> 01:19:30,796
+Hallo, Chef.
+
+958
+01:19:32,567 --> 01:19:34,523
+-Zigarette?
+-Nein, danke.
+
+959
+01:19:34,767 --> 01:19:36,166
+Ich habe aufgehört.
+
+960
+01:19:40,447 --> 01:19:41,766
+-Hallo.
+-He, John.
+
+961
+01:19:44,567 --> 01:19:46,478
+Hast du Harvey kennen gelernt?
+
+962
+01:19:49,287 --> 01:19:50,925
+-Es gibt keinen...
+-Ruhig, es ist OK.
+
+963
+01:19:51,007 --> 01:19:53,840
+Was bringt es, verrückt zu sein,
+ohne mal Spaß zu machen?
+
+964
+01:19:53,927 --> 01:19:56,441
+Herrgott, John, ich hätte es wissen sollen.
+
+965
+01:19:58,807 --> 01:19:59,842
+Da bitte.
+
+966
+01:20:01,887 --> 01:20:05,243
+-Die kann ich doch später nehmen.
+-Die sollst du jetzt nehmen.
+
+967
+01:20:06,567 --> 01:20:08,683
+-Kann ich etwas bringen?
+-Mir nicht.
+
+968
+01:20:09,927 --> 01:20:10,916
+OK.
+
+969
+01:20:14,287 --> 01:20:18,246
+Also, ich habe in der Stadt
+einen Workshop abgehalten.
+
+970
+01:20:18,327 --> 01:20:20,204
+Heute Abend fahre ich zurück.
+
+971
+01:20:20,567 --> 01:20:23,604
+Bender wollte gerne vorbeikommen,
+
+972
+01:20:24,207 --> 01:20:26,960
+dich besuchen. Hallo sagen.
+
+973
+01:20:27,247 --> 01:20:28,566
+Überempfindlich?
+
+974
+01:20:29,047 --> 01:20:30,036
+Ja.
+
+975
+01:20:31,527 --> 01:20:33,404
+Das wäre ich vermutlich auch.
+
+976
+01:20:33,567 --> 01:20:35,478
+Aber, verdammt, so ist es eben.
+
+977
+01:20:38,887 --> 01:20:41,196
+Ich versuche, die Riemann-Hypothese zu lösen.
+
+978
+01:20:43,367 --> 01:20:44,720
+O ja?
+
+979
+01:20:45,527 --> 01:20:48,519
+Ich dachte mir, wenn ich sie verblüffe,
+
+980
+01:20:48,727 --> 01:20:50,797
+müssen sie mich wieder einstellen.
+
+981
+01:20:52,327 --> 01:20:55,205
+Aber mit den Medikamenten ist es schwierig,
+
+982
+01:20:55,407 --> 01:20:58,240
+denn es ist schwer,
+
+983
+01:21:01,247 --> 01:21:03,363
+die Lösung zu sehen.
+
+984
+01:21:10,927 --> 01:21:13,157
+John, du solltest es langsam angehen.
+
+985
+01:21:13,807 --> 01:21:17,516
+Es gibt noch andere Dinge außer Arbeit.
+
+986
+01:21:20,247 --> 01:21:21,441
+Und die wären?
+
+987
+01:21:56,247 --> 01:21:58,158
+Worüber denkst du nach?
+
+988
+01:22:01,727 --> 01:22:03,479
+Was tun die Leute?
+
+989
+01:22:03,687 --> 01:22:05,598
+Das ist das Leben, John.
+
+990
+01:22:05,967 --> 01:22:08,959
+Mögliche Aktivitäten plus Bedeutung.
+
+991
+01:22:17,567 --> 01:22:19,956
+Du könntest versuchen,
+aus dem Haus zu gehen.
+
+992
+01:22:20,047 --> 01:22:21,685
+Weißt du, vielleicht...
+
+993
+01:22:22,927 --> 01:22:24,519
+mit den Leuten reden.
+
+994
+01:22:29,207 --> 01:22:31,801
+Du könntest versuchen,
+den Müll rauszubringen.
+
+995
+01:22:52,647 --> 01:22:55,445
+Und dann kommt mehr und noch mehr...
+
+996
+01:23:07,207 --> 01:23:08,799
+Mit wem hast du geredet?
+
+997
+01:23:10,607 --> 01:23:11,881
+Dem Müllmann.
+
+998
+01:23:20,607 --> 01:23:22,723
+Abends kommen die Müllmänner nicht.
+
+999
+01:23:25,687 --> 01:23:27,439
+Hier anscheinend doch.
+
+1000
+01:23:52,647 --> 01:23:53,716
+Tut mir Leid.
+
+1001
+01:24:58,207 --> 01:25:00,084
+Liegt es an den Medikamenten?
+
+1002
+01:25:39,607 --> 01:25:41,677
+Ich weiß nicht, was ich tun soll.
+
+1003
+01:25:58,847 --> 01:26:02,044
+Meine Mutter behält das Baby
+noch etwas bei sich.
+
+1004
+01:26:02,807 --> 01:26:05,196
+Ich kann drei Überstunden frei bekommen.
+
+1005
+01:26:30,127 --> 01:26:31,526
+Ich gehe schlafen.
+
+1006
+01:26:38,527 --> 01:26:40,165
+Gute Nacht.
+
+1007
+01:27:56,527 --> 01:27:58,279
+Schön, dich zu sehen, John.
+
+1008
+01:27:59,727 --> 01:28:01,080
+Es ist lange her.
+
+1009
+01:28:02,207 --> 01:28:03,196
+Parcher?
+
+1010
+01:28:04,247 --> 01:28:05,282
+Jawohl.
+
+1011
+01:28:08,567 --> 01:28:10,046
+Sie sind nicht real!
+
+1012
+01:28:10,207 --> 01:28:13,005
+Natürlich bin ich das.
+Seien Sie nicht lächerlich.
+
+1013
+01:28:17,287 --> 01:28:20,040
+Ich glaube nicht, dass Sie das tun sollten.
+
+1014
+01:28:20,887 --> 01:28:23,720
+Es wird Zeit,
+dass Sie lhre Arbeit wieder aufnehmen.
+
+1015
+01:28:23,807 --> 01:28:26,685
+Die Bombe ist jetzt
+in den USA positioniert worden.
+
+1016
+01:28:28,847 --> 01:28:33,045
+Da lhre Situation bekannt ist,
+müssen Sie gedeckt werden. "Mohammed",
+
+1017
+01:28:34,487 --> 01:28:36,762
+wir bringen den Berg zu Ihnen.
+
+1018
+01:28:54,567 --> 01:28:59,163
+Wir haben die Position der Bombe
+auf den Bereich der Ostküste eingeschränkt.
+
+1019
+01:29:00,527 --> 01:29:03,644
+Aber wir konnten ihre genaue Lage
+nicht bestimmen.
+
+1020
+01:29:05,807 --> 01:29:08,844
+lhr Kodes sind unglaublich komplex geworden.
+
+1021
+01:29:11,407 --> 01:29:13,238
+Sehen Sie sich das an, John.
+
+1022
+01:29:15,607 --> 01:29:16,437
+Was?
+
+1023
+01:29:17,887 --> 01:29:19,002
+Was?
+
+1024
+01:29:21,407 --> 01:29:24,080
+-Dr. Rosen sagte...
+-Rosen! Der Quacksalber!
+
+1025
+01:29:25,127 --> 01:29:28,836
+"Schizophrene Abspaltung von der Realität",
+ja? Psychologischer Unsinn!
+
+1026
+01:29:28,927 --> 01:29:30,565
+Sehen Sie mich an, John.
+
+1027
+01:29:31,327 --> 01:29:32,919
+John, sehen Sie mich an.
+
+1028
+01:29:34,847 --> 01:29:37,077
+Sehe ich aus wie ein Fantasiegebilde?
+
+1029
+01:29:38,927 --> 01:29:40,838
+In Wheeler werden Sie nicht geführt.
+
+1030
+01:29:40,927 --> 01:29:43,395
+Denken Sie, wir listen unser Personal auf?
+
+1031
+01:29:45,367 --> 01:29:48,325
+Tut mir Leid,
+dass Sie das alles durchmachen mussten.
+
+1032
+01:29:49,007 --> 01:29:51,840
+Ich habe viel Ärger auf mich genommen,
+um Sie zurückzuholen.
+
+1033
+01:29:51,927 --> 01:29:54,122
+Ich kann lhren Status am Wheeler erneuern.
+
+1034
+01:29:54,207 --> 01:29:57,165
+Ich kann die Welt wissen lassen,
+was Sie getan haben.
+
+1035
+01:29:57,287 --> 01:29:59,403
+Aber ich brauche Sie jetzt, Soldat.
+
+1036
+01:30:05,207 --> 01:30:07,437
+Ich hatte solche Angst,
+dass Sie nicht real seien.
+
+1037
+01:30:08,927 --> 01:30:10,918
+Princeton, New Jersey - April 1956
+
+1038
+01:30:15,407 --> 01:30:17,125
+Es zieht ein Gewitter auf.
+
+1039
+01:30:17,327 --> 01:30:19,557
+Ich hole nur schnell die Wäsche rein.
+
+1040
+01:30:19,967 --> 01:30:21,923
+Ich setze ihn in die Badewanne.
+
+1041
+01:30:25,047 --> 01:30:26,241
+Ist schon gut.
+
+1042
+01:30:27,727 --> 01:30:28,637
+OK.
+
+1043
+01:32:03,967 --> 01:32:04,877
+John!
+
+1044
+01:32:11,607 --> 01:32:14,360
+Ich habe es fast!
+Charles, pass auf das Baby auf.
+
+1045
+01:32:15,207 --> 01:32:16,083
+Nein!
+
+1046
+01:32:27,647 --> 01:32:31,322
+-Charles hat auf ihn geachtet. lhm ging's gut.
+-Es ist niemand hier.
+
+1047
+01:32:32,367 --> 01:32:33,641
+Hier ist niemand!
+
+1048
+01:32:33,727 --> 01:32:35,763
+lhm wurde
+ein Unsichtbarkeitsserum injiziert.
+
+1049
+01:32:35,847 --> 01:32:39,601
+Ich sehe ihn dank Chemikalien,
+die in meinen Blutkreislauf Einlass fanden,
+
+1050
+01:32:39,687 --> 01:32:41,678
+als das lmplantat sich auflöste.
+
+1051
+01:32:43,087 --> 01:32:46,159
+Ich konnte es dir nicht sagen,
+zu deinem eigenen Schutz!
+
+1052
+01:32:46,967 --> 01:32:48,685
+Alicia!
+
+1053
+01:32:53,407 --> 01:32:56,479
+-Nein!
+-Hallo, das Büro von Herrn Doktor Rosen, bitte.
+
+1054
+01:32:56,567 --> 01:32:58,444
+Du musst sie aufhalten, John.
+
+1055
+01:32:59,927 --> 01:33:02,077
+Lassen Sie sie aus dem Spiel.
+
+1056
+01:33:03,447 --> 01:33:06,041
+-Mit wem redest du?
+-Es ist nicht ihre Schuld.
+
+1057
+01:33:06,727 --> 01:33:08,877
+-Sie wird uns gefährden.
+-Nein, wird sie nicht.
+
+1058
+01:33:08,967 --> 01:33:10,639
+Sie kommen wieder ins Krankenhaus.
+
+1059
+01:33:10,727 --> 01:33:12,797
+-Antworte!
+-Unzählige Menschen werden sterben.
+
+1060
+01:33:12,887 --> 01:33:14,525
+Alicia, bitte leg den Hörer auf.
+
+1061
+01:33:14,607 --> 01:33:16,882
+-lch kann das nicht zulassen.
+-Ja, hallo?
+
+1062
+01:33:16,967 --> 01:33:19,925
+Hallo, ich möchte Herrn Doktor Rosen sprechen.
+Ist er da?
+
+1063
+01:33:20,007 --> 01:33:22,362
+Tut mir Leid, John.
+
+1064
+01:33:23,047 --> 01:33:24,196
+Nein!
+
+1065
+01:33:28,007 --> 01:33:30,475
+-Sie wissen, was Sie tun müssen.
+-Lass mich.
+
+1066
+01:33:30,647 --> 01:33:33,081
+-Sie ist ein zu großes Risiko.
+-Lass mich!
+
+1067
+01:33:33,887 --> 01:33:35,843
+Ich wollte dir nicht wehtun!
+
+1068
+01:33:37,447 --> 01:33:40,245
+Erledigen Sie sie. Sie weiß zu viel.
+
+1069
+01:33:43,647 --> 01:33:45,285
+Onkel John?
+
+1070
+01:33:45,367 --> 01:33:49,406
+Erledigen Sie das, Sie jämmerliches
+Stück Scheiße, sonst erledige ich Sie.
+
+1071
+01:33:50,007 --> 01:33:52,521
+Gott, John, tu, was er sagt.
+
+1072
+01:33:52,767 --> 01:33:55,201
+Bewegung, Soldat.
+
+1073
+01:33:55,367 --> 01:33:56,561
+Sofort.
+
+1074
+01:33:56,647 --> 01:33:57,796
+Onkel John?
+
+1075
+01:33:58,687 --> 01:34:00,598
+John, bitte!
+
+1076
+01:34:01,647 --> 01:34:03,160
+Sofort!
+
+1077
+01:34:03,287 --> 01:34:06,404
+Alicia und Charles existieren nie
+im selben Bereich.
+
+1078
+01:34:07,287 --> 01:34:08,845
+Parcher und Charles...
+
+1079
+01:34:10,687 --> 01:34:13,759
+Charles und Marcee
+können nicht mit Alicia koexistieren.
+
+1080
+01:34:18,847 --> 01:34:20,439
+Ich verstehe.
+
+1081
+01:34:36,527 --> 01:34:38,438
+Sie wird nie älter.
+
+1082
+01:34:41,327 --> 01:34:44,046
+Marcee kann nicht real sein.
+Sie wird nie älter.
+
+1083
+01:35:16,127 --> 01:35:17,685
+Sehen Sie sie jetzt?
+
+1084
+01:35:26,527 --> 01:35:28,165
+Ja.
+
+1085
+01:35:29,847 --> 01:35:32,361
+Warum haben Sie lhre Medikamente abgesetzt?
+
+1086
+01:35:34,447 --> 01:35:36,642
+Weil ich meine Arbeit nicht machen konnte.
+
+1087
+01:35:36,727 --> 01:35:38,558
+Ich konnte mit dem Baby nicht helfen.
+
+1088
+01:35:38,647 --> 01:35:40,319
+Ich konnte nicht...
+
+1089
+01:35:41,767 --> 01:35:44,361
+Ich konnte meine Frau nicht glücklich machen.
+
+1090
+01:35:46,567 --> 01:35:48,762
+Halten Sie das für besser, als verrückt zu sein?
+
+1091
+01:35:48,847 --> 01:35:53,079
+Wir müssen Ihnen stärkere Insulinschocks
+und neue Medikamente verabreichen.
+
+1092
+01:35:53,167 --> 01:35:54,759
+Nein.
+
+1093
+01:35:55,527 --> 01:35:58,917
+-Es muss einen anderen Weg geben.
+-Schizophrenie ist degenerativ.
+
+1094
+01:35:59,007 --> 01:36:02,636
+An manchen Tagen mag es keine Symptome
+geben, an anderen ist es schlimmer.
+
+1095
+01:36:02,727 --> 01:36:05,639
+Es ist ein Problem. Mehr nicht.
+
+1096
+01:36:06,247 --> 01:36:10,206
+Es ist ein Problem ohne Lösung.
+Und das ist, was ich tue. Probleme lösen.
+
+1097
+01:36:10,287 --> 01:36:11,356
+Das ist keine Mathematik.
+
+1098
+01:36:11,447 --> 01:36:14,996
+Sie können keine Formel erstellen,
+um die Welt damit anders wahrzunehmen.
+
+1099
+01:36:15,087 --> 01:36:18,318
+-lch strenge den Verstand an.
+-Es gibt kein Theorem, keine Beweise.
+
+1100
+01:36:18,407 --> 01:36:20,682
+-Rational existiert da kein Ausweg.
+-Warum nicht?
+
+1101
+01:36:20,767 --> 01:36:23,918
+Vor allem, weil sich das Problem
+in lhrem Geist befindet.
+
+1102
+01:36:25,567 --> 01:36:27,683
+Ich kann es tun.
+
+1103
+01:36:28,327 --> 01:36:31,000
+Ich kann es ausarbeiten. Ich brauche nur Zeit.
+
+1104
+01:36:34,727 --> 01:36:36,479
+Ist das das Baby?
+
+1105
+01:36:38,407 --> 01:36:40,637
+Das Baby ist bei meiner Mutter, John.
+
+1106
+01:36:53,647 --> 01:36:55,683
+Ohne Behandlung, John,
+
+1107
+01:36:56,607 --> 01:36:58,882
+könnten die Fantasien Überhand nehmen,
+
+1108
+01:36:59,447 --> 01:37:00,926
+und zwar gänzlich.
+
+1109
+01:37:18,087 --> 01:37:19,839
+Bist du bald fertig?
+
+1110
+01:37:22,127 --> 01:37:24,357
+Rosen wartet draußen.
+
+1111
+01:37:25,007 --> 01:37:27,601
+Ich kann nicht zurück ins Krankenhaus.
+
+1112
+01:37:30,967 --> 01:37:33,197
+Ich werde dann nicht mehr heimkommen.
+
+1113
+01:37:36,527 --> 01:37:38,643
+Er sagte, wenn du das sagen würdest,
+
+1114
+01:37:39,447 --> 01:37:42,917
+dann hätte er Einlieferungspapiere,
+die ich unterschreiben soll.
+
+1115
+01:37:45,047 --> 01:37:47,925
+Nun, vielleicht wirst du sie nicht unterschreiben.
+
+1116
+01:37:48,367 --> 01:37:50,676
+Vielleicht gibst du mir nur etwas Zeit.
+
+1117
+01:37:53,207 --> 01:37:55,721
+Ich werde versuchen, eine Lösung zu finden.
+
+1118
+01:37:57,327 --> 01:37:59,124
+Was immer du tust,
+
+1119
+01:37:59,847 --> 01:38:01,997
+Rosen hat in einem Punkt Recht.
+
+1120
+01:38:03,047 --> 01:38:05,481
+Du solltest nicht hier sein.
+
+1121
+01:38:07,327 --> 01:38:09,204
+Ich bin jetzt eine Bedrohung.
+
+1122
+01:38:14,527 --> 01:38:16,438
+Hättest du mir wehgetan, John?
+
+1123
+01:38:25,567 --> 01:38:27,159
+Ich weiß es nicht.
+
+1124
+01:38:27,967 --> 01:38:32,119
+Vielleicht sollltest du dich
+von Doktor Rosen zu deiner Mutter fahren lassen.
+
+1125
+01:38:50,927 --> 01:38:52,838
+Er sagte, ich solle fortgehen.
+
+1126
+01:38:59,727 --> 01:39:01,240
+Ich verstehe.
+
+1127
+01:39:34,927 --> 01:39:39,284
+Rosen sagte, ich solle anrufen,
+wenn du versuchen solltest, mich zu töten.
+
+1128
+01:39:54,567 --> 01:39:56,762
+Willst du wissen, was real ist?
+
+1129
+01:40:01,447 --> 01:40:03,278
+Das hier.
+
+1130
+01:40:10,327 --> 01:40:11,840
+Das hier.
+
+1131
+01:40:17,087 --> 01:40:18,486
+Das hier.
+
+1132
+01:40:20,687 --> 01:40:22,405
+Das ist real.
+
+1133
+01:40:25,607 --> 01:40:27,279
+Vielleicht sitzt der Teil,
+
+1134
+01:40:27,687 --> 01:40:30,155
+der aus dem Traum zu erwachen weiß,
+
+1135
+01:40:31,287 --> 01:40:33,118
+nicht hier.
+
+1136
+01:40:36,887 --> 01:40:39,242
+Vielleicht sitzt er hier.
+
+1137
+01:40:44,247 --> 01:40:46,317
+Ich muss glauben können,
+
+1138
+01:40:46,407 --> 01:40:49,319
+dass etwas Außergewöhnliches
+möglich ist.
+
+1139
+01:41:35,607 --> 01:41:38,838
+Universität Princeton - Zwei Monate später
+
+1140
+01:41:49,847 --> 01:41:51,519
+Herein.
+
+1141
+01:41:59,967 --> 01:42:01,719
+Hallo, Martin.
+
+1142
+01:42:06,647 --> 01:42:07,841
+Du lieber Gott.
+
+1143
+01:42:09,487 --> 01:42:11,045
+Nein. Ich...
+
+1144
+01:42:12,047 --> 01:42:16,325
+Den habe ich nicht. Mein Retterkomplex
+äußerst sich in anderer Form.
+
+1145
+01:42:17,727 --> 01:42:19,843
+Ich habe gehört, was passiert ist, und...
+
+1146
+01:42:19,927 --> 01:42:22,566
+wollte schreiben
+und dich im MacArthur erreichen,
+
+1147
+01:42:22,647 --> 01:42:24,717
+aber du warst fort und ich...
+
+1148
+01:42:36,447 --> 01:42:38,324
+Das ist Helingers altes Büro.
+
+1149
+01:42:38,527 --> 01:42:40,040
+Ja.
+
+1150
+01:42:40,167 --> 01:42:42,556
+Ja, ich habe es ihm abgeluchst.
+
+1151
+01:42:44,887 --> 01:42:48,038
+Scheint, als hättest du letztlich
+doch gewonnen, Martin.
+
+1152
+01:42:48,687 --> 01:42:51,155
+Sie hatten Unrecht, John. Keiner gewinnt.
+
+1153
+01:42:51,607 --> 01:42:53,643
+Bitte, setz dich doch.
+
+1154
+01:42:54,527 --> 01:42:56,677
+Gott, es tut so gut, dich zu sehen.
+
+1155
+01:42:59,287 --> 01:43:01,596
+Was bringt dich wieder nach Princeton?
+
+1156
+01:43:03,127 --> 01:43:05,357
+John, tut mir Leid,
+aber du musst es ihm sagen.
+
+1157
+01:43:05,447 --> 01:43:07,597
+Sag ihm, du seist ein Genie.
+Du bist ein Genie!
+
+1158
+01:43:07,687 --> 01:43:11,475
+Sag ihm, dass deine Arbeit
+einen Wendepunkt erreicht hat. John, bitte!
+
+1159
+01:43:24,647 --> 01:43:28,242
+Besteht die Chance, dass du ignorierst,
+was ich gerade getan habe?
+
+1160
+01:43:29,647 --> 01:43:32,207
+Natürlich, wofür sonst sind alte Freunde da?
+
+1161
+01:43:33,687 --> 01:43:35,962
+Sind wir das, Martin? Freunde?
+
+1162
+01:43:36,247 --> 01:43:38,238
+Natürlich, John.
+
+1163
+01:43:38,807 --> 01:43:41,082
+Natürlich. Das sind wir immer gewesen.
+
+1164
+01:43:45,767 --> 01:43:47,598
+Alicia und ich denken,
+
+1165
+01:43:48,247 --> 01:43:51,557
+dass, wenn ich mich anpasse,
+Teil einer Gemeinschaft werde,
+
+1166
+01:43:54,047 --> 01:43:55,526
+dies mir helfen könnte.
+
+1167
+01:43:55,607 --> 01:43:59,441
+Dass ein gewisser Grad an Bindung,
+gewohnte Orte, gewohnte Menschen,
+
+1168
+01:44:00,487 --> 01:44:02,159
+mir helfen könnte,
+
+1169
+01:44:02,847 --> 01:44:05,236
+gewisse Illusionen,
+
+1170
+01:44:07,647 --> 01:44:10,241
+die ich habe, auszugrenzen.
+
+1171
+01:44:15,567 --> 01:44:18,639
+Es ist viel, worum ich bitte,
+und wo ich jetzt hier bin,
+
+1172
+01:44:20,087 --> 01:44:22,806
+bin ich ziemlich sicher,
+dass du ablehnen wirst.
+
+1173
+01:44:25,567 --> 01:44:29,082
+Aber ich fragte mich,
+ob ich mich hier vielleicht aufhalten kann.
+
+1174
+01:44:41,847 --> 01:44:43,917
+Brauchst du ein Büro?
+
+1175
+01:44:48,087 --> 01:44:49,361
+Nein.
+
+1176
+01:44:52,327 --> 01:44:54,477
+Nein, ich könnte in der Bibliothek arbeiten.
+
+1177
+01:44:55,047 --> 01:44:57,322
+Dieser Typ will in die Bibliothek spazieren,
+
+1178
+01:44:57,407 --> 01:45:00,285
+-aber er hat keinen Ausweis.
+-Warum liest keiner je die Memos?
+
+1179
+01:45:00,367 --> 01:45:02,085
+Da ist er vollends durchgedreht.
+
+1180
+01:45:02,167 --> 01:45:04,840
+Sie sind nicht real! Sie sind nicht real!
+
+1181
+01:45:05,047 --> 01:45:06,162
+Es gibt keine Mission.
+
+1182
+01:45:07,167 --> 01:45:08,759
+Oh, Scheiße. Scheiße.
+
+1183
+01:45:09,807 --> 01:45:12,162
+Sie sind nicht real!
+
+1184
+01:45:12,447 --> 01:45:15,439
+Ist es das, was Sie sind, Soldat?
+Eine nutzlose Seele?
+
+1185
+01:45:15,527 --> 01:45:17,358
+Der Dorftrottel?
+
+1186
+01:45:17,447 --> 01:45:19,881
+-lch bin kein Soldat.
+-Sie enden in einer Zelle!
+
+1187
+01:45:19,967 --> 01:45:22,003
+Alt, wertlos, ausrangiert.
+
+1188
+01:45:22,087 --> 01:45:23,236
+Es gibt keine Mission.
+
+1189
+01:45:23,327 --> 01:45:26,524
+Und während Sie Blödsinn brabbeln,
+verbrennt die Welt zu Asche!
+
+1190
+01:45:26,607 --> 01:45:28,837
+Sie sind nicht real!
+
+1191
+01:45:28,927 --> 01:45:30,883
+Sie reden immer noch mit mir, Soldat.
+
+1192
+01:45:30,967 --> 01:45:34,004
+Es gibt keine Mission! Ich bin kein Soldat!
+
+1193
+01:45:38,927 --> 01:45:40,679
+John! Es ist OK.
+
+1194
+01:45:40,767 --> 01:45:42,644
+Hörte, was passiert ist. Tut mir Leid.
+
+1195
+01:45:42,727 --> 01:45:44,558
+-lch bin kein Soldat.
+-John. He, Nash.
+
+1196
+01:45:44,647 --> 01:45:47,036
+Nash, du bist in Ordnung.
+
+1197
+01:45:50,007 --> 01:45:51,565
+Nash.
+
+1198
+01:45:55,487 --> 01:45:58,047
+Meine Damen und Herren,
+der große John Nash!
+
+1199
+01:45:58,127 --> 01:45:59,321
+John?
+
+1200
+01:46:01,687 --> 01:46:03,484
+Du hättest ihre Mienen sehen sollen.
+
+1201
+01:46:04,727 --> 01:46:06,604
+Jeder starrte mich nur an.
+
+1202
+01:46:06,687 --> 01:46:10,805
+John, du weißt,
+dass Stress die Halluzinationen fördert.
+
+1203
+01:46:11,927 --> 01:46:13,519
+Ich weiß.
+
+1204
+01:46:15,927 --> 01:46:17,918
+Aber dann, auf dem Heimweg,
+
+1205
+01:46:18,447 --> 01:46:20,722
+war Charles da.
+
+1206
+01:46:24,447 --> 01:46:27,007
+Manchmal fehlt mir
+die Unterhaltung mit ihm.
+
+1207
+01:46:30,247 --> 01:46:31,999
+Vielleicht hat Rosen Recht.
+
+1208
+01:46:33,087 --> 01:46:36,477
+Vielleicht sollte ich überlegen,
+wieder ins Krankenhaus zu gehen.
+
+1209
+01:46:36,567 --> 01:46:38,876
+Nein. Komm her.
+
+1210
+01:46:43,367 --> 01:46:45,278
+Vielleicht versuchst du es morgen noch mal.
+
+1211
+01:47:09,087 --> 01:47:11,760
+John, du kannst mich nicht ewig ignorieren.
+
+1212
+01:47:17,487 --> 01:47:20,081
+Du warst mir ein sehr guter Freund.
+
+1213
+01:47:20,247 --> 01:47:21,441
+Der beste.
+
+1214
+01:47:23,407 --> 01:47:25,796
+Aber ich werde nie wieder mit dir reden.
+
+1215
+01:47:28,887 --> 01:47:30,525
+Ich kann einfach nicht.
+
+1216
+01:47:36,247 --> 01:47:38,636
+Das gilt auch für dich, kleines Mädchen.
+
+1217
+01:47:46,207 --> 01:47:47,526
+Auf Wiedersehen.
+
+1218
+01:47:54,207 --> 01:47:55,526
+Auf Wiedersehen.
+
+1219
+01:48:09,607 --> 01:48:12,519
+Ich fragte mich,
+ob ich bei lhrem Kurs zuhören darf.
+
+1220
+01:48:13,447 --> 01:48:15,802
+Es ist mir eine Ehre, Professor Nash.
+
+1221
+01:48:19,087 --> 01:48:20,520
+Stimmt etwas nicht?
+
+1222
+01:48:22,527 --> 01:48:24,483
+Das wird mein erster Kurs sein.
+
+1223
+01:48:27,927 --> 01:48:29,201
+Guten Morgen,
+
+1224
+01:48:30,287 --> 01:48:32,198
+ihr strebsamen jungen Geister.
+
+1225
+01:48:51,567 --> 01:48:53,398
+Es wird nicht klappen, John.
+
+1226
+01:48:54,127 --> 01:48:56,197
+Du erniedrigst dich nur selbst.
+
+1227
+01:48:58,647 --> 01:49:00,080
+Das ist jämmerlich!
+
+1228
+01:49:00,807 --> 01:49:02,399
+Du bist jämmerlich.
+
+1229
+01:49:02,847 --> 01:49:04,519
+Ich schäme mich für dich!
+
+1230
+01:49:31,007 --> 01:49:32,042
+O Mann!
+
+1231
+01:49:36,527 --> 01:49:39,087
+Kommt ihr? lhr kommt zu spät.
+
+1232
+01:49:41,927 --> 01:49:43,997
+-Papa, du hast mein Buch.
+-Was?
+
+1233
+01:49:44,247 --> 01:49:47,125
+-Du hast mein Buch.
+-Oh, stimmt.
+
+1234
+01:49:47,687 --> 01:49:48,676
+Danke.
+
+1235
+01:49:50,007 --> 01:49:51,281
+Tschüs.
+
+1236
+01:49:51,687 --> 01:49:53,006
+Bis heute Abend.
+
+1237
+01:49:53,847 --> 01:49:55,200
+Tschüs, Liebling.
+
+1238
+01:51:11,847 --> 01:51:15,123
+Universität Princeton - Oktober 1978
+
+1239
+01:51:24,407 --> 01:51:25,965
+Hast du den Riemann gelöst?
+
+1240
+01:51:26,047 --> 01:51:27,685
+Nun, was meinst du?
+
+1241
+01:51:29,167 --> 01:51:32,682
+Das ist ein Analog zu Frobenius
+zur nonkommunikativen Ausweitung.
+
+1242
+01:51:34,567 --> 01:51:35,795
+Ja, das ist es.
+
+1243
+01:51:36,487 --> 01:51:40,162
+Aber es scheint nur sporadisch zu funktionieren,
+also, nein. Aber...
+
+1244
+01:51:40,807 --> 01:51:42,718
+ich glaube, ich mache Fortschritte.
+
+1245
+01:51:46,927 --> 01:51:48,883
+Sie sind John Nash, nicht wahr?
+
+1246
+01:51:51,887 --> 01:51:53,479
+-Toby Kelly.
+-Hallo.
+
+1247
+01:51:53,647 --> 01:51:57,083
+Ich studierte die Gleichung,
+die Sie hier in Princeton aufgestellt haben.
+
+1248
+01:51:57,167 --> 01:52:00,125
+Um mit etwas ganz Neuem aufzuwarten,
+so wie Sie das taten.
+
+1249
+01:52:00,207 --> 01:52:01,845
+Weißt du, ich war jung.
+
+1250
+01:52:03,167 --> 01:52:05,203
+Ich habe eine Theorie entwickelt.
+
+1251
+01:52:19,167 --> 01:52:21,123
+Ich glaube, ich kann beweisen, dass sich...
+
+1252
+01:52:21,207 --> 01:52:23,675
+Galois' Theorie auch auf die Räume
+ausweiten lässt.
+
+1253
+01:52:23,767 --> 01:52:28,238
+Dass alles miteinander verbunden ist.
+Dass alles Teil desselben Subjekts ist.
+
+1254
+01:52:29,647 --> 01:52:31,603
+Wann hast du das letzte Mal etwas gegessen?
+
+1255
+01:52:31,687 --> 01:52:34,121
+-Wie bitte?
+-Du weißt schon, Nahrung.
+
+1256
+01:52:36,287 --> 01:52:37,481
+Meine Frau...
+
+1257
+01:52:38,207 --> 01:52:39,845
+liebt Mayonnaise.
+
+1258
+01:52:42,247 --> 01:52:43,362
+Danke.
+
+1259
+01:52:45,487 --> 01:52:46,522
+Weiter.
+
+1260
+01:52:47,127 --> 01:52:48,446
+Der Funktor...
+
+1261
+01:52:49,407 --> 01:52:51,238
+liegt in den zwei Kategorien.
+
+1262
+01:52:55,687 --> 01:52:56,676
+Alicia!
+
+1263
+01:52:58,007 --> 01:52:58,996
+Alicia!
+
+1264
+01:52:59,527 --> 01:53:02,439
+Treffen diese bei Höchstgeschwindigkeit
+aufeinander,
+
+1265
+01:53:02,767 --> 01:53:04,598
+sagen wir, mit 15 kmlh.
+
+1266
+01:53:04,687 --> 01:53:07,565
+Also hast du eine Fliege
+auf dem Reifen von Fahrrad "B",
+
+1267
+01:53:07,647 --> 01:53:10,559
+und die Fliege, die mit 30 kmlh reisen kann,
+verlässt...
+
+1268
+01:53:10,647 --> 01:53:13,684
+den Reifen von "B"
+und fliegt zum Reifen von Fahrrad "A"...
+
+1269
+01:53:13,767 --> 01:53:16,839
+und hin und her,
+bis die beiden Fahrräder kollidieren...
+
+1270
+01:53:16,927 --> 01:53:19,521
+und die arme, kleine Fliege zerquetscht wird.
+
+1271
+01:53:19,607 --> 01:53:23,236
+Das ist das Wichtige daran, sich darauf
+zu konzentrieren und den Bereich,
+
+1272
+01:53:23,327 --> 01:53:26,319
+der dich beschäftigt, zu verstehen.
+Mathematik ist sehr...
+
+1273
+01:53:26,407 --> 01:53:29,717
+spezifisch und eine Kunstform.
+Egal was die Leute dir erzählen,
+
+1274
+01:53:29,807 --> 01:53:33,004
+besonders Biologen.
+Höre nicht auf diese Leute.
+
+1275
+01:53:33,087 --> 01:53:36,284
+Zurück zu dem, was du tatest.
+Vielleicht will ich es dir klauen,
+
+1276
+01:53:36,367 --> 01:53:38,119
+ein Buch schreiben und berühmt werden.
+
+1277
+01:53:39,407 --> 01:53:42,126
+Ich dachte, ich könnte vielleicht unterrichten.
+
+1278
+01:53:43,287 --> 01:53:46,677
+Eine Klasse mit 50 Schülern
+wäre für jeden eine Mammutaufgabe.
+
+1279
+01:53:47,767 --> 01:53:50,486
+Zudem, John, bist du ein schrecklicher Lehrer.
+
+1280
+01:53:51,927 --> 01:53:54,077
+Ich bin gewöhnungsbedürftig, Martin.
+
+1281
+01:53:55,007 --> 01:53:58,124
+Ich hoffte,
+dass ich noch etwas zu geben hätte.
+
+1282
+01:53:58,207 --> 01:53:59,606
+Was ist mit...
+
+1283
+01:54:00,287 --> 01:54:01,766
+Nun, du weißt schon.
+
+1284
+01:54:02,047 --> 01:54:03,366
+Sind sie fort?
+
+1285
+01:54:09,927 --> 01:54:11,963
+Nein, sie sind nicht fort.
+
+1286
+01:54:12,407 --> 01:54:14,159
+Das werden sie vielleicht nie sein.
+
+1287
+01:54:14,247 --> 01:54:18,843
+Aber ich habe mir angewöhnt, sie zu ignorieren,
+und sie scheinen aufgegeben zu haben.
+
+1288
+01:54:19,727 --> 01:54:24,198
+Hast du dir mal überlegt, wie es mit
+unseren Träumen und Alpträumen ist, Martin?
+
+1289
+01:54:24,967 --> 01:54:28,004
+Dass man sie nähren muss,
+damit sie lebendig bleiben?
+
+1290
+01:54:28,127 --> 01:54:30,721
+John, trotzdem verfolgen sie dich noch immer.
+
+1291
+01:54:31,807 --> 01:54:36,244
+Sie sind meine Vergangenheit, Martin.
+Jeder wird von seiner Vergangenheit verfolgt.
+
+1292
+01:54:38,767 --> 01:54:40,200
+Also, bis dann.
+
+1293
+01:54:40,567 --> 01:54:43,035
+John, ich werde mit der Fakultät sprechen.
+
+1294
+01:54:44,807 --> 01:54:46,445
+Vielleicht im Frühling.
+
+1295
+01:54:51,887 --> 01:54:53,002
+He, Nash.
+
+1296
+01:54:57,887 --> 01:54:59,206
+Haben Sie Angst?
+
+1297
+01:55:01,607 --> 01:55:02,801
+Schreckliche.
+
+1298
+01:55:03,407 --> 01:55:05,682
+Todesangst. Bin wie versteinert.
+
+1299
+01:55:05,887 --> 01:55:07,718
+Sie verwirren mich zutiefst.
+
+1300
+01:55:08,047 --> 01:55:10,766
+Du solltest jetzt besser Alicia anrufen, sonst...
+
+1301
+01:55:10,847 --> 01:55:12,883
+-lch rufe sie an.
+-...kriege ich großen Ärger.
+
+1302
+01:55:16,527 --> 01:55:18,085
+-Danke, Professor.
+-Auf Wiedersehen.
+
+1303
+01:55:18,167 --> 01:55:19,680
+-Schönen Tag noch.
+-Auf Wiedersehen.
+
+1304
+01:55:19,767 --> 01:55:21,246
+Universität Princeton - März 1994
+
+1305
+01:55:21,327 --> 01:55:23,045
+Meine Papiere, Herr Bayer.
+
+1306
+01:55:23,327 --> 01:55:24,601
+Professor Nash?
+
+1307
+01:55:28,247 --> 01:55:30,886
+-Können Sie ihn sehen?
+-Ja.
+
+1308
+01:55:30,967 --> 01:55:32,116
+Ganz sicher?
+
+1309
+01:55:32,327 --> 01:55:34,443
+Absolut? Sie sehen ihn?
+
+1310
+01:55:35,007 --> 01:55:36,076
+Gut.
+
+1311
+01:55:36,447 --> 01:55:39,120
+Verzeihen Sie, bei Unbekannten
+bin ich immer misstrauisch.
+
+1312
+01:55:39,207 --> 01:55:42,244
+-Bis nächste Woche, Herr Professor.
+-Bis nächste Woche.
+
+1313
+01:55:42,687 --> 01:55:47,283
+Da ich jetzt also weiß, dass Sie real sind,
+wer sind Sie und was kann ich für Sie tun?
+
+1314
+01:55:47,407 --> 01:55:49,796
+Herr Professor, ich heiße Thomas King.
+
+1315
+01:55:49,887 --> 01:55:50,956
+Thomas King?
+
+1316
+01:55:51,047 --> 01:55:55,916
+Ich bin hier, um Sie davon zu unterrichten,
+dass Sie in der Auswahl für den Nobelpreis sind.
+
+1317
+01:56:03,247 --> 01:56:05,363
+Verzeihung, aber ich bin leicht verblüfft.
+
+1318
+01:56:05,447 --> 01:56:08,723
+In den letzten paar Jahren ist lhre Gleichung
+zu einem Meilenstein...
+
+1319
+01:56:08,807 --> 01:56:10,399
+der modernen Wirtschaft geworden.
+
+1320
+01:56:10,487 --> 01:56:12,557
+Auf einmal schwören alle darauf.
+
+1321
+01:56:12,647 --> 01:56:16,959
+Was ist mit meiner Arbeit an anderen Projekten
+wie dem Ursprung von Faktoren?
+
+1322
+01:56:17,047 --> 01:56:20,244
+Die Anwendung lhrer Handelstheorie...
+
+1323
+01:56:20,487 --> 01:56:24,241
+auf die Auktionen von Frequenzen
+oder die Kartellfälle...
+
+1324
+01:56:24,327 --> 01:56:25,726
+-Kartellfälle?
+-Ja.
+
+1325
+01:56:25,807 --> 01:56:27,957
+Daran hätte ich nie gedacht.
+
+1326
+01:56:28,447 --> 01:56:32,725
+Habe ich einen Grad an Ehrlichkeit erreicht,
+der an Dummheit grenzt?
+
+1327
+01:56:33,007 --> 01:56:36,443
+-Nein, haben Sie nicht.
+-Denn das wäre mir nie in den Sinn gekommen.
+
+1328
+01:56:41,607 --> 01:56:43,165
+Trinken wir etwas Tee?
+
+1329
+01:56:45,087 --> 01:56:49,000
+Ich gehe nicht dort hinein.
+Ich esse meine Brote immer in der Bibliothek.
+
+1330
+01:56:50,127 --> 01:56:53,642
+Kommen Sie, John. Trinken wir eine Tasse Tee.
+Es ist ein wichtiger Tag.
+
+1331
+01:56:53,727 --> 01:56:58,960
+Die meisten kommerziellen Teemarken
+entsprechen nicht meinem Geschmack.
+
+1332
+01:56:59,047 --> 01:57:00,366
+Ich bin nicht...
+
+1333
+01:57:00,527 --> 01:57:03,883
+Es gibt ein paar nordindische Tees,
+die gehaltvoll genug sind...
+
+1334
+01:57:03,967 --> 01:57:07,676
+Deren Geschmack mag ich.
+Ich war in diesem Raum seit...
+
+1335
+01:57:07,767 --> 01:57:10,725
+vielen Jahren nicht mehr.
+Ich frage, was für Tee sie servieren.
+
+1336
+01:57:12,727 --> 01:57:14,445
+Nun, danke, junge Frau.
+
+1337
+01:57:16,247 --> 01:57:20,559
+Die Dinge haben sich hier wirklich geändert.
+Ich habe einen Sohn in diesem Alter.
+
+1338
+01:57:21,687 --> 01:57:22,722
+Harvard.
+
+1339
+01:57:28,487 --> 01:57:33,481
+Ich dachte, die Nominierungen
+für den Nobelpreis seien geheim.
+
+1340
+01:57:33,967 --> 01:57:37,437
+Ich dachte, davon erführe man nur,
+wenn man gewonnen oder verloren hat.
+
+1341
+01:57:37,527 --> 01:57:41,281
+Das ist in der Regel auch so,
+aber dies sind besondere Umstände.
+
+1342
+01:57:42,847 --> 01:57:44,724
+Die Preise sind beträchtlich.
+
+1343
+01:57:45,167 --> 01:57:48,125
+Sie müssen privat finanziert werden,
+
+1344
+01:57:49,487 --> 01:57:51,921
+daher ist das Ansehen des Nobelpreises...
+
+1345
+01:57:53,687 --> 01:57:56,918
+Sie kamen also her, um herauszufinden,
+ob ich verrückt bin?
+
+1346
+01:57:57,727 --> 01:58:01,402
+Um zu sehen, ob ich durchdrehen würde,
+sollte ich wirklich gewinnen?
+
+1347
+01:58:03,167 --> 01:58:07,160
+Um das Podium tanzen, einen Strip hinlegen
+und wie ein Huhn gackern?
+
+1348
+01:58:07,767 --> 01:58:09,439
+Etwas in der Art, ja.
+
+1349
+01:58:11,007 --> 01:58:12,599
+Wäre Ihnen das peinlich?
+
+1350
+01:58:16,527 --> 01:58:18,040
+Ja, das ist möglich.
+
+1351
+01:58:21,287 --> 01:58:22,640
+Sehen Sie, ich...
+
+1352
+01:58:24,207 --> 01:58:25,640
+Ich bin verrückt.
+
+1353
+01:58:27,847 --> 01:58:29,963
+Ich nehme die neuesten Medikamente,
+
+1354
+01:58:33,407 --> 01:58:36,205
+aber ich sehe immer noch Dinge,
+die nicht da sind.
+
+1355
+01:58:38,407 --> 01:58:40,682
+Es ist meine Wahl, sie zu ignorieren.
+
+1356
+01:58:42,567 --> 01:58:46,719
+Wie eine Diät des Geistes. Ich entscheide,
+gewissen Lüsten nicht nachzugeben.
+
+1357
+01:58:49,167 --> 01:58:51,362
+Wie meiner Lust, rumzuplappern.
+
+1358
+01:58:53,247 --> 01:58:56,398
+Vielleicht meiner Lust an Vorstellungen
+und Träumen.
+
+1359
+01:58:57,807 --> 01:58:59,286
+Professor Nash.
+
+1360
+01:59:04,207 --> 01:59:06,596
+Es ist gut, Sie hier zu haben, John.
+
+1361
+01:59:07,367 --> 01:59:08,402
+Danke.
+
+1362
+01:59:12,927 --> 01:59:16,237
+-Es ist mir eine Ehre, Sir.
+-Vielen Dank.
+
+1363
+01:59:17,287 --> 01:59:19,437
+Es ist ein Privileg, Herr Professor.
+
+1364
+01:59:23,167 --> 01:59:24,361
+Herr Professor.
+
+1365
+01:59:29,567 --> 01:59:32,206
+-Gut gemacht, John.
+-Danke, Tom.
+
+1366
+01:59:33,807 --> 01:59:34,842
+Danke.
+
+1367
+01:59:36,287 --> 01:59:37,606
+Ich danke Ihnen.
+
+1368
+01:59:46,127 --> 01:59:47,401
+Vielen Dank, Ed.
+
+1369
+01:59:55,447 --> 01:59:57,517
+Das kam höchst unerwartet.
+
+1370
+02:00:08,847 --> 02:00:11,281
+Nobelpreis-Verleihung - Stockholm, Schweden
+
+1371
+02:00:11,327 --> 02:00:13,761
+Dezember 1994
+
+1372
+02:00:18,607 --> 02:00:19,926
+Ich danke Ihnen.
+
+1373
+02:00:24,287 --> 02:00:26,357
+Ich habe immer an Zahlen geglaubt.
+
+1374
+02:00:27,447 --> 02:00:31,201
+An Gleichungen und logische Verhältnisse,
+die einen Sinn ergeben.
+
+1375
+02:00:31,607 --> 02:00:34,246
+Aber nach einem Leben mit diesen Interessen...
+
+1376
+02:00:34,807 --> 02:00:38,038
+frage ich mich: Was ist wirklich logisch?
+
+1377
+02:00:39,727 --> 02:00:42,002
+Wer entscheidet, worin der Sinn liegt?
+
+1378
+02:00:43,127 --> 02:00:46,085
+Meine Suche hat mich
+in den Bereich der Physik,
+
+1379
+02:00:46,967 --> 02:00:48,525
+der Metaphysik,
+
+1380
+02:00:49,727 --> 02:00:51,206
+der Täuschung...
+
+1381
+02:00:53,287 --> 02:00:55,005
+und wieder zurückgeführt.
+
+1382
+02:00:56,247 --> 02:00:59,683
+Und ich habe die bedeutendste Entdeckung
+meines Lebens gemacht.
+
+1383
+02:01:01,607 --> 02:01:04,121
+Die bedeutendeste Entdeckung meines Lebens.
+
+1384
+02:01:07,167 --> 02:01:10,557
+Einzig und allein in den rätselhaften Gleichungen
+der Liebe...
+
+1385
+02:01:10,847 --> 02:01:13,645
+liegt alle Logik verborgen, die zu entdecken ist.
+
+1386
+02:01:16,767 --> 02:01:19,804
+Nur dir habe ich zu verdanken,
+dass ich heute hier bin.
+
+1387
+02:01:21,087 --> 02:01:23,157
+Du bist der Grund meiner Existenz.
+
+1388
+02:01:27,727 --> 02:01:29,877
+Du gibst allem in meinem Leben Sinn.
+
+1389
+02:01:33,927 --> 02:01:35,201
+Danke.
+
+1390
+02:02:27,447 --> 02:02:29,563
+Es war schön, Sie kennen zu lernen.
+
+1391
+02:02:32,047 --> 02:02:33,605
+Ich rufe den Wagen, Papa.
+
+1392
+02:02:33,687 --> 02:02:35,803
+Auf Wiedersehen.
+
+1393
+02:02:37,127 --> 02:02:39,595
+-Bereit zu gehen?
+-Ja.
+
+1394
+02:02:39,847 --> 02:02:41,838
+Ja, in der Tat, und ja, bitte.
+
+1395
+02:02:42,287 --> 02:02:43,845
+Ich danke dir sehr.
+
+1396
+02:02:45,167 --> 02:02:46,282
+Danke.
+
+1397
+02:02:48,887 --> 02:02:50,764
+Was ist? Was ist los?
+
+1398
+02:02:55,287 --> 02:02:56,402
+Nichts.
+
+1399
+02:02:57,447 --> 02:02:58,800
+Überhaupt nichts.
+
+1400
+02:03:01,127 --> 02:03:02,799
+Kommen Sie, mein Fräulein.
+
+1401
+02:03:04,287 --> 02:03:08,280
+Mein Wagen wartet draußen?
+Haben Sie Lust auf eine Spritztour?
+
+1402
+02:03:09,807 --> 02:03:11,240
+Wohin denn?
+
+1403
+02:03:11,327 --> 02:03:14,046
+Nashs Theorien beeinflussten
+den weltweiten Handel und...
+
+1404
+02:03:14,127 --> 02:03:17,597
+Arbeitsbedingungen und erbrachten
+Erkenntnisse in der Evolutionsbiologie.
+
+1405
+02:03:17,687 --> 02:03:21,316
+John und Alicia Nash leben in Princeton,
+New Jersey. John hält regelmäßig Bürostunden
+
+1406
+02:03:21,367 --> 02:03:23,358
+in der Fakultät für Mathematik ab.
+Er besucht jeden Tag den Campus.
+

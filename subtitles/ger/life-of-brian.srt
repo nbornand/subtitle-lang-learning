@@ -1,0 +1,4694 @@
+1
+00:01:33,289 --> 00:01:34,489
+Wer...
+
+2
+00:01:36,209 --> 00:01:37,209
+seid ihr?
+
+3
+00:01:37,449 --> 00:01:39,440
+- Wir sind drei Weise.
+- Was?
+
+4
+00:01:39,609 --> 00:01:41,406
+Wir sind drei Weise.
+
+5
+00:01:41,569 --> 00:01:46,927
+Und was schleicht ihr nachts um zwei
+durch StÃ¤lle? Das soll weise sein?
+
+6
+00:01:47,089 --> 00:01:51,082
+- Wir sind Astrologen.
+- Wir kommen aus dem Osten.
+
+7
+00:01:51,249 --> 00:01:53,240
+Soll das ein Witz sein?
+
+8
+00:01:53,409 --> 00:01:56,765
+- Wir mÃ¶chten das Kind preisen.
+- Ihm huldigen.
+
+9
+00:01:56,929 --> 00:02:01,127
+Huldigen? Ihr seid doch besoffen.
+Ist ja ekelhaft. Raus!
+
+10
+00:02:01,289 --> 00:02:04,599
+Mit eurem GewÃ¤sch Ã¼ber Wahrsager.
+Raus!
+
+11
+00:02:04,769 --> 00:02:08,125
+- Wir mÃ¼ssen ihn sehen.
+- Huldigt einem anderen GÃ¶r.
+
+12
+00:02:08,289 --> 00:02:11,361
+- Ein Stern hat uns hergefÃ¼hrt.
+- Eher die Flasche! Raus!
+
+13
+00:02:11,529 --> 00:02:13,997
+- Wir haben Geschenke dabei.
+- Haut ab!
+
+14
+00:02:14,209 --> 00:02:18,999
+- Gold, Weihrauch und Myrrhe.
+- Sagt das doch gleich. Da liegt er.
+
+15
+00:02:19,169 --> 00:02:22,445
+Tut mir Leid, es ist nicht aufgerÃ¤umt.
+
+16
+00:02:22,609 --> 00:02:26,363
+- Was ist Myrrhe eigentlich?
+- Ein kostbarer Balsam.
+
+17
+00:02:26,529 --> 00:02:31,045
+Was soll er mit einem Balsam?
+Der beiÃŸt ihn noch.
+
+18
+00:02:31,209 --> 00:02:34,246
+- Das ist ein gefÃ¤hrliches Tier.
+- Gar nicht.
+
+19
+00:02:34,409 --> 00:02:37,958
+- Ja, ein groÃŸer...
+- Nein, es ist eine Salbe.
+
+20
+00:02:38,129 --> 00:02:42,202
+Es gibt doch auch so ein Balsamtier.
+Oder bilde ich mir das ein?
+
+21
+00:02:42,369 --> 00:02:46,123
+Ihr seid also Astrologen?
+Was ist er denn?
+
+22
+00:02:46,289 --> 00:02:49,964
+- Was fÃ¼r ein Sternzeichen?
+- Steinbock.
+
+23
+00:02:50,129 --> 00:02:52,484
+Steinbock? Wie sind die so?
+
+24
+00:02:52,649 --> 00:02:55,482
+Er ist Gottes Sohn, unser Messias.
+
+25
+00:02:55,689 --> 00:02:56,724
+KÃ¶nig der Juden.
+
+26
+00:02:56,889 --> 00:03:00,040
+- So sind also die SteinbÃ¶cke.
+- Nein, nur er.
+
+27
+00:03:00,209 --> 00:03:03,281
+Ach so.
+Sonst gÃ¤b's da ja eine ganze Menge.
+
+28
+00:03:03,449 --> 00:03:06,885
+- Wie nennt ihr ihn?
+- Brian.
+
+29
+00:03:07,049 --> 00:03:11,361
+Wir beten dich an, oh Brian,
+der du Herr Ã¼ber uns alle bist.
+
+30
+00:03:11,529 --> 00:03:16,319
+Lob sei dir, Brian,
+und dem Herrn, unserem Vater. Amen.
+
+31
+00:03:16,489 --> 00:03:18,207
+- Macht ihr so was Ã¶fter?
+- Wie bitte?
+
+32
+00:03:18,369 --> 00:03:19,688
+- Das Huldigen?
+- Nicht doch.
+
+33
+00:03:20,289 --> 00:03:23,361
+Schaut vorbei,
+wenn ihr mal in der Gegend seid.
+
+34
+00:03:23,529 --> 00:03:29,081
+Danke fÃ¼r das Gold und den Weihrauch.
+Die Myrrhe lasst nÃ¤chstes Mal stecken.
+
+35
+00:03:29,249 --> 00:03:31,843
+Danke schÃ¶n. Wiedersehen.
+
+36
+00:03:33,489 --> 00:03:40,042
+Die waren nett. Bescheuert, aber nett.
+Sieh mal an.
+
+37
+00:03:40,209 --> 00:03:42,040
+Das ist meins!
+
+38
+00:03:58,009 --> 00:03:59,409
+Klappe.
+
+39
+00:04:07,289 --> 00:04:10,486
+<i>Brian</i>
+<i>Das Kind hieÃŸ Brian</i>
+
+40
+00:04:13,689 --> 00:04:16,689
+<i>Er wuchs</i>
+
+41
+00:04:16,849 --> 00:04:19,886
+<i>Wuchs, wuchs und wuchs</i>
+
+42
+00:04:20,049 --> 00:04:23,246
+<i>Aus ihm wurde ein</i>
+
+43
+00:04:23,409 --> 00:04:27,219
+<i>Wurde ein Junge</i>
+
+44
+00:04:27,319 --> 00:04:29,687
+<i>Man nannte ihn Brian</i>
+
+45
+00:04:29,849 --> 00:04:33,842
+<i>Man nannte ihn Brian</i>
+
+46
+00:04:34,009 --> 00:04:37,479
+<i>Mit Armen und Beinen</i>
+
+47
+00:04:37,649 --> 00:04:40,766
+<i>HÃ¤nden und FÃ¼ÃŸen</i>
+
+48
+00:04:40,929 --> 00:04:43,839
+<i>Der Junge</i>
+
+49
+00:04:43,939 --> 00:04:47,005
+<i>Bekannt auch als Brian</i>
+
+50
+00:04:47,369 --> 00:04:50,369
+<i>Er wuchs</i>
+
+51
+00:04:50,489 --> 00:04:53,686
+<i>Wuchs, wuchs und wuchs</i>
+
+52
+00:04:53,849 --> 00:04:57,199
+<i>Aus ihm wurde</i>
+
+53
+00:04:57,299 --> 00:04:59,800
+<i>Ja, aus ihm wurde</i>
+
+54
+00:04:59,969 --> 00:05:03,359
+<i>Ein Teen namens Brian</i>
+
+55
+00:05:03,529 --> 00:05:06,885
+<i>Ein Teen namens Brian</i>
+
+56
+00:05:07,049 --> 00:05:10,121
+<i>Sein Gesicht wurde pickelig</i>
+
+57
+00:05:10,289 --> 00:05:13,520
+<i>Ja, sein Gesicht wurde pickelig</i>
+
+58
+00:05:13,689 --> 00:05:17,204
+<i>Er kam in den Stimmbruch</i>
+
+59
+00:05:17,369 --> 00:05:20,441
+<i>Und so manches wuchs</i>
+
+60
+00:05:20,609 --> 00:05:23,646
+<i>An dem Knaben Brian</i>
+
+61
+00:05:23,809 --> 00:05:27,040
+<i>Er war sicher kein</i>
+
+62
+00:05:27,209 --> 00:05:30,679
+<i>Kein MÃ¤dchen namens Brian</i>
+
+63
+00:05:30,849 --> 00:05:35,764
+<i>Kein MÃ¤dchen namens Brian</i>
+
+64
+00:05:40,969 --> 00:05:44,086
+<i>Das sich nunmehr rasierte</i>
+
+65
+00:05:44,249 --> 00:05:47,127
+<i>Und auch masturbierte</i>
+
+66
+00:05:47,289 --> 00:05:50,759
+<i>Er stieg Frauen hinterher</i>
+
+67
+00:05:50,929 --> 00:05:54,126
+<i>Und besoff sich gar sehr</i>
+
+68
+00:05:54,289 --> 00:05:57,440
+<i>Ein Mann namens Brian</i>
+
+69
+00:05:57,609 --> 00:06:00,806
+<i>Der Mann namens Brian</i>
+
+70
+00:06:00,969 --> 00:06:06,169
+<i>Der Mann hieÃŸ Brian</i>
+
+71
+00:06:08,569 --> 00:06:12,599
+<i>Der Mann namens</i>
+
+72
+00:06:12,699 --> 00:06:14,729
+<i>Brian</i>
+
+73
+00:06:32,809 --> 00:06:35,323
+JudÃ¤a, 33 n. Chr.
+
+74
+00:06:40,289 --> 00:06:43,689
+Samstagnachmittag
+
+75
+00:06:50,689 --> 00:06:52,884
+Etwa zur Teezeit
+
+76
+00:07:01,249 --> 00:07:05,367
+Selig sind die Armen im Geiste.
+
+77
+00:07:05,529 --> 00:07:10,444
+Selig sind, die da Leid tragen,
+denn sie sollen getrÃ¶stet werden.
+
+78
+00:07:12,249 --> 00:07:19,041
+Selig die SanftmÃ¼tigen,
+denn sie werden das Erdreich besitzen.
+
+79
+00:07:20,169 --> 00:07:27,007
+Selig sind, die nach Gerechtigkeit
+hungern und dÃ¼rsten...
+
+80
+00:07:27,169 --> 00:07:29,524
+denn sie sollen gesÃ¤ttigt werden.
+
+81
+00:07:31,129 --> 00:07:34,724
+Wie selig sind die,
+die reinen Herzens sind.
+
+82
+00:07:34,889 --> 00:07:37,084
+Denn sie sollen Gott erkennen.
+
+83
+00:07:37,249 --> 00:07:40,002
+- Lauter.
+- Psst, Mama.
+
+84
+00:07:40,169 --> 00:07:43,479
+Ich versteh kein Wort.
+
+85
+00:07:43,649 --> 00:07:47,358
+- Gehen wir lieber zur Steinigung.
+- Die gibt's andauernd.
+
+86
+00:07:47,529 --> 00:07:51,602
+- Ach komm, Brian.
+- Seien Sie doch still.
+
+87
+00:07:51,769 --> 00:07:55,284
+- HÃ¶r auf zu popeln.
+- Ich popel nicht, ich kratz nur.
+
+88
+00:07:55,449 --> 00:07:58,919
+Du hast gepopelt, als du
+mit der Dame geredet hast.
+
+89
+00:07:59,089 --> 00:08:02,718
+- HÃ¶r auf damit.
+- Also bitte, ich versteh kein Wort.
+
+90
+00:08:02,889 --> 00:08:06,768
+Das geht Sie gar nichts an,
+ich rede mit meinem Mann.
+
+91
+00:08:06,929 --> 00:08:11,719
+- Verdammt, ich versteh kein Wort.
+- Beschimpfen Sie meine Frau?
+
+92
+00:08:11,889 --> 00:08:15,040
+Ich bat sie,
+die Klappe zu halten, Dicknase.
+
+93
+00:08:15,209 --> 00:08:19,043
+- Nennen Sie ihn nicht Dicknase.
+- Er hat eine dicke Nase.
+
+94
+00:08:19,209 --> 00:08:23,282
+- Ruhe. Was war das eben?
+- Ich hab mit Dicknase geredet.
+
+95
+00:08:23,449 --> 00:08:29,081
+- Ich glaube "selig sind die KÃ¤ser".
+- Was ist so besonders an KÃ¤sern?
+
+96
+00:08:29,249 --> 00:08:33,959
+Er meint es nicht wÃ¶rtlich. Es geht
+um alle Milchprodukt-Hersteller.
+
+97
+00:08:34,129 --> 00:08:39,522
+- Weil du gequatscht hast, Dicknase.
+- Sag das noch mal, dann gibt's Ã„rger.
+
+98
+00:08:39,689 --> 00:08:44,399
+Psst, vielleicht sagt er ja
+noch was Ã¼ber die GroÃŸnÃ¤sigen.
+
+99
+00:08:44,569 --> 00:08:48,721
+Du bist auch gut ausgestattet.
+Kommt ihr beide aus RÃ¼sselsheim?
+
+100
+00:08:48,889 --> 00:08:53,280
+- Noch mal, dann gibt's PrÃ¼gel.
+- Pfui, schÃ¤m dich.
+
+101
+00:08:53,449 --> 00:08:58,045
+- Und hÃ¶r auf zu popeln.
+- Ich wollte ihm nur eine langen.
+
+102
+00:08:58,209 --> 00:09:04,603
+Habt ihr das gehÃ¶rt? Die Flachen
+sollen mal das Erdreich besitzen.
+
+103
+00:09:04,769 --> 00:09:08,284
+- Du langst keinem eine.
+- Wenn er's noch mal sagt, schon.
+
+104
+00:09:08,449 --> 00:09:12,078
+- Klappe, Dicknase.
+- Ich hab dich gewarnt.
+
+105
+00:09:12,249 --> 00:09:17,118
+- Jetzt gibt's so auf die Fresse...
+- Ach, die Schwachen.
+
+106
+00:09:17,289 --> 00:09:21,407
+SchÃ¶n, dass die auch was kriegen.
+Die haben es nicht leicht.
+
+107
+00:09:21,569 --> 00:09:25,926
+Stimmt doch,
+du hast echt eine groÃŸe Nase.
+
+108
+00:09:26,089 --> 00:09:30,446
+Deine ist gleich einen Meter breit.
+
+109
+00:09:30,609 --> 00:09:34,363
+Wer hat dann deine so platt gemacht,
+Goliaths groÃŸer Bruder?
+
+110
+00:09:34,529 --> 00:09:36,042
+Seid doch mal still.
+
+111
+00:09:38,449 --> 00:09:41,521
+Die blÃ¶de Kuh war im Weg.
+
+112
+00:09:43,049 --> 00:09:44,084
+AufhÃ¶ren!
+
+113
+00:09:44,249 --> 00:09:48,447
+- Gehen wir zur Steinigung.
+- Na gut.
+
+114
+00:09:50,449 --> 00:09:55,318
+Selig ist offenbar jeder, der von der
+aktuellen Situation profitiert.
+
+115
+00:09:55,489 --> 00:09:59,721
+Jesus Ã¼bersieht total,
+dass die Schwachen das Problem sind.
+
+116
+00:09:59,889 --> 00:10:04,007
+Absolut, Reg.
+Ich weiÃŸ genau, was du meinst.
+
+117
+00:10:04,249 --> 00:10:08,128
+Komm schon, sonst ist er gesteinigt,
+bevor wir da sind.
+
+118
+00:10:08,289 --> 00:10:09,289
+Komme.
+
+119
+00:10:11,169 --> 00:10:15,128
+Hey, lass sie. Ist ja wÃ¼rdelos.
+HÃ¶rt auf damit.
+
+120
+00:10:15,289 --> 00:10:18,440
+Der mit der groÃŸen Nase ist schuld.
+
+121
+00:10:18,609 --> 00:10:21,077
+Ach, diese blÃ¶den BÃ¤rte.
+
+122
+00:10:21,249 --> 00:10:25,242
+- Warum dÃ¼rfen Frauen nicht hin?
+- So steht es geschrieben.
+
+123
+00:10:26,729 --> 00:10:30,199
+- Bart, Madame?
+- Ich hab keine Zeit fÃ¼r Steinigungen.
+
+124
+00:10:30,369 --> 00:10:33,042
+Ihm geht's wieder nicht gut.
+
+125
+00:10:33,209 --> 00:10:36,724
+- Steine, der Herr?
+- Nein, liegen ja genug rum.
+
+126
+00:10:36,889 --> 00:10:41,121
+Keine solchen. FÃ¼hlen Sie mal.
+Erstklassiges Handwerk, der Herr.
+
+127
+00:10:42,129 --> 00:10:45,599
+Na gut, dann zwei spitze
+und einen groÃŸen flachen.
+
+128
+00:10:45,769 --> 00:10:47,202
+- Krieg ich einen, Mama?
+- Psst!
+
+129
+00:10:47,409 --> 00:10:48,637
+Entschuldige, Papa.
+
+130
+00:10:48,809 --> 00:10:53,519
+Na gut, zwei spitze, zwei flache
+und ein PÃ¤ckchen Kies.
+
+131
+00:10:53,689 --> 00:10:58,365
+Das wird gut heute.
+Ist einer von hier. Viel SpaÃŸ.
+
+132
+00:11:16,209 --> 00:11:18,848
+Mathias, Sohn des Deuteronomium
+aus Gath...
+
+133
+00:11:19,009 --> 00:11:20,442
+- Muss ich jetzt Ja sagen?
+- Ja.
+
+134
+00:11:20,609 --> 00:11:21,609
+Ja.
+
+135
+00:11:21,929 --> 00:11:27,765
+...du bist schuldig, den Namen
+des Herrn ausgesprochen zu haben...
+
+136
+00:11:27,929 --> 00:11:34,721
+und sollst als GotteslÃ¤sterer
+zu Tode gesteinigt werden.
+
+137
+00:11:35,729 --> 00:11:39,438
+Ich hatte gut gegessen,
+und bloÃŸ zu meiner Frau gesagt:
+
+138
+00:11:39,609 --> 00:11:43,363
+Der Heilbutt war gut genug
+fÃ¼r Jehova.
+
+139
+00:11:43,529 --> 00:11:47,044
+GotteslÃ¤sterung.
+Er hat es wieder gesagt.
+
+140
+00:11:47,209 --> 00:11:49,848
+Habt ihr das gehÃ¶rt?
+
+141
+00:11:50,009 --> 00:11:51,203
+So was.
+
+142
+00:11:55,289 --> 00:11:58,087
+Ist etwa Weibsvolk anwesend?
+
+143
+00:12:02,769 --> 00:12:07,479
+Na dann. Kraft meiner Amtsgewalt...
+
+144
+00:12:07,649 --> 00:12:13,599
+- He, es hat noch nicht angefangen.
+- Wer war das?
+
+145
+00:12:13,769 --> 00:12:20,322
+- Wer hat den Stein geworfen?
+- Sie war's! Er war's!
+
+146
+00:12:20,489 --> 00:12:25,324
+- Ich dachte, es hat schon angefangen.
+- Ab nach hinten.
+
+147
+00:12:25,489 --> 00:12:29,323
+Immer dasselbe. Wo waren wir?
+
+148
+00:12:29,489 --> 00:12:33,721
+Es ist doch keine GotteslÃ¤sterung,
+wenn man "Jehova" sagt.
+
+149
+00:12:35,049 --> 00:12:40,362
+- Du machst es nur noch schlimmer.
+- Wie denn, noch schlimmer?
+
+150
+00:12:40,649 --> 00:12:41,798
+Jehova! Jehova! Jehova!
+
+151
+00:12:42,369 --> 00:12:46,123
+Ich warne dich.
+Sag noch einmal "Jehova"...
+
+152
+00:12:46,289 --> 00:12:49,008
+So, wer hat den geworfen?
+
+153
+00:12:50,129 --> 00:12:55,044
+- Na los, wer war das?
+- Sie war's! Er war's!
+
+154
+00:12:56,769 --> 00:13:00,478
+- Waren Sie das?
+- Ja. Sie haben doch "Jehova" gesagt.
+
+155
+00:13:04,409 --> 00:13:08,197
+Wollt ihr wohl aufhÃ¶ren? AufhÃ¶ren!
+
+156
+00:13:08,369 --> 00:13:15,286
+Niemand steinigt irgendwen, bis ich
+in diese Pfeife blase. Verstanden?
+
+157
+00:13:15,449 --> 00:13:18,486
+Sogar, damit das ganz klar ist...
+
+158
+00:13:18,649 --> 00:13:21,288
+sogar, wenn jemand "Jehova" sagt.
+
+159
+00:13:27,729 --> 00:13:29,606
+Volltreffer!
+
+160
+00:13:39,729 --> 00:13:43,642
+- Hab ich eine dicke Nase?
+- Denk doch nicht immer an Sex.
+
+161
+00:13:43,809 --> 00:13:46,642
+Den ganzen Tag
+redest du von nichts anderem.
+
+162
+00:13:46,809 --> 00:13:52,361
+"Ob das den MÃ¤dchen gefÃ¤llt?
+Ist er zu groÃŸ, ist er zu klein?"
+
+163
+00:13:55,089 --> 00:13:57,922
+Almosen fÃ¼r einen Leprakranken.
+
+164
+00:13:58,089 --> 00:14:00,683
+Almosen fÃ¼r einen Ex-Leprakranken.
+
+165
+00:14:00,849 --> 00:14:06,128
+ScheiÃŸ-Eselsbesitzer. Haben
+nie Kleingeld. Oh, da kommt einer.
+
+166
+00:14:06,289 --> 00:14:08,928
+- Ein Talent fÃ¼r einen Ex-Leprakranken?
+- Verschwinde
+
+167
+00:14:09,129 --> 00:14:11,006
+Habt Ihr ein Talent Ã¼brig?
+
+168
+00:14:11,169 --> 00:14:15,606
+Ein Talent? Das verdient er
+im ganzen Monat nicht. Hau ab.
+
+169
+00:14:15,769 --> 00:14:22,208
+Ok, ihr beginnt bei einem Schekel, ich
+bei 2000. Wir einigen uns auf 1800.
+
+170
+00:14:22,369 --> 00:14:26,157
+- 1750? 1740?
+- Lass ihn in Ruhe.
+
+171
+00:14:26,329 --> 00:14:32,643
+- Also zwei Schekel. Nur zwei.
+- Er gibt dir nichts, verpiss dich.
+
+172
+00:14:36,009 --> 00:14:38,443
+Letztes Angebot.
+Einen halben Schekel?
+
+173
+00:14:38,609 --> 00:14:43,125
+- Sagten Sie, Ex-Leprakranker?
+- 16 Jahre und stolz darauf.
+
+174
+00:14:43,289 --> 00:14:45,564
+- Und was ist passiert?
+- Ich wurde geheilt, Herr.
+
+175
+00:14:45,729 --> 00:14:48,084
+- Geheilt?
+- So'n ScheiÃŸwunder. Preiset den Herrn.
+
+176
+00:14:48,369 --> 00:14:50,519
+- Wer hat Sie denn geheilt?
+- Jesus.
+
+177
+00:14:50,689 --> 00:14:55,126
+Ich hÃ¼pf so rum und denk mir nichts,
+zack, da heilt er mich.
+
+178
+00:14:55,289 --> 00:14:59,282
+Grade noch im GeschÃ¤ft,
+und schon bin ich drauÃŸen.
+
+179
+00:14:59,449 --> 00:15:02,566
+"Du bist geheilt, mein Freund."
+ScheiÃŸwohltÃ¤ter.
+
+180
+00:15:02,729 --> 00:15:07,723
+- Sag doch, du willst wieder Lepra.
+- Ja, das kÃ¶nnte ich machen.
+
+181
+00:15:07,889 --> 00:15:11,484
+Ich frag ihn, ob er mich
+wochentags lahm machen kann.
+
+182
+00:15:11,649 --> 00:15:15,324
+Was BettelfÃ¤higes, keine Lepra.
+Die ist scheiÃŸlÃ¤stig.
+
+183
+00:15:15,489 --> 00:15:19,277
+Brian, komm rein
+und rÃ¤um dein Zimmer auf.
+
+184
+00:15:19,449 --> 00:15:20,649
+Bitte.
+
+185
+00:15:21,169 --> 00:15:25,720
+- Ein halber Dinar fÃ¼r mein Leben?
+- Euch kann man's nie recht machen.
+
+186
+00:15:25,889 --> 00:15:28,244
+Das hat Jesus auch gesagt.
+
+187
+00:15:40,729 --> 00:15:45,280
+- Guten Tag.
+- Oh hallo, Herr Offizier.
+
+188
+00:15:45,449 --> 00:15:48,407
+Ich bin gleich so weit, ja, Schatz?
+
+189
+00:15:48,569 --> 00:15:53,279
+- Was macht der denn hier?
+- Jetzt rÃ¤um schon dein Zimmer auf.
+
+190
+00:15:53,449 --> 00:15:58,159
+Den RÃ¶mern haben wir viel
+zu verdanken, vergiss das mal nicht.
+
+191
+00:15:58,329 --> 00:16:03,926
+- Denen schulden wir gar nichts.
+- Brian, das stimmt nicht.
+
+192
+00:16:04,089 --> 00:16:08,765
+- Du hast mich doch mal gefragt...
+- Wegen meiner Nase?
+
+193
+00:16:08,929 --> 00:16:12,604
+- Die ist nicht umsonst so, Brian.
+- Warum denn?
+
+194
+00:16:12,769 --> 00:16:16,842
+Ich hÃ¤tte es dir
+schon lange sagen sollen.
+
+195
+00:16:17,009 --> 00:16:18,840
+Tja, Brian...
+
+196
+00:16:19,609 --> 00:16:22,840
+- Herr Cohen ist nicht dein Vater.
+- Dachte ich mir.
+
+197
+00:16:23,009 --> 00:16:30,006
+Sei nicht frech. Er war RÃ¶mer,
+ein Zenturio der rÃ¶mischen Armee.
+
+198
+00:16:30,169 --> 00:16:35,482
+- Du wurdest vergewaltigt?
+- Na ja, zuerst schon.
+
+199
+00:16:35,649 --> 00:16:40,484
+Schlimmus Fingus hieÃŸ er.
+Hat mir alles MÃ¶gliche versprochen.
+
+200
+00:16:40,649 --> 00:16:45,518
+Er nimmt mich mit nach Rom. Ein Haus
+am Forum, Sklaven, Eselsmilch.
+
+201
+00:16:45,689 --> 00:16:50,922
+Mehr Gold, als ich essen kann.
+Aber als er fertig war, zack, weg.
+
+202
+00:16:51,089 --> 00:16:53,523
+- Wie eine Ratte aus einem AquÃ¤dukt.
+- Die Ratte!
+
+203
+00:16:53,689 --> 00:16:58,604
+Also vergiss nicht,
+dass du selbst ein RÃ¶mer bist.
+
+204
+00:16:58,769 --> 00:17:04,560
+Ich werde nie ein RÃ¶mer sein. Ich bin
+eine Judennase, ein Jid, ich bin koscher.
+
+205
+00:17:04,729 --> 00:17:09,245
+Ich bin ein Rotes-Meer-FuÃŸgÃ¤nger,
+und das ist auch gut so.
+
+206
+00:17:13,089 --> 00:17:16,320
+Sex, Sex, Sex.
+Sie denken an nichts anderes.
+
+207
+00:17:16,489 --> 00:17:19,447
+Na, wie geht's, Herr Offizier?
+
+208
+00:17:20,929 --> 00:17:25,207
+DAS KOLOSSEUM, JERUSALEM
+
+209
+00:17:32,369 --> 00:17:35,600
+KINDERVORSTELLUNG
+
+210
+00:17:35,769 --> 00:17:39,603
+Meine Damen und Herren!
+Als NÃ¤chstes kÃ¤mpft...
+
+211
+00:17:39,769 --> 00:17:46,527
+Frank Goliath, der Mazedonische
+Kinderzerquetscher...
+
+212
+00:17:46,689 --> 00:17:49,965
+gegen Boris Mickerling.
+
+213
+00:17:51,849 --> 00:17:57,048
+Lerchenzungen.
+ZaunkÃ¶nigslebern. Buchfinkenhirne.
+
+214
+00:17:57,209 --> 00:17:59,200
+JaguarohrlÃ¤ppchen.
+
+215
+00:17:59,369 --> 00:18:05,444
+Wolfnippelchips. Nicht kalt
+werden lassen. Dromedarbrezeln.
+
+216
+00:18:05,609 --> 00:18:09,397
+Reg, eine antiimperialistische Gruppe
+wie unsere...
+
+217
+00:18:09,569 --> 00:18:13,118
+muss divergente Interessen
+in ihrer Basis reflektieren.
+
+218
+00:18:13,289 --> 00:18:16,838
+- Ja. Francis?
+- Judiths Standpunkt ist stichhaltig.
+
+219
+00:18:17,009 --> 00:18:20,558
+Wenn die Bewegung nicht vergisst,
+dass jedermann...
+
+220
+00:18:20,769 --> 00:18:23,124
+- Und jede Frau.
+...das Recht hat, gegen seine...
+
+221
+00:18:23,289 --> 00:18:24,722
+- oder ihre...
+...oder ihre...
+
+222
+00:18:24,889 --> 00:18:28,279
+- Danke, Bruder.
+- Oder Schwester.
+
+223
+00:18:28,449 --> 00:18:33,318
+- Wo war ich?
+- Ich glaube, du warst fertig.
+
+224
+00:18:33,489 --> 00:18:36,526
+- Jedermann hat das Recht...
+- Und jede Frau.
+
+225
+00:18:36,689 --> 00:18:41,763
+- HÃ¶r doch mal auf, Stan.
+- Frauen gehÃ¶ren zur Bewegung, Reg.
+
+226
+00:18:41,929 --> 00:18:47,287
+- Was hast du immer mit den Frauen?
+- Ich mÃ¶chte eine sein.
+
+227
+00:18:47,809 --> 00:18:49,083
+Wie bitte?
+
+228
+00:18:49,489 --> 00:18:55,200
+Ich will eine Frau sein.
+Sagt von jetzt an Loretta zu mir.
+
+229
+00:18:57,049 --> 00:19:02,965
+- Das ist mein Recht als Mann.
+- Warum willst du Loretta sein, Stan?
+
+230
+00:19:03,129 --> 00:19:07,486
+- Ich will Kinder kriegen.
+- Du willst Kinder kriegen?
+
+231
+00:19:07,649 --> 00:19:11,767
+- Jeder hat das Recht dazu.
+- Du kannst keine Kinder kriegen.
+
+232
+00:19:11,929 --> 00:19:16,366
+- UnterdrÃ¼ck mich nicht.
+- Stan, du hast keine GebÃ¤rmutter.
+
+233
+00:19:16,529 --> 00:19:21,045
+Wo soll der FÃ¶tus denn wachsen?
+In einer Schachtel?
+
+234
+00:19:23,769 --> 00:19:27,762
+Ich hab eine Idee.
+Er kann keine Kinder kriegen...
+
+235
+00:19:28,009 --> 00:19:31,365
+weil er keine GebÃ¤rmutter hat,
+woran nicht mal die RÃ¶mer schuld sind...
+
+236
+00:19:31,529 --> 00:19:35,647
+- aber er hat das Recht darauf.
+- Gute Idee, Judith.
+
+237
+00:19:35,809 --> 00:19:39,848
+Wir kÃ¤mpfen fÃ¼r dein Recht auf Kinder,
+Bruder. Schwester.
+
+238
+00:19:40,009 --> 00:19:42,364
+- Wozu soll das gut sein?
+- Bitte?
+
+239
+00:19:42,529 --> 00:19:48,320
+Warum sollen wir dafÃ¼r kÃ¤mpfen,
+wenn er keine Kinder kriegen kann?
+
+240
+00:19:48,489 --> 00:19:53,483
+Es ist ein Symbol unseres Kampfs
+gegen die UnterdrÃ¼ckung.
+
+241
+00:19:53,649 --> 00:19:56,288
+Seines Kampfs gegen die RealitÃ¤t.
+
+242
+00:20:03,609 --> 00:20:06,646
+- Raus!
+- Da drauÃŸen ist es gefÃ¤hrlich.
+
+243
+00:20:27,009 --> 00:20:30,968
+Lerchenzungen. Otternasen.
+Ozelotmilzen.
+
+244
+00:20:31,129 --> 00:20:35,407
+- Hast du NÃ¼sse?
+- Nein, aber ZaunkÃ¶nigsleber.
+
+245
+00:20:35,569 --> 00:20:37,287
+- Ach, nee...
+- Otternasen?
+
+246
+00:20:37,449 --> 00:20:42,079
+- Ich will keinen RÃ¶merfraÃŸ.
+- Warum verkaufst du nichts Richtiges?
+
+247
+00:20:42,249 --> 00:20:47,960
+- Statt Imperialistenfutter.
+- Ich hab mir das nicht ausgesucht.
+
+248
+00:20:48,129 --> 00:20:51,883
+- Na gut, dann eine TÃ¼te Otternasen.
+- Zwei TÃ¼ten.
+
+249
+00:20:53,009 --> 00:20:56,718
+- Seid ihr die JudÃ¤ische Volksfront?
+- Verpiss dich!
+
+250
+00:20:56,889 --> 00:21:01,758
+JudÃ¤ische Volksfront.
+Wir sind die Volksfront von JudÃ¤a.
+
+251
+00:21:01,929 --> 00:21:06,161
+- JudÃ¤ische Volksfront.
+- Die Wichser.
+
+252
+00:21:07,689 --> 00:21:10,647
+- Kann ich bei euch mitmachen?
+- Nein. Hau ab.
+
+253
+00:21:10,809 --> 00:21:15,644
+Ich will das nicht verkaufen.
+Ich hasse die RÃ¶mer genau wie ihr.
+
+254
+00:21:17,089 --> 00:21:21,207
+- Ganz bestimmt?
+- Ja, ich hasse sie richtig.
+
+255
+00:21:21,369 --> 00:21:27,365
+Wenn du zur VFJ willst,
+musst du die RÃ¶mer schon sehr hassen.
+
+256
+00:21:27,529 --> 00:21:31,283
+- Tu ich auch.
+- Ach ja? Wie sehr?
+
+257
+00:21:31,449 --> 00:21:33,440
+Sehr, sehr.
+
+258
+00:21:34,809 --> 00:21:37,164
+Na gut, du bist dabei. HÃ¶r zu.
+
+259
+00:21:37,329 --> 00:21:42,528
+Nur die JudÃ¤ische Volksfront
+hassen wir noch mehr als die RÃ¶mer.
+
+260
+00:21:42,689 --> 00:21:46,045
+- Und die Volksfront des Volkes.
+- Abweichler.
+
+261
+00:21:46,209 --> 00:21:51,237
+- Und die Volksfront von JudÃ¤a.
+- Abweichler.
+
+262
+00:21:51,409 --> 00:21:55,448
+Aber wir sind doch
+die Volksfront von JudÃ¤a.
+
+263
+00:21:55,609 --> 00:21:59,045
+- Ich dachte, die Volksbewegung.
+- Volksfront.
+
+264
+00:21:59,209 --> 00:22:03,919
+- Was ist dann mit der Volksbewegung?
+- Der sitzt da drÃ¼ben.
+
+265
+00:22:05,849 --> 00:22:07,840
+Abweichler.
+
+266
+00:22:15,089 --> 00:22:18,684
+Ich glaube,
+ich kriege einen Herzinfarkt.
+
+267
+00:22:20,009 --> 00:22:22,000
+ErbÃ¤rmlich.
+
+268
+00:22:36,649 --> 00:22:40,562
+- Wie heiÃŸt du?
+- Brian. Brian Cohen.
+
+269
+00:22:40,729 --> 00:22:44,119
+Ich glaube, wir haben da
+was zu tun fÃ¼r dich, Brian.
+
+270
+00:23:36,249 --> 00:23:43,200
+Was, <i>"Romanes eunt domus"?</i>
+"Romanen gehen das Haus"?
+
+271
+00:23:43,369 --> 00:23:47,248
+Da steht "RÃ¶mer, geht nach Hause".
+- Nein.
+
+272
+00:23:47,409 --> 00:23:51,118
+- Was heiÃŸt "RÃ¶mer" auf Lateinisch?
+<i>- Romanus.</i>
+
+273
+00:23:51,289 --> 00:23:54,725
+Und das geht wie?
+Vokativ Plural von <i>anus?</i>
+
+274
+00:23:54,889 --> 00:23:59,659
+<i>- Ani?</i>
+<i>- Romani.</i>
+
+275
+00:23:59,759 --> 00:24:00,909
+<i>Eunt? Was heiÃŸt "eunt"?</i>
+- "Geht".
+
+276
+00:24:01,009 --> 00:24:06,129
+- Konjugiere mal das Verb "gehen".
+<i>- Ire, eo, is, it, imus, itis, eunt.</i>
+
+277
+00:24:06,289 --> 00:24:08,166
+Also ist <i>"eunt"?</i>
+
+278
+00:24:08,329 --> 00:24:11,082
+Dritte Person Plural PrÃ¤sens,
+"sie gehen".
+
+279
+00:24:11,249 --> 00:24:15,527
+Aber "geht" ist ein Befehl,
+also brauchst du was?
+
+280
+00:24:15,689 --> 00:24:19,523
+- Den Imperativ.
+- Und der wÃ¤re?
+
+281
+00:24:19,689 --> 00:24:23,921
+- Wie viele RÃ¶mer?
+- Plural. <i>Ite.</i>
+
+282
+00:24:25,849 --> 00:24:32,368
+<i>Domus.</i> Nominativ? "Geht",
+das beschreibt doch eine Bewegung?
+
+283
+00:24:32,529 --> 00:24:36,238
+Dativ. Nein, nicht der Dativ.
+
+284
+00:24:36,409 --> 00:24:39,560
+Akkusativ. <i>Domum, ad domum.</i>
+
+285
+00:24:39,729 --> 00:24:45,122
+- Aber zu <i>domus</i> gehÃ¶rt welche Form?
+- Lokativ, <i>domum.</i>
+
+286
+00:24:48,649 --> 00:24:53,598
+- Kapiert? Schreib das hundert Mal.
+- Jawohl. Ave CÃ¤sar.
+
+287
+00:24:53,769 --> 00:24:58,445
+Und zwar bis Sonnenaufgang,
+sonst schneid ich dir die Eier ab.
+
+288
+00:25:20,649 --> 00:25:27,521
+- Fertig.
+- Gut. Und mach das nicht noch mal.
+
+289
+00:25:49,849 --> 00:25:51,521
+ScheiÃŸrÃ¶mer!
+
+290
+00:26:24,729 --> 00:26:30,008
+Wir dringen durch das Heizungssystem
+ein, rauf in den Hauptaudienzsaal.
+
+291
+00:26:30,169 --> 00:26:32,967
+Hier schlÃ¤ft die Frau von Pilatus.
+
+292
+00:26:33,129 --> 00:26:36,439
+Wir teilen ihm mit,
+dass wir sie haben...
+
+293
+00:26:36,609 --> 00:26:39,169
+und stellen dann unsere Forderungen.
+
+294
+00:26:39,329 --> 00:26:41,763
+- Noch Fragen?
+- Welche Forderungen?
+
+295
+00:26:41,929 --> 00:26:46,241
+Er hat zwei Tage, um den rÃ¶mischen
+Imperialistenstaat aufzulÃ¶sen.
+
+296
+00:26:46,409 --> 00:26:49,924
+- Danach richten wir sie hin.
+- Kopf ab?
+
+297
+00:26:50,089 --> 00:26:54,605
+Wir schneiden ihr alles MÃ¶gliche ab
+und schicken es ihm.
+
+298
+00:26:54,769 --> 00:26:59,604
+Und wir weisen darauf hin,
+dass sie dafÃ¼r verantwortlich sind...
+
+299
+00:26:59,769 --> 00:27:02,727
+und dass wir
+uns nicht erpressen lassen.
+
+300
+00:27:02,889 --> 00:27:04,959
+Keine Erpressung.
+
+301
+00:27:05,129 --> 00:27:08,724
+Die Schweine
+haben uns alles genommen.
+
+302
+00:27:08,889 --> 00:27:12,120
+Und unseren VÃ¤tern und ihren VÃ¤tern.
+
+303
+00:27:12,289 --> 00:27:18,478
+Und den VÃ¤tern der VÃ¤ter unserer
+VÃ¤ter. Und deren VÃ¤tern auch.
+
+304
+00:27:18,649 --> 00:27:21,766
+Und was haben sie uns dafÃ¼r gegeben?
+
+305
+00:27:23,609 --> 00:27:26,123
+Den AquÃ¤dukt?
+
+306
+00:27:26,289 --> 00:27:29,918
+- Den AquÃ¤dukt.
+- Ach ja, das stimmt.
+
+307
+00:27:30,089 --> 00:27:36,005
+- Und die Kanalisation.
+- WeiÃŸt du noch, wie das frÃ¼her war?
+
+308
+00:27:36,169 --> 00:27:39,798
+Na gut, also den AquÃ¤dukt
+und die Kanalisation.
+
+309
+00:27:39,969 --> 00:27:44,918
+- Und die StraÃŸen.
+- Keine Frage, die StraÃŸen.
+
+310
+00:27:45,089 --> 00:27:47,444
+Aber auÃŸer den drei Sachen...
+
+311
+00:27:47,609 --> 00:27:49,839
+- BewÃ¤sserung.
+- Gesundheitswesen.
+
+312
+00:27:50,009 --> 00:27:52,239
+- Bildung.
+- Ja, ja. Also gut.
+
+313
+00:27:52,409 --> 00:27:54,843
+Und den Wein.
+
+314
+00:27:56,089 --> 00:27:59,718
+- Der wÃ¼rde uns echt fehlen.
+- Ã–ffentliche BÃ¤der.
+
+315
+00:27:59,889 --> 00:28:06,522
+- Und man ist nachts sicher.
+- Ordnung schaffen, das kÃ¶nnen sie.
+
+316
+00:28:08,209 --> 00:28:12,760
+Gut. Aber auÃŸer der Kanalisation,
+dem Gesundheitswesen, dem Wein...
+
+317
+00:28:12,929 --> 00:28:16,444
+der BewÃ¤sserung, den StraÃŸen
+und den Wasserleitungen.
+
+318
+00:28:16,609 --> 00:28:19,965
+Was haben sie je fÃ¼r uns getan?
+
+319
+00:28:20,129 --> 00:28:24,122
+- Frieden gestiftet.
+- Frieden. Halt die Klappe.
+
+320
+00:28:34,369 --> 00:28:38,920
+Ich armer Mann. Ich sehe schlecht,
+meine Beine sind alt und krumm.
+
+321
+00:28:39,089 --> 00:28:43,241
+- Schon gut, Matthias.
+- Die Luft ist rein.
+
+322
+00:28:50,289 --> 00:28:52,489
+Wo ist Reg?
+
+323
+00:28:52,889 --> 00:28:56,484
+Reg, es ist Judith.
+
+324
+00:28:56,649 --> 00:29:00,437
+- Was ist schief gegangen?
+- Der erste Schlag sitzt.
+
+325
+00:29:00,609 --> 00:29:03,043
+- Hat er's hingeschrieben?
+- Hundert Mal.
+
+326
+00:29:03,209 --> 00:29:07,248
+In drei Meter hohen Buchstaben,
+rund um den Palast.
+
+327
+00:29:07,409 --> 00:29:09,409
+Ach, toll.
+
+328
+00:29:10,489 --> 00:29:14,801
+Wir brauchen MÃ¤nner der Tat,
+aber eins musst du wissen:
+
+329
+00:29:14,969 --> 00:29:19,724
+Keiner von uns wÃ¼rde nicht freudig
+fÃ¼r die gerechte Sache sterben.
+
+330
+00:29:19,889 --> 00:29:23,404
+- Doch, ich.
+- Na ja, einer von uns.
+
+331
+00:29:23,569 --> 00:29:27,118
+Aber ansonsten sind wir uns einig.
+Bist du dabei?
+
+332
+00:29:28,489 --> 00:29:33,040
+Von nun an heiÃŸt du
+"Brian, genannt Brian".
+
+333
+00:29:33,209 --> 00:29:37,760
+- ErzÃ¤hl ihm von der Pilatus-Sache.
+- Der Plan geht so.
+
+334
+00:29:38,689 --> 00:29:44,207
+Das ist der Palast. Unsere Einheit
+kommt bei Nacht von der FischstraÃŸe...
+
+335
+00:29:44,369 --> 00:29:47,281
+und geht zum Hauptabwasserrohr.
+
+336
+00:29:47,449 --> 00:29:51,920
+Bei Fragen sind wir auf dem Weg
+zu einer Kanalarbeiterversammlung.
+
+337
+00:29:52,089 --> 00:29:58,358
+Reg, unser AnfÃ¼hrer und GrÃ¼nder
+koordiniert die Lage am Rohr...
+
+338
+00:29:58,529 --> 00:30:02,920
+nimmt aber selbst nicht teil,
+weil er's am RÃ¼cken hat.
+
+339
+00:30:03,089 --> 00:30:08,322
+- Kommst du nicht mit?
+- SolidaritÃ¤t, Bruder.
+
+340
+00:30:08,489 --> 00:30:11,447
+Im Abwasserrohr
+kommt es aufs Timing an.
+
+341
+00:30:11,609 --> 00:30:14,760
+SpÃ¤ter am Abend ist ein rÃ¶misches
+Fest, also mÃ¼ssen wir uns beeilen.
+
+342
+00:30:14,969 --> 00:30:16,766
+Und tragt ja nicht die guten Sandalen!
+
+343
+00:30:16,969 --> 00:30:23,522
+Das CÃ¤sar-Augustus-Gedenk-Rohr
+fÃ¼hrt links direkt ins Hypokaustum.
+
+344
+00:30:23,689 --> 00:30:28,558
+Es ist neu gefliest,
+also bitte vorsichtig mit den Waffen.
+
+345
+00:30:28,729 --> 00:30:32,119
+Wenn wir direkt
+unter Pilatus' Audienzsaal sind...
+
+346
+00:30:32,289 --> 00:30:36,043
+bringt Habakuk
+sein Werkzeug zum Vorschein.
+
+347
+00:31:51,369 --> 00:31:58,366
+- KÃ¤mpfer fÃ¼r ein freies GalilÃ¤a.
+- Volksfront von JudÃ¤a. FunktionÃ¤re.
+
+348
+00:31:58,529 --> 00:32:02,283
+- Was macht ihr hier?
+- Wir entfÃ¼hren Pilatus' Frau.
+
+349
+00:32:02,449 --> 00:32:07,443
+- Wir auch. Das ist unser Plan.
+- Wir waren zuerst da.
+
+350
+00:32:07,609 --> 00:32:12,046
+Wir hatten die Idee als Erste.
+Schon vor ein paar Jahren.
+
+351
+00:32:12,209 --> 00:32:16,646
+Habt ihr denn schon Forderungen?
+Welche denn?
+
+352
+00:32:16,809 --> 00:32:19,084
+- Sag ich nicht.
+- HÃ¶r doch auf.
+
+353
+00:32:19,249 --> 00:32:24,118
+Darum geht's nicht.
+Wir hatten die Idee vor euch.
+
+354
+00:32:25,409 --> 00:32:30,358
+- Wir planen das seit Monaten.
+- Pech fÃ¼r euch, Fischgesicht.
+
+355
+00:32:31,569 --> 00:32:36,279
+- Wir sollten gemeinsam kÃ¤mpfen.
+- Tun wir doch.
+
+356
+00:32:36,449 --> 00:32:41,284
+Wir sollten nicht gegeneinander
+kÃ¤mpfen, sondern gegen den Feind.
+
+357
+00:32:41,449 --> 00:32:45,442
+- Die JudÃ¤ische Volksfront?
+- Nein, die RÃ¶mer.
+
+358
+00:32:46,089 --> 00:32:48,284
+- Ach so.
+- Stimmt.
+
+359
+00:32:48,569 --> 00:32:51,003
+- Er hat Recht.
+- Vorsicht!
+
+360
+00:32:56,649 --> 00:33:00,244
+- Wo waren wir?
+- Du wolltest mich schlagen.
+
+361
+00:33:22,209 --> 00:33:23,609
+BrÃ¼der!
+
+362
+00:33:24,089 --> 00:33:26,089
+Loslassen!
+
+363
+00:34:23,129 --> 00:34:26,724
+- Du GlÃ¼ckspilz.
+- Wer ist da?
+
+364
+00:34:26,889 --> 00:34:33,203
+Du glÃ¼cklicher GlÃ¼ckspilz.
+Der Liebling vom Kerkermeister, hm?
+
+365
+00:34:33,369 --> 00:34:38,921
+- Hast ihm sicher was zugesteckt.
+- Er hat mir ins Gesicht gespuckt.
+
+366
+00:34:39,089 --> 00:34:42,843
+Ach, wenn mir doch mal einer
+ins Gesicht spucken wÃ¼rde.
+
+367
+00:34:43,009 --> 00:34:47,446
+Nachts trÃ¤ume ich davon,
+dass mir einer ins Gesicht spuckt.
+
+368
+00:34:47,609 --> 00:34:52,888
+Also freundlich ist anders.
+Sie haben mich in Ketten gelegt.
+
+369
+00:34:53,049 --> 00:34:58,328
+So stell ich mir den Himmel vor: Ein
+paar Stunden in Ketten gelegt werden.
+
+370
+00:34:58,489 --> 00:35:02,164
+Die denken wohl,
+dir scheint die Sonne aus dem Arsch.
+
+371
+00:35:02,329 --> 00:35:05,924
+- HÃ¶r auf, ich hab einiges hinter mir.
+- Wer, du?
+
+372
+00:35:06,089 --> 00:35:12,722
+Ich bin fÃ¼nf Jahre hier, und erst seit
+gestern richtig herum aufgehÃ¤ngt.
+
+373
+00:35:12,889 --> 00:35:16,928
+Wahrscheinlich denken die,
+du bist Gott hÃ¶chstpersÃ¶nlich.
+
+374
+00:35:17,089 --> 00:35:18,681
+Was machen die wohl mit mir?
+
+375
+00:35:18,849 --> 00:35:23,639
+Wahrscheinlich bloÃŸ kreuzigen,
+bist ja ErsttÃ¤ter.
+
+376
+00:35:23,809 --> 00:35:28,041
+- Kreuzigen?
+- Das ist das Beste an den RÃ¶mern.
+
+377
+00:35:28,209 --> 00:35:32,122
+Ohne Kreuzigungen wÃ¤re dieses Land
+doch im Arsch.
+
+378
+00:35:32,289 --> 00:35:38,444
+- Wache!
+- Alle ans Kreuz nageln, sag ich.
+
+379
+00:35:38,609 --> 00:35:42,158
+- Was gibt's?
+- Ich will in eine andere Zelle.
+
+380
+00:35:43,409 --> 00:35:47,687
+- Ah, verfluchte Vorzugsbehandlung.
+- Halts Maul, du.
+
+381
+00:35:47,889 --> 00:35:49,117
+'Tschuldigung!
+
+382
+00:35:52,209 --> 00:35:57,886
+Seit fÃ¼nf Jahren lassen sie mich
+jeden Abend 20 Minuten runter.
+
+383
+00:35:58,049 --> 00:36:01,405
+Das ist nur gerecht,
+angesichts meiner Taten.
+
+384
+00:36:01,569 --> 00:36:06,006
+Jedenfalls hat mich das
+Respekt vor den RÃ¶mern gelehrt.
+
+385
+00:36:06,169 --> 00:36:09,525
+Ich weiÃŸ jetzt, dass man's im Leben
+zu nichts bringt...
+
+386
+00:36:09,689 --> 00:36:15,525
+- wenn man nicht hart arbeitet...
+- Halt die Klappe.
+
+387
+00:36:18,129 --> 00:36:23,157
+- Pilatus will dich sprechen. Los.
+- Warum will er mich sprechen?
+
+388
+00:36:23,329 --> 00:36:27,163
+Er will wissen,
+wie du gekreuzigt werden willst.
+
+389
+00:36:28,329 --> 00:36:32,447
+- Toller Witz, Zenturio. Super.
+- Halts Maul.
+
+390
+00:36:34,209 --> 00:36:37,679
+Einmaliges Volk, die RÃ¶mer. Einmalig.
+
+391
+00:36:54,729 --> 00:36:58,358
+Ave CÃ¤sar.
+Der einzige Ãœberlebende, Herr.
+
+392
+00:36:58,529 --> 00:37:01,123
+- Wunter mit ihm.
+- Wie bitte?
+
+393
+00:37:01,289 --> 00:37:04,281
+Wunter mit ihm.
+
+394
+00:37:07,889 --> 00:37:12,758
+- Wie heiÃŸt du, Jude?
+- Brian, Herr.
+
+395
+00:37:12,969 --> 00:37:13,969
+Aha. Bwian.
+
+396
+00:37:14,249 --> 00:37:15,967
+Nein, nein, Brian.
+
+397
+00:37:18,529 --> 00:37:21,999
+- Der Wacker ist wenitent.
+- Er ist was?
+
+398
+00:37:22,169 --> 00:37:25,081
+- Wenitent.
+- Ja, hat er, Herr.
+
+399
+00:37:25,249 --> 00:37:30,198
+Nein, er ist wenitent.
+Bwavado, ein bisschen Hewoismus.
+
+400
+00:37:30,369 --> 00:37:33,042
+Ach so... Etwa elf Uhr.
+
+401
+00:37:34,649 --> 00:37:39,484
+- Du wolltest mich also auswauben.
+- Euch was?
+
+402
+00:37:39,649 --> 00:37:46,566
+- Hau ihn, Zentuwion, wichtig fest.
+- Und wieder runter mit ihm?
+
+403
+00:37:46,729 --> 00:37:50,438
+- Und wieder wunter mit ihm?
+- Ah ja. Wunter mit ihm.
+
+404
+00:37:52,649 --> 00:37:58,201
+- Also, jÃ¼discher Wabauke.
+- Ich bin kein Jude, ich bin RÃ¶mer.
+
+405
+00:37:58,369 --> 00:38:01,884
+- Ein WÃ¶mer?
+- Nein, ein RÃ¶mer.
+
+406
+00:38:04,089 --> 00:38:07,604
+Dein Vater war also RÃ¶mer?
+
+407
+00:38:07,769 --> 00:38:11,478
+Ja, ein Zenturio in der Kaserne
+von Jerusalem.
+
+408
+00:38:11,649 --> 00:38:17,042
+- Wiwklich? Wie heiÃŸt er?
+- Schlimmus Fingus.
+
+409
+00:38:20,289 --> 00:38:24,282
+Zentuwio, haben wir so jemanden
+in der Kasewne?
+
+410
+00:38:24,449 --> 00:38:29,159
+- Nein, Herr.
+- Hast du das Ã¼berpwÃ¼ft?
+
+411
+00:38:29,329 --> 00:38:32,878
+Nein, Herr.
+Ich denke, es ist ein Witz.
+
+412
+00:38:33,049 --> 00:38:38,407
+So was wie Vollus Trottelus
+oder Schwanzus Longus.
+
+413
+00:38:38,569 --> 00:38:42,926
+Was ist so lustig an Schwanzus Longus?
+
+414
+00:38:43,089 --> 00:38:45,319
+Es ist ein ulkiger Name.
+
+415
+00:38:46,569 --> 00:38:50,482
+Ich habe in Wom einen guten Fweund
+namens Schwanzus Longus.
+
+416
+00:38:52,129 --> 00:38:54,962
+Wuhe! Was soll diese Fwechheit?
+
+417
+00:38:55,129 --> 00:39:00,157
+So ein wÃ¼pelhaftes Betwagen bwingt
+dich schnell in die Gladiatowenschule.
+
+418
+00:39:00,329 --> 00:39:04,038
+Kann ich jetzt gehen, Herr?
+
+419
+00:39:04,209 --> 00:39:09,761
+Wenn das Schwanzus Longus hÃ¶rt!
+Bwingt ihn weg.
+
+420
+00:39:09,929 --> 00:39:13,638
+In einer Woche soll er
+mit weiÃŸenden Bestien kÃ¤mpfen.
+
+421
+00:39:13,809 --> 00:39:15,447
+Komm mit.
+
+422
+00:39:18,969 --> 00:39:24,441
+Gemeine Wekwuten dÃ¼wfen sich nicht
+Ã¼ber meine Fweunde mokiewen.
+
+423
+00:39:25,929 --> 00:39:30,639
+Findet das sonst noch jemand lustig...
+
+424
+00:39:30,809 --> 00:39:33,926
+wenn ich von meinem Fweund...
+
+425
+00:39:34,089 --> 00:39:36,489
+Schwanzus...
+
+426
+00:39:37,409 --> 00:39:38,888
+Longus wede?
+
+427
+00:39:42,249 --> 00:39:47,642
+Und du? Findest du es
+auch wasend komisch...
+
+428
+00:39:48,929 --> 00:39:51,929
+wenn ich von...
+
+429
+00:39:52,329 --> 00:39:56,729
+Schwanzus Longus wede?
+
+430
+00:40:15,249 --> 00:40:17,763
+Er hat auch eine Fwau.
+
+431
+00:40:18,889 --> 00:40:21,449
+Wisst ihr, wie die heiÃŸt?
+
+432
+00:40:23,729 --> 00:40:27,961
+Sie heiÃŸt Inkontinenzia.
+
+433
+00:40:30,129 --> 00:40:34,088
+Inkontinenzia Poback.
+Wuhe! Was soll denn das?
+
+434
+00:40:34,249 --> 00:40:37,924
+Schluss mit dem
+webellischen Wumkichern.
+
+435
+00:40:38,089 --> 00:40:44,767
+Ihr wollt Zentuwios sein? Packt ihn.
+SchnÃ¤uzt euch und packt ihn.
+
+436
+00:42:37,609 --> 00:42:39,809
+GlÃ¼ckspilz.
+
+437
+00:42:55,289 --> 00:42:58,326
+Und das Tier wird groÃŸ sein
+und schwarz...
+
+438
+00:42:58,489 --> 00:43:03,165
+und seine Augen werden rot sein
+vom Blut aller Lebewesen.
+
+439
+00:43:03,329 --> 00:43:08,847
+Und die Hure von Babylon wird auf
+einer dreikÃ¶pfigen Schlange reiten...
+
+440
+00:43:09,009 --> 00:43:14,037
+und im ganzen Land wird sein
+ein groÃŸes Gliederreiben.
+
+441
+00:43:14,209 --> 00:43:18,043
+Und der DÃ¤mon wird ein
+neunschneidiges Schwert tragen...
+
+442
+00:43:18,209 --> 00:43:22,407
+Neunschneidig, nicht zwei,
+nicht fÃ¼nf oder sieben Schneiden...
+
+443
+00:43:22,569 --> 00:43:27,279
+mit dem er alle SÃ¼nder strafen wird,
+SÃ¼nder wie Sie, mein Herr.
+
+444
+00:43:27,449 --> 00:43:31,044
+Und auf dem Haupte
+wird er HÃ¶rner tragen...
+
+445
+00:43:31,209 --> 00:43:36,237
+Es wird in der Zeit GerÃ¼chte geben
+von Dingen, die vom Weg abkommen.
+
+446
+00:43:36,409 --> 00:43:40,721
+Es wird Verwirrung herrschen,
+darÃ¼ber, wo die Sachen sind...
+
+447
+00:43:40,889 --> 00:43:44,723
+und niemand wird wissen,
+wo die kleinen Dinger liegen...
+
+448
+00:43:44,889 --> 00:43:49,599
+mit diesem FuÃŸ aus Bast
+und dem Dings, was daran ist.
+
+449
+00:43:49,769 --> 00:43:54,604
+Dann wird ein Freund
+den Hammer eines Freundes verlieren.
+
+450
+00:43:54,769 --> 00:43:59,559
+Nachfahren werden nicht wissen,
+wo die Dinge ihrer VÃ¤ter liegen...
+
+451
+00:43:59,729 --> 00:44:03,642
+die ihre VÃ¤ter erst gestern Abend
+um acht da hingelegt haben.
+
+452
+00:44:04,449 --> 00:44:08,840
+Im Buch Cyril steht geschrieben,
+dass in diesen Tagen...
+
+453
+00:44:18,409 --> 00:44:20,365
+- Wie viel? Schnell.
+- Was?
+
+454
+00:44:20,609 --> 00:44:22,839
+Er ist fÃ¼r meine Frau.
+
+455
+00:44:23,049 --> 00:44:24,277
+- 20 Schekel.
+- Fein.
+
+456
+00:44:24,449 --> 00:44:25,449
+Was?
+
+457
+00:44:25,689 --> 00:44:29,045
+- Bitte.
+- Moment. Wir mÃ¼ssen feilschen.
+
+458
+00:44:29,249 --> 00:44:30,249
+Nein, ich...
+
+459
+00:44:30,409 --> 00:44:35,437
+- Wie, nein? Geben Sie ihn wieder her.
+- Aber ich hab doch bezahlt.
+
+460
+00:44:35,609 --> 00:44:38,169
+- Der da will nicht feilschen.
+- Nicht feilschen?
+
+461
+00:44:38,369 --> 00:44:39,643
+Na gut. Muss das sein?
+
+462
+00:44:39,809 --> 00:44:43,768
+Ich will 20 dafÃ¼r. Sie wollen
+also sagen, der ist keine 20 wert?
+
+463
+00:44:43,969 --> 00:44:45,004
+Keineswegs...
+
+464
+00:44:45,169 --> 00:44:48,878
+- FÃ¼hlen Sie mal die QualitÃ¤t.
+- Gut, ich geb Ihnen 19.
+
+465
+00:44:49,049 --> 00:44:52,883
+Nein, nein. So geht das nicht.
+Der ist keine 19 wert.
+
+466
+00:44:53,049 --> 00:44:56,928
+- Sie sagen doch, er ist 20 wert.
+- Herrje. Los, feilschen.
+
+467
+00:44:57,089 --> 00:44:59,125
+- Na gut, dann zehn.
+- Schon besser.
+
+468
+00:44:59,289 --> 00:45:04,283
+Zehn? Wollen Sie mich beleidigen?
+Meine GroÃŸmutter liegt im Sterben.
+
+469
+00:45:04,449 --> 00:45:06,007
+- Dann eben elf.
+- Gut.
+
+470
+00:45:06,169 --> 00:45:11,289
+Elf? Er hat mich zwÃ¶lf gekostet.
+Wollen Sie mich ruinieren?
+
+471
+00:45:11,449 --> 00:45:13,917
+- 17?
+- Nein, nein, nein. 17.
+
+472
+00:45:14,089 --> 00:45:16,444
+- 18?
+- Nein, Sie bieten jetzt 14.
+
+473
+00:45:16,609 --> 00:45:19,328
+- Dann eben 14.
+- Soll das ein Witz sein?
+
+474
+00:45:19,489 --> 00:45:23,801
+Das sollte ich doch sagen.
+Was soll ich denn sagen?
+
+475
+00:45:23,969 --> 00:45:25,925
+- Bieten Sie 14.
+- Ich biete 14.
+
+476
+00:45:26,089 --> 00:45:28,842
+- DafÃ¼r bietet er mir 14.
+- 15.
+
+477
+00:45:29,009 --> 00:45:32,046
+17, mein letztes Wort.
+Drunter geh ich nicht.
+
+478
+00:45:32,209 --> 00:45:34,439
+- 16.
+- Verkauft.
+
+479
+00:45:34,609 --> 00:45:40,047
+- Und die hier gibt's dazu.
+- Will ich nicht, aber trotzdem danke.
+
+480
+00:45:41,249 --> 00:45:43,399
+- Wo sind die 16?
+- Ich gab Ihnen 20.
+
+481
+00:45:43,569 --> 00:45:47,562
+Ach ja. Sie kriegen noch vier.
+Moment, ich hab's irgendwo.
+
+482
+00:45:47,729 --> 00:45:52,041
+- Die vier sind fÃ¼r die Flasche.
+- Vier? FÃ¼r diese Flasche?
+
+483
+00:45:52,209 --> 00:45:55,838
+- Die ist zehn wert.
+- Sie haben sie mir geschenkt.
+
+484
+00:45:56,009 --> 00:45:59,399
+- Ja, aber wert ist sie zehn.
+- Na gut.
+
+485
+00:46:01,809 --> 00:46:07,998
+Nein, Sie mÃ¼ssen handeln.
+"Zehn dafÃ¼r? Sie spinnen doch."
+
+486
+00:46:10,049 --> 00:46:12,643
+Die Dummen sterben nicht aus.
+
+487
+00:46:13,929 --> 00:46:15,521
+- Daniel.
+- Daniel.
+
+488
+00:46:15,689 --> 00:46:16,724
+- Hiob.
+- Hiob.
+
+489
+00:46:16,889 --> 00:46:18,322
+- Hiob.
+- Joshua.
+
+490
+00:46:18,489 --> 00:46:19,683
+- Joshua.
+- Joshua.
+
+491
+00:46:19,849 --> 00:46:20,918
+- Richter.
+- Richter.
+
+492
+00:46:21,089 --> 00:46:22,647
+- Richter.
+- Und Brian.
+
+493
+00:46:22,809 --> 00:46:25,164
+- Und Brian.
+- Und Brian.
+
+494
+00:46:25,329 --> 00:46:29,038
+Ich schlage vor,
+dass alle sieben Ex-BrÃ¼der...
+
+495
+00:46:29,209 --> 00:46:32,201
+als MÃ¤rtyrer eingetragen werden.
+
+496
+00:46:32,369 --> 00:46:35,964
+- Ich unterstÃ¼tze den Antrag.
+- Danke, Loretta.
+
+497
+00:46:36,129 --> 00:46:39,963
+Geschwister,
+lasst den Mut nicht sinken.
+
+498
+00:46:40,129 --> 00:46:44,725
+Eine totale Katastrophe wie diese
+ist erst der Anfang.
+
+499
+00:46:44,889 --> 00:46:49,121
+- Ihr glorreicher Tod vereint uns...
+- Vorsicht!
+
+500
+00:47:00,449 --> 00:47:01,649
+Hallo?
+
+501
+00:47:02,209 --> 00:47:04,928
+Matthias?
+Reg?
+
+502
+00:47:05,209 --> 00:47:06,809
+Geh weg.
+
+503
+00:47:07,969 --> 00:47:11,644
+- Reg, ich bin's. Brian.
+- Verdufte!
+
+504
+00:47:12,689 --> 00:47:15,806
+- Raus mit dir.
+- Los, raus.
+
+505
+00:47:18,809 --> 00:47:20,409
+ScheiÃŸe!
+
+506
+00:47:20,809 --> 00:47:23,118
+Ich komme schon.
+
+507
+00:47:27,129 --> 00:47:30,360
+In diesen Tagen,
+so steht es im Buch Obadiah...
+
+508
+00:47:30,529 --> 00:47:34,807
+wird ein Mann seinen Esel schlagen,
+und den Esel seines Neffen...
+
+509
+00:47:34,969 --> 00:47:38,279
+und jeden in der NÃ¤he des Neffen
+oder des Esels.
+
+510
+00:47:38,529 --> 00:47:42,363
+- Meine Augen sind trÃ¼be.
+- Bist du Matthias?
+
+511
+00:47:42,529 --> 00:47:43,529
+Ja.
+
+512
+00:47:43,689 --> 00:47:49,639
+Versteckst du einen gewissen Brian
+aus Nazareth, einen Terroristen?
+
+513
+00:47:49,809 --> 00:47:54,325
+Nein, ich bin ein alter Mann,
+ich habe keine Zeit fÃ¼r Kriminelle.
+
+514
+00:47:54,489 --> 00:47:58,528
+Meine Beine sind grau, meine Ohren
+schwielig, meine Augen alt und krumm.
+
+515
+00:47:58,689 --> 00:48:02,921
+Ruhe! BlÃ¶der Mensch.
+Wachen! Durchsucht das Haus.
+
+516
+00:48:13,089 --> 00:48:17,560
+WeiÃŸt du, was auf das Beherbergen
+von Verbrechern steht?
+
+517
+00:48:17,769 --> 00:48:20,442
+- Nein.
+- Die Kreuzigung.
+
+518
+00:48:22,009 --> 00:48:25,445
+- ScheuÃŸlich, was?
+- Gibt Schlimmeres.
+
+519
+00:48:25,609 --> 00:48:29,921
+- Was kÃ¶nnte denn schlimmer sein?
+- Man kÃ¶nnte erstochen werden.
+
+520
+00:48:30,089 --> 00:48:36,005
+Das dauert nur eine Sekunde. Eine
+Kreuzigung ist langsam und grauenhaft.
+
+521
+00:48:36,169 --> 00:48:39,923
+Immerhin ist man dabei
+an der frischen Luft.
+
+522
+00:48:40,089 --> 00:48:42,045
+Du spinnst doch.
+
+523
+00:48:49,369 --> 00:48:52,361
+Nichts zu finden, Zenturio.
+
+524
+00:48:52,529 --> 00:48:56,442
+Aber wir sind nicht
+zum letzten Mal da, Spinner.
+
+525
+00:48:56,609 --> 00:48:58,839
+- Dicknase.
+- Pass bloÃŸ auf.
+
+526
+00:49:02,049 --> 00:49:04,279
+Puh. Schwein gehabt.
+
+527
+00:49:06,969 --> 00:49:08,641
+Tut mir Leid, Reg.
+
+528
+00:49:08,809 --> 00:49:13,929
+Es tut ihm Leid, dass er
+die FÃ¼nfte Legion zu uns gefÃ¼hrt hat.
+
+529
+00:49:14,089 --> 00:49:18,321
+Macht nichts, Brian.
+Setz dich, nimm dir 'nen Keks.
+
+530
+00:49:18,489 --> 00:49:24,359
+Du Trottel! Du bescheuerter,
+hirnverbrannter, dÃ¤mlicher...
+
+531
+00:49:28,089 --> 00:49:30,398
+...mit einem riesengroÃŸen,
+saftigen Melonenarsch.
+
+532
+00:49:31,889 --> 00:49:35,199
+Meine Beine sind alt und krumm,
+meine Ohren sind grau.
+
+533
+00:49:35,369 --> 00:49:42,320
+- Eine Stelle haben wir vergessen.
+- Ich hab schlechte Augen...
+
+534
+00:49:42,489 --> 00:49:44,525
+und meine Nase ist halb tot.
+
+535
+00:49:44,689 --> 00:49:49,638
+- Schon mal eine Kreuzigung gesehen?
+- Kreuzigungen sind Kinderkram.
+
+536
+00:49:49,809 --> 00:49:52,448
+Sag das nicht.
+
+537
+00:49:55,809 --> 00:49:59,688
+- Einen LÃ¶ffel gefunden, Zenturio.
+- Gut gemacht, Sergeant.
+
+538
+00:50:00,969 --> 00:50:04,518
+Wir kommen wieder,
+du schrÃ¤ger Vogel.
+
+539
+00:50:07,569 --> 00:50:10,720
+- Aufmachen!
+- Wir sind noch nicht versteckt.
+
+540
+00:50:34,289 --> 00:50:38,726
+Richtet nicht Ã¼ber andere,
+sonst werdet ihr vielleicht gerichtet.
+
+541
+00:50:38,929 --> 00:50:39,929
+Bitte?
+
+542
+00:50:40,089 --> 00:50:45,163
+Ich sage: Richtet nicht Ã¼ber andere,
+sonst richten die noch Ã¼ber euch.
+
+543
+00:50:45,329 --> 00:50:48,287
+Wer, ich? Ach, vielen Dank.
+
+544
+00:50:48,449 --> 00:50:51,486
+- Nicht nur du, ihr alle.
+- SchÃ¶ne Flasche hast du da.
+
+545
+00:50:51,649 --> 00:50:52,649
+Was?
+
+546
+00:50:52,849 --> 00:50:55,727
+- Wie viel willst du fÃ¼r die Flasche?
+- Nimm sie.
+
+547
+00:50:55,889 --> 00:50:59,802
+- Sehet die Lilien...
+- Willst du nicht feilschen?
+
+548
+00:50:59,969 --> 00:51:02,085
+- Was ist denn damit?
+- Gar nichts.
+
+549
+00:51:02,249 --> 00:51:05,127
+- Wie, die Lilien?
+- Dann eben die VÃ¶gel.
+
+550
+00:51:05,289 --> 00:51:06,688
+- Welche VÃ¶gel?
+- Alle VÃ¶gel.
+
+551
+00:51:06,889 --> 00:51:07,924
+Warum denn?
+
+552
+00:51:08,089 --> 00:51:13,402
+- Haben die Arbeit? Die VÃ¶gel?
+- Ob VÃ¶gel Arbeit haben?
+
+553
+00:51:13,569 --> 00:51:16,447
+- Was ist mit dem?
+- Er sagt, die VÃ¶gel schmarotzen.
+
+554
+00:51:16,609 --> 00:51:22,366
+- Nein, aber es geht ihnen doch gut.
+- Ja, ich wÃ¼nsch ihnen was.
+
+555
+00:51:22,529 --> 00:51:29,401
+Und ihr seid viel wichtiger als die,
+oder? Was sorgt ihr euch also?
+
+556
+00:51:29,569 --> 00:51:33,687
+- Was hast du denn gegen VÃ¶gel?
+- Gar nichts.
+
+557
+00:51:33,849 --> 00:51:37,967
+- Schauet die Lilien.
+- Jetzt sind wieder die Blumen schuld.
+
+558
+00:51:38,129 --> 00:51:43,920
+- Einen Schekel. Dann eben zwei.
+- Ein Mann hatte einmal zwei Diener.
+
+559
+00:51:44,089 --> 00:51:47,320
+- Wie hieÃŸen die?
+- WeiÃŸ ich nicht.
+
+560
+00:51:47,489 --> 00:51:50,287
+- Er gab ihnen ein paar Talente.
+- Das weiÃŸt du nicht?
+
+561
+00:51:50,449 --> 00:51:53,486
+- Es kommt nicht drauf an.
+- Er weiÃŸ es nicht.
+
+562
+00:51:53,649 --> 00:51:57,164
+- Sie hieÃŸen Simon und Adrian.
+- Eben wusstest du's nicht.
+
+563
+00:51:57,329 --> 00:52:02,847
+- Ist doch egal. Da waren...
+- Der saugt sich das aus den Fingern.
+
+564
+00:52:03,009 --> 00:52:07,605
+- Und er gab... Oder waren es drei?
+- Furchtbar, der Mann.
+
+565
+00:52:07,769 --> 00:52:10,841
+- Zwei oder drei?
+- Ach, hÃ¶r doch auf.
+
+566
+00:52:16,609 --> 00:52:21,364
+HÃ¶rt zu. Selig sind die,
+die ihres NÃ¤chsten Rind bekehren...
+
+567
+00:52:21,529 --> 00:52:24,601
+- denn sie werden das Erdreich gerben.
+- Unsinn.
+
+568
+00:52:24,769 --> 00:52:29,206
+Und nur ihnen wird dereinst...
+
+569
+00:52:29,369 --> 00:52:34,569
+Nur ihnen wird dereinst...
+
+570
+00:52:37,129 --> 00:52:41,486
+- Was? Was wird ihnen dereinst?
+- Ach, nichts.
+
+571
+00:52:41,649 --> 00:52:44,607
+Was wolltest du sagen?
+Du wolltest was sagen.
+
+572
+00:52:44,769 --> 00:52:47,567
+- Ich war fertig.
+- Sag's uns doch noch.
+
+573
+00:52:47,729 --> 00:52:51,927
+- Ich war fertig.
+- Was will er uns nicht sagen?
+
+574
+00:52:52,089 --> 00:52:58,039
+- Ist es ein Geheimnis?
+- Sonst wÃ¼rde er's wohl sagen.
+
+575
+00:52:58,209 --> 00:53:00,643
+Das Geheimnis des ewigen Lebens?
+
+576
+00:53:00,809 --> 00:53:05,360
+- Das wÃ¼rde ich euch nicht verraten.
+- Lasst mich in Ruhe.
+
+577
+00:53:05,529 --> 00:53:09,841
+- Sag es uns, Meister.
+- Geht weg.
+
+578
+00:53:10,009 --> 00:53:14,719
+- Mehr als fÃ¼nf kann ich nicht bieten.
+- Ist das seine Flasche?
+
+579
+00:53:14,889 --> 00:53:20,202
+- Dies ist seine Flasche.
+- Zehn.
+
+580
+00:53:20,369 --> 00:53:24,885
+Wir tragen sie fÃ¼r dich, Meister.
+Meister?
+
+581
+00:53:25,049 --> 00:53:28,485
+Er ist weg!
+Er ist gen Himmel gefahren!
+
+582
+00:53:30,489 --> 00:53:33,606
+- 18.
+- Ach, nein. Da ist er.
+
+583
+00:53:58,769 --> 00:53:59,769
+Seht!
+
+584
+00:54:00,929 --> 00:54:04,888
+- Er hat uns ein Zeichen gegeben.
+- Er gibt uns seinen Schuh.
+
+585
+00:54:05,049 --> 00:54:08,041
+Folgen wir seinem Beispiel.
+
+586
+00:54:08,209 --> 00:54:12,680
+Lasst uns einen Schuh hochhalten
+und den anderen am FuÃŸ tragen.
+
+587
+00:54:12,849 --> 00:54:16,239
+Wer ihm folgt, soll es ihm gleichtun.
+
+588
+00:54:16,409 --> 00:54:21,278
+Nein, es ist ein Zeichen,
+dass wir Schuhe sammeln mÃ¼ssen.
+
+589
+00:54:21,449 --> 00:54:27,399
+- Folgt der Flasche!
+- Nein, sammelt Schuhe!
+
+590
+00:54:27,569 --> 00:54:32,927
+Nein, es bedeutet, dass Gesicht
+und Kopf wichtiger sind als der Leib.
+
+591
+00:54:33,089 --> 00:54:35,842
+- Gib mir deinen Schuh.
+- Lass los.
+
+592
+00:54:36,009 --> 00:54:40,002
+Folgt der Flasche,
+der heiligen Flasche von Jerusalem.
+
+593
+00:54:40,169 --> 00:54:43,605
+- Haltet die Sandale hoch wie er.
+- Es ist ein Schuh!
+
+594
+00:54:43,769 --> 00:54:47,808
+- Eine Sandale!
+- Wirf ihn weg!
+
+595
+00:54:47,969 --> 00:54:52,167
+- Zieh ihn an!
+- Nehmt die Schuhe, folgt ihm nach!
+
+596
+00:54:57,809 --> 00:54:59,481
+Haltet ein.
+
+597
+00:55:01,089 --> 00:55:05,048
+Lasset uns... lasset uns beten.
+
+598
+00:55:05,209 --> 00:55:10,681
+Er wird zu uns kommen
+wie der Samen zum Korn.
+
+599
+00:55:32,409 --> 00:55:34,009
+Meister.
+
+600
+00:55:57,529 --> 00:56:02,922
+Gibt es noch einen anderen Weg
+zum Fluss runter?
+
+601
+00:56:04,049 --> 00:56:06,085
+Hilf mir, ich muss...
+
+602
+00:56:09,969 --> 00:56:12,483
+Aua, mein FuÃŸ!
+
+603
+00:56:12,649 --> 00:56:15,959
+- Ach, verdammt, verdammt!
+- Tut mir Leid.
+
+604
+00:56:16,129 --> 00:56:19,678
+- Verdammt und zugenÃ¤ht!
+- Tut mir Leid! Psst.
+
+605
+00:56:19,849 --> 00:56:24,718
+"Psst" sagt er. Ich schweige 18 Jahre
+lang, und er sagt "psst" zu mir.
+
+606
+00:56:24,889 --> 00:56:31,362
+18 Jahre lang ist kein artikulierter
+Laut Ã¼ber meine Lippen gekommen.
+
+607
+00:56:31,529 --> 00:56:36,080
+- Schweig doch noch fÃ¼nf Minuten.
+- Ach, jetzt ist es auch egal.
+
+608
+00:56:36,249 --> 00:56:41,528
+18 Jahre lang wollte ich schreien,
+singen, meinen Namen rufen.
+
+609
+00:56:41,729 --> 00:56:42,844
+Ich lebe!
+
+610
+00:56:43,009 --> 00:56:44,840
+<i>Hava Nagila</i>
+
+611
+00:56:45,049 --> 00:56:48,649
+<i>Hava Nagila</i>
+
+612
+00:56:50,169 --> 00:56:54,799
+Ich lebe! Hallo, VÃ¶gel.
+Hallo, BÃ¤ume. Ich lebe!
+
+613
+00:56:54,969 --> 00:56:57,085
+Lass mich los. Ich lebe!
+
+614
+00:56:57,289 --> 00:56:59,200
+<i>Hava Nagila</i>
+<i>Hava...</i>
+
+615
+00:57:01,249 --> 00:57:04,127
+Meister, Meister.
+
+616
+00:57:05,129 --> 00:57:07,927
+Der Meister! Er ist hier!
+
+617
+00:57:08,089 --> 00:57:12,401
+Der Schuh... der Schuh
+hat uns hergefÃ¼hrt.
+
+618
+00:57:12,569 --> 00:57:15,845
+Sprich zu uns, Meister. Sprich zu uns.
+
+619
+00:57:16,009 --> 00:57:20,082
+- Geht weg!
+- Einen Segen! Einen Segen!
+
+620
+00:57:20,249 --> 00:57:24,959
+- Wie sollen wir weggehen, Meister?
+- Geht einfach weg, lasst mich.
+
+621
+00:57:25,129 --> 00:57:29,998
+- Gib uns ein Zeichen.
+- Er hat uns doch hierher gebracht.
+
+622
+00:57:30,169 --> 00:57:35,482
+- Ihr seid mir doch bloÃŸ gefolgt.
+- Es ist trotzdem ein Zeichen.
+
+623
+00:57:35,649 --> 00:57:40,564
+Dein Volk ist sehr weit gelaufen.
+Es ist mÃ¼de und hungrig.
+
+624
+00:57:40,729 --> 00:57:45,166
+- Nicht meine Schuld.
+- Und hier gibt es nichts zu essen.
+
+625
+00:57:45,329 --> 00:57:49,004
+Und der Wacholderstrauch da drÃ¼ben?
+
+626
+00:57:49,169 --> 00:57:51,369
+Ein Wunder!
+
+627
+00:57:52,489 --> 00:57:57,643
+- Er hat den Busch fruchtbar gemacht.
+- Es sind Wacholderbeeren dran.
+
+628
+00:57:57,809 --> 00:58:02,200
+Klar, es ist ein Wacholderbusch.
+Was denkt ihr denn?
+
+629
+00:58:02,369 --> 00:58:04,041
+Zeig uns noch ein Wunder.
+
+630
+00:58:04,209 --> 00:58:09,920
+KleinglÃ¤ubige! GenÃ¼gt euch das
+Wunder des Wacholderbuschs nicht?
+
+631
+00:58:10,089 --> 00:58:13,718
+- Hey, das sind meine.
+- Sie sind eine Gabe Gottes.
+
+632
+00:58:13,889 --> 00:58:20,601
+Ich habe sonst nichts zu essen.
+Geht weg da. Haut ab!
+
+633
+00:58:20,769 --> 00:58:24,682
+Herr, ich leide an Kahlheit.
+
+634
+00:58:24,849 --> 00:58:29,081
+- Der Meister hat mich geheilt!
+- Ich hab ihn nicht angerÃ¼hrt.
+
+635
+00:58:29,249 --> 00:58:35,927
+- Ich war blind und jetzt sehe ich.
+- Ein Wunder! Ein Wunder!
+
+636
+00:58:37,769 --> 00:58:42,445
+Sie sollen aufhÃ¶ren. Ich habe 18
+Jahre nicht gesprochen, bis er kam.
+
+637
+00:58:42,609 --> 00:58:47,683
+- Ein Wunder! Er ist der Messias!
+- Er hat mich am FuÃŸ verletzt.
+
+638
+00:58:47,849 --> 00:58:51,046
+- Verletz meinen FuÃŸ, Herr.
+- Verletz meinen.
+
+639
+00:58:51,209 --> 00:58:54,599
+- Heil dem Messias.
+- Ich bin nicht der Messias.
+
+640
+00:58:54,769 --> 00:58:58,000
+Doch, ich kenne mich aus.
+Ich bin einigen gefolgt.
+
+641
+00:58:58,169 --> 00:59:00,364
+Heil dem Messias!
+
+642
+00:59:00,529 --> 00:59:07,002
+Jetzt hÃ¶rt doch zu. Ich bin nicht
+der Messias, ehrlich nicht!
+
+643
+00:59:07,169 --> 00:59:11,720
+Nur der wahre Messias
+verleugnet seine GÃ¶ttlichkeit.
+
+644
+00:59:11,889 --> 00:59:16,121
+Was? Dann geb ich's auf.
+Also gut, ich bin der Messias.
+
+645
+00:59:16,289 --> 00:59:22,842
+- Er ist es! Er ist der Messias!
+- Und jetzt verpisst euch.
+
+646
+00:59:29,649 --> 00:59:33,358
+- Wie sollen wir uns verpissen, Herr?
+- Lasst mich allein.
+
+647
+00:59:33,529 --> 00:59:36,282
+Du hast ihnen den Wacholder gezeigt.
+
+648
+00:59:36,449 --> 00:59:42,843
+Du brichst meinen FuÃŸ, mein GelÃ¼bde
+und rÃ¤uberst meine BÃ¼sche.
+
+649
+00:59:43,009 --> 00:59:45,842
+Das ist der Messias, der AuserwÃ¤hlte.
+
+650
+00:59:46,009 --> 00:59:48,887
+- Ist er nicht.
+- Ein UnglÃ¤ubiger!
+
+651
+00:59:49,049 --> 00:59:50,198
+Ein UnglÃ¤ubiger!
+
+652
+00:59:50,609 --> 00:59:53,840
+Ergreift ihn! TÃ¶tet den Ketzer!
+
+653
+00:59:57,049 --> 01:00:00,280
+Lasst ihn in Ruhe.
+
+654
+01:00:01,649 --> 01:00:06,165
+Lasst ihn in Ruhe.
+Lasst ihn los. Bitte.
+
+655
+01:00:09,769 --> 01:00:10,969
+Brian?
+
+656
+01:00:11,449 --> 01:00:12,849
+Judith?
+
+657
+01:00:57,369 --> 01:01:02,159
+Da ist er,
+der AuserwÃ¤hlte ist erwacht!
+
+658
+01:01:04,249 --> 01:01:05,449
+Brian!
+
+659
+01:01:07,169 --> 01:01:08,569
+Mutter!
+
+660
+01:01:09,529 --> 01:01:11,838
+Warte, Mutter.
+
+661
+01:01:14,969 --> 01:01:20,441
+- Hallo, Mutter.
+- Was wollen die ganzen Leute da?
+
+662
+01:01:20,609 --> 01:01:25,000
+- Los, was hast du ausgefressen?
+- Die schauen nur so vorbei.
+
+663
+01:01:25,169 --> 01:01:30,243
+Die stÃ¼rmen eher vorbei.
+Da drauÃŸen stehen ganze Massen.
+
+664
+01:01:30,409 --> 01:01:36,245
+- Die folgen mir seit gestern.
+- Dann kÃ¶nnen sie ja mal aufhÃ¶ren.
+
+665
+01:01:36,409 --> 01:01:40,880
+HÃ¶rt auf, meinem Sohn nachzulaufen!
+SchÃ¤mt euch was!
+
+666
+01:01:41,049 --> 01:01:45,327
+Der Messias. Der Messias.
+Zeig uns den Messias.
+
+667
+01:01:45,489 --> 01:01:48,925
+- Den was?
+- Den Messias.
+
+668
+01:01:49,089 --> 01:01:54,163
+Hab ich nicht. Ischias hab ich,
+aber keinen Messias.
+
+669
+01:01:54,329 --> 01:01:56,206
+Brian! Brian!
+
+670
+01:01:56,369 --> 01:01:59,247
+- Was hast du angestellt?
+- Gar nichts, Mama.
+
+671
+01:01:59,409 --> 01:02:02,481
+- Raus damit!
+- Sie halten mich fÃ¼r den Messias.
+
+672
+01:02:02,649 --> 01:02:07,882
+Was hast du ihnen erzÃ¤hlt?
+Du machst es nur noch schlimmer.
+
+673
+01:02:08,049 --> 01:02:13,282
+Lassen Sie mich erklÃ¤ren, Frau Cohen.
+Ihr Sohn ist der geborene FÃ¼hrer.
+
+674
+01:02:13,449 --> 01:02:16,680
+Die Menschen folgen ihm,
+weil sie an ihn glauben.
+
+675
+01:02:16,849 --> 01:02:22,560
+Er gibt ihnen Hoffnung auf ein neues
+Leben, eine neue Welt, eine Zukunft.
+
+676
+01:02:24,289 --> 01:02:29,682
+- Wer ist das?
+- Das ist Judith. Judith, Mutter.
+
+677
+01:02:33,849 --> 01:02:36,158
+Zeig uns den Messias!
+
+678
+01:02:39,769 --> 01:02:46,163
+Er ist nicht der Messias, er ist ein
+ungezogener Bengel. Und jetzt haut ab!
+
+679
+01:02:46,329 --> 01:02:50,288
+- Wer seid Ihr?
+- Ich bin seine Mutter.
+
+680
+01:02:50,449 --> 01:02:54,249
+Sehet seine Mutter!
+
+681
+01:02:54,649 --> 01:02:57,846
+Heil dir, Mutter Brians.
+
+682
+01:02:58,009 --> 01:03:01,604
+Gesegnet seist du, Hosianna!
+
+683
+01:03:01,769 --> 01:03:05,842
+Gepriesen seist du jetzt und immerdar.
+
+684
+01:03:06,009 --> 01:03:08,921
+Glaubt bloÃŸ nicht,
+so kriegt ihr mich rum.
+
+685
+01:03:09,089 --> 01:03:15,005
+Er kommt nicht raus, und damit basta.
+Jetzt zieht Leine.
+
+686
+01:03:15,169 --> 01:03:16,169
+Nein!
+
+687
+01:03:17,369 --> 01:03:19,929
+Habt ihr mich gehÃ¶rt?
+
+688
+01:03:20,089 --> 01:03:21,089
+Ja!
+
+689
+01:03:21,249 --> 01:03:25,765
+- Ach, so ist das also?
+- Ja!
+
+690
+01:03:25,929 --> 01:03:32,926
+Na gut, ihr kÃ¶nnt ihn sehen,
+aber nur eine Minute lang. Verstanden?
+
+691
+01:03:33,089 --> 01:03:37,560
+- Versprochen?
+- Also gut.
+
+692
+01:03:37,729 --> 01:03:41,517
+Na dann, hier ist er.
+Los, Brian, sprich zu ihnen.
+
+693
+01:03:41,689 --> 01:03:46,126
+- Jetzt lass das walisische Flittchen.
+- Ich will nicht, Mama.
+
+694
+01:03:52,529 --> 01:03:57,319
+- Guten Morgen.
+- Ein Segen!
+
+695
+01:03:57,489 --> 01:04:03,439
+HÃ¶rt mir bitte zu. Ich will euch
+ein, zwei Sachen sagen.
+
+696
+01:04:03,609 --> 01:04:06,487
+Sag's uns! Sag uns beide!
+
+697
+01:04:06,649 --> 01:04:11,165
+Ihr habt das ganz falsch verstanden.
+Ihr braucht mir nicht zu folgen.
+
+698
+01:04:11,329 --> 01:04:16,881
+Ihr braucht niemandem zu folgen.
+Ihr mÃ¼sst selber denken.
+
+699
+01:04:17,049 --> 01:04:22,885
+- Ihr seid lauter Individuen.
+- Ja, wir sind lauter Individuen.
+
+700
+01:04:23,049 --> 01:04:27,918
+- Ihr seid alle verschieden.
+- Ja, wir sind alle verschieden.
+
+701
+01:04:28,169 --> 01:04:29,727
+- Ich nicht.
+- Pst!
+
+702
+01:04:30,889 --> 01:04:34,279
+Ihr mÃ¼sst allein zurechtkommen.
+
+703
+01:04:34,449 --> 01:04:38,442
+Ja, wir mÃ¼ssen allein zurechtkommen.
+
+704
+01:04:38,609 --> 01:04:42,238
+- Genau.
+- Sag uns noch mehr.
+
+705
+01:04:42,409 --> 01:04:46,925
+Nein, darum geht's doch.
+Lasst euch von niemandem was sagen.
+
+706
+01:04:47,089 --> 01:04:50,638
+- Sonst...
+- So, das reicht, Brian.
+
+707
+01:04:52,129 --> 01:04:57,362
+- Das war keine Minute!
+- War es doch.
+
+708
+01:04:57,529 --> 01:05:02,444
+- War es nicht!
+- HÃ¶rt auf und geht weg.
+
+709
+01:05:02,609 --> 01:05:09,481
+- Entschuldigung, sind Sie Jungfrau?
+- Wie bitte?
+
+710
+01:05:09,649 --> 01:05:13,437
+Wenn's nicht zu persÃ¶nlich ist,
+sind Sie eine Jungfrau?
+
+711
+01:05:13,609 --> 01:05:20,526
+Nicht zu persÃ¶nlich? Geht's noch
+persÃ¶nlicher? Verpisst euch endlich!
+
+712
+01:05:22,409 --> 01:05:25,526
+- Sie ist eine.
+- Ja. Ganz bestimmt.
+
+713
+01:05:30,009 --> 01:05:32,045
+Guten Morgen, ErlÃ¶ser.
+
+714
+01:05:40,569 --> 01:05:45,438
+- Leg mir die Hand auf, schnell.
+- Schubst den AuserwÃ¤hlten nicht.
+
+715
+01:05:46,289 --> 01:05:50,487
+Halt ihm das Baby nicht vor die Nase,
+es kommt schon dran.
+
+716
+01:05:50,649 --> 01:05:55,359
+Kann er sich mal meine Frau ansehen?
+Sie hat Kopfschmerzen.
+
+717
+01:05:55,529 --> 01:05:59,238
+- Wir sind zum Lunch verabredet.
+- Die LeprÃ¶sen stehen auch Schlange.
+
+718
+01:05:59,409 --> 01:06:02,367
+Ihr Schwager ist der Ex-BÃ¼rgermeister
+von Gath.
+
+719
+01:06:02,529 --> 01:06:07,364
+Brian, das ist der Mann, der uns
+den Berg fÃ¼r Sonntag Ã¼berlÃ¤sst.
+
+720
+01:06:07,529 --> 01:06:12,125
+- Nicht drÃ¤ngeln.
+- Bitte nicht so ein Geschrei.
+
+721
+01:06:12,289 --> 01:06:16,805
+KÃ¶nnten die Besessenen sich
+ein bisschen zusammenreiÃŸen?
+
+722
+01:06:16,969 --> 01:06:20,325
+Die Unheilbaren mÃ¼ssen sich
+noch etwas gedulden.
+
+723
+01:06:20,489 --> 01:06:24,721
+Gefallene Frauen
+bitte hier an der Wand aufstellen.
+
+724
+01:06:26,529 --> 01:06:30,363
+- Brian, du warst fantastisch.
+- Du warst auch nicht Ã¼bel.
+
+725
+01:06:30,529 --> 01:06:35,125
+Nein, das, was du grade gesagt hast.
+Das war was ganz Besonderes.
+
+726
+01:06:35,289 --> 01:06:40,044
+Wir brauchen keine FÃ¼hrer. Reg
+kommandiert uns schon zu lange rum.
+
+727
+01:06:40,209 --> 01:06:44,202
+- Das musste mal gesagt werden.
+- Du bist sehr attraktiv.
+
+728
+01:06:44,369 --> 01:06:48,282
+- Es ist unsere gemeinsame Revolution.
+- Ich glaube...
+
+729
+01:06:48,449 --> 01:06:53,159
+Wir stehen hinter dir, Brian.
+Die Revolution liegt in deinen HÃ¤nden.
+
+730
+01:06:53,329 --> 01:07:00,326
+- So hab ich das aber nicht gemeint.
+- Hab ich dich endlich, alter Gauner.
+
+731
+01:07:06,529 --> 01:07:07,644
+Lass das.
+
+732
+01:07:10,249 --> 01:07:13,161
+Bwian, du hast uns ganz schÃ¶n
+auf Twab gehalten.
+
+733
+01:07:13,329 --> 01:07:14,329
+Was?
+
+734
+01:07:15,329 --> 01:07:21,404
+Dieses Mal entkommst du uns
+gawantiert nicht. Wache?
+
+735
+01:07:21,569 --> 01:07:27,644
+- Gibt es heute Kweuzigungen?
+- 139, Herr. Wegen Pesach, Herr.
+
+736
+01:07:27,809 --> 01:07:33,042
+Fein. Dann haben wir jetzt 140.
+SchÃ¶ne wunde Zahl, was, Schwanzus?
+
+737
+01:07:34,889 --> 01:07:37,119
+- Ave CÃ¤sar.
+- Ave.
+
+738
+01:07:37,289 --> 01:07:41,202
+Die Menge wird unruhig.
+Bitte um Erlaubnis, sie zu zerstreuen.
+
+739
+01:07:41,369 --> 01:07:45,487
+- Aber ich habe noch nicht gewedet.
+- Ich weiÃŸ, aber...
+
+740
+01:07:45,649 --> 01:07:51,087
+Die Wede ist ein HÃ¶hepunkt des Fests.
+Und Schwanzus Longus ist extwa hier.
+
+741
+01:07:51,249 --> 01:07:54,207
+- Ave CÃ¤sar.
+- Afe FÃ¤far!
+
+742
+01:07:54,369 --> 01:07:56,599
+Sie wollen sie nicht...
+
+743
+01:07:56,769 --> 01:08:02,401
+Sie wollen Sie nicht dieses Jahr
+mal ausfallen lassen, Herr?
+
+744
+01:08:02,569 --> 01:08:05,481
+Die Menge ist
+komisch aufgelegt heute, Herr.
+
+745
+01:08:05,649 --> 01:08:10,962
+Zentuwio, du lÃ¤sst dich von einem
+Wudel webellischer WÃ¼pel iwwitiewen?
+
+746
+01:08:11,129 --> 01:08:13,643
+- Da braut sich was zusammen.
+- AbfÃ¼hwen.
+
+747
+01:08:13,809 --> 01:08:19,167
+- Ich bin RÃ¶mer. Ich kann's beweisen.
+- Und kweuzigt ihn gwÃ¼ndlich.
+
+748
+01:08:20,049 --> 01:08:21,449
+Biggus!
+
+749
+01:08:22,609 --> 01:08:24,839
+- Das wÃ¼rde ich nicht tun.
+- Aus dem Weg.
+
+750
+01:08:25,009 --> 01:08:29,685
+Ich komme mit, Pontfiuf. In einer
+Krife kann ich vielleicht helfen.
+
+751
+01:08:31,289 --> 01:08:35,442
+Punkt vier: Weltherrschaft
+innerhalb der nÃ¤chsten fÃ¼nf Jahre.
+
+752
+01:08:35,609 --> 01:08:38,442
+- Francis, du hast da was ausgearbeitet.
+- Ja, danke, Reg.
+
+753
+01:08:38,609 --> 01:08:41,840
+Ehrlich gesagt, fÃ¼nf Jahre
+ist eher optimistisch...
+
+754
+01:08:42,009 --> 01:08:46,605
+wenn wir nicht das RÃ¶mische Reich
+binnen Jahresfrist zerschlagen.
+
+755
+01:08:46,769 --> 01:08:50,398
+Sehen wir den Tatsachen ins Auge:
+Das ist ein groÃŸes Reich.
+
+756
+01:08:50,569 --> 01:08:55,199
+Wir mÃ¼ssen den Arsch hochkriegen,
+nicht immer nur drÃ¼ber reden.
+
+757
+01:08:55,369 --> 01:08:59,282
+Taten zÃ¤hlen mehr als Worte.
+Und jetzt brauchen wir Taten.
+
+758
+01:08:59,449 --> 01:09:03,362
+Wir kÃ¶nnen hier
+den ganzen Tag verquatschen...
+
+759
+01:09:03,529 --> 01:09:07,124
+aber das juckt
+keinen einzigen rÃ¶mischen Soldaten.
+
+760
+01:09:07,289 --> 01:09:12,317
+Also Schluss mit dem Gerede,
+das bringt uns kein StÃ¼ck weiter.
+
+761
+01:09:12,489 --> 01:09:16,198
+Seh ich auch so.
+Das ist totale Zeitverschwendung.
+
+762
+01:09:16,369 --> 01:09:21,318
+Brian ist verhaftet.
+Sie werden ihn kreuzigen.
+
+763
+01:09:21,489 --> 01:09:26,404
+Gut. Das muss unverzÃ¼glich
+diskutiert werden.
+
+764
+01:09:26,569 --> 01:09:30,039
+- Neuer Antrag?
+- Ganz neuer Antrag.
+
+765
+01:09:30,209 --> 01:09:33,838
+- Dass wir sofort handeln.
+- Gleich nach der Abstimmung.
+
+766
+01:09:34,009 --> 01:09:39,481
+- NatÃ¼rlich nach der Abstimmung...
+- Reg, kÃ¶nnen wir bitte gehen?
+
+767
+01:09:39,649 --> 01:09:44,245
+- In Anbetracht der neuen...
+- Nicht so schnell.
+
+768
+01:09:44,409 --> 01:09:47,958
+Reg, um Gottes willen,
+es ist doch ganz einfach.
+
+769
+01:09:48,129 --> 01:09:53,442
+Ihr mÃ¼sst nur da rausgehen
+und verhindern, dass sie ihn annageln.
+
+770
+01:09:53,609 --> 01:10:00,128
+Es passiert was, Reg. Kapierst du
+das nicht? Es passiert wirklich.
+
+771
+01:10:06,529 --> 01:10:09,805
+Kleiner feministischer Egotrip.
+
+772
+01:10:09,969 --> 01:10:13,041
+Entschuldige, Loretta.
+Lies bitte noch mal vor.
+
+773
+01:10:25,889 --> 01:10:27,368
+Der NÃ¤chste.
+
+774
+01:10:27,529 --> 01:10:28,757
+- Kreuzigung?
+- Ja.
+
+775
+01:10:28,929 --> 01:10:29,929
+Gut.
+
+776
+01:10:30,089 --> 01:10:33,638
+Zur TÃ¼r raus, links anstellen,
+jeder nur ein Kreuz.
+
+777
+01:10:33,809 --> 01:10:37,199
+Der NÃ¤chste. Kreuzigung? Gut.
+
+778
+01:10:37,369 --> 01:10:41,806
+Zur TÃ¼r raus, nach links,
+jeder nur ein Kreuz. Der NÃ¤chste.
+
+779
+01:10:41,969 --> 01:10:43,960
+- Kreuzigung?
+- Nein, Freilassung.
+
+780
+01:10:44,169 --> 01:10:45,169
+Ach?
+
+781
+01:10:45,329 --> 01:10:50,164
+Ich bin freigesprochen und kann
+irgendwo auf einer Insel leben.
+
+782
+01:10:51,609 --> 01:10:53,565
+SchÃ¶n fÃ¼r dich. Na, dann lauf.
+
+783
+01:10:53,729 --> 01:10:59,679
+- Nein, nur ein Witz. Kreuzigung.
+- Verstehe. Also zur TÃ¼r raus...
+
+784
+01:10:59,849 --> 01:11:04,559
+Zur TÃ¼r raus,
+jeder nur ein Kreuz, links anstellen.
+
+785
+01:11:04,729 --> 01:11:06,845
+Kreuzigung? SchÃ¶n.
+
+786
+01:11:20,329 --> 01:11:24,529
+Volk von Jewusalem...
+
+787
+01:11:24,809 --> 01:11:28,802
+Wom ist Euer Fweund.
+
+788
+01:11:32,529 --> 01:11:36,238
+Zum Beweis unsewer Fweunschaft
+ist es Bwauch...
+
+789
+01:11:36,409 --> 01:11:40,960
+heute einen Wechtsbwecher
+fweizulassen.
+
+790
+01:11:44,529 --> 01:11:50,684
+- Wen soll ich fweilassen?
+- Lass Roger laufen.
+
+791
+01:11:50,849 --> 01:11:54,888
+Lass Roger laufen, lass Roger laufen.
+
+792
+01:11:57,929 --> 01:12:02,957
+Gut, ich wewde Woger fweilassen.
+
+793
+01:12:05,289 --> 01:12:09,840
+Wir haben keinen Woger, Herr.
+Kein Gefangener heiÃŸt so.
+
+794
+01:12:11,529 --> 01:12:14,839
+Wir haben keinen Woger.
+
+795
+01:12:16,969 --> 01:12:19,278
+Dann Roderick.
+
+796
+01:12:19,449 --> 01:12:23,124
+Lasst Roderick laufen,
+lasst Roderick laufen.
+
+797
+01:12:23,289 --> 01:12:28,886
+Zentuwio, wieso kichern die so?
+
+798
+01:12:29,049 --> 01:12:32,837
+Irgend so ein jÃ¼discher Witz, Herr.
+
+799
+01:12:33,009 --> 01:12:38,925
+- Halten die mich zum Nawwen?
+- Aber nein, Herr.
+
+800
+01:12:41,049 --> 01:12:47,363
+- Gut, ich lasse Wodewick fwei.
+- Wir haben auch keinen Roderick.
+
+801
+01:12:47,529 --> 01:12:50,168
+Kein Woger, kein Wodewick.
+
+802
+01:12:50,329 --> 01:12:54,925
+Wer ist dieser Wodewick,
+von dem die Wede ist?
+
+803
+01:12:55,089 --> 01:12:57,289
+Ein WÃ¤uber.
+
+804
+01:12:57,529 --> 01:13:00,839
+Und ein Waufbold.
+
+805
+01:13:01,009 --> 01:13:02,886
+Und ein Taschendieb.
+
+806
+01:13:06,009 --> 01:13:10,446
+- Ein bewÃ¼chtigter Kwimineller also.
+- Wir haben ihn nicht, Herr.
+
+807
+01:13:10,609 --> 01:13:14,238
+- Haben wir denn Ã¼berhaupt wen?
+- Wir hÃ¤tten einen Samson.
+
+808
+01:13:14,409 --> 01:13:19,164
+Samson, der Schrecken der SaduzÃ¤er,
+Silas, der syrische Schlitzer...
+
+809
+01:13:19,329 --> 01:13:24,039
+diverse aufstÃ¤ndische Schreiber
+aus CÃ¤sarea, 76...
+
+810
+01:13:24,209 --> 01:13:28,202
+- Laff mich tfu ihnen fprechen.
+- Gute Idee, Schwanzus.
+
+811
+01:13:28,369 --> 01:13:32,521
+Wir haben Famfon,
+den Frecken der FadutfÃ¤er...
+
+812
+01:13:32,689 --> 01:13:38,798
+Filaf, den fyrischen Flitfer, diverfe
+aufftÃ¤ndische Schriftgelehrte...
+
+813
+01:13:38,969 --> 01:13:43,167
+- Der NÃ¤chste. Kreuzigung?
+- Ja.
+
+814
+01:13:43,329 --> 01:13:47,288
+Zur TÃ¼r raus, links anstellen,
+jeder nur ein Kreuz. WÃ¤rter.
+
+815
+01:13:47,449 --> 01:13:51,078
+- Da liegt irgendein Fehler vor.
+- Moment. WÃ¤rter.
+
+816
+01:13:51,249 --> 01:13:54,798
+Wie viele sind schon raus?
+
+817
+01:13:54,969 --> 01:13:58,803
+Wie viele sind schon raus?
+
+818
+01:13:58,969 --> 01:14:01,642
+S-s-sie m-m-mÃ¼ssen...
+
+819
+01:14:04,809 --> 01:14:07,562
+la-la-lauter sprechen, Herr.
+Er i-i-ist...
+
+820
+01:14:08,569 --> 01:14:12,039
+sto-sto-stocktaub.
+
+821
+01:14:12,569 --> 01:14:16,562
+Wie viele sind schon raus?
+
+822
+01:14:20,169 --> 01:14:22,125
+I-i-ich ko-ko-komm auf...
+
+823
+01:14:23,809 --> 01:14:25,288
+9... 9...
+
+824
+01:14:26,329 --> 01:14:28,129
+96, Herr.
+
+825
+01:14:28,529 --> 01:14:31,646
+So eine Verschwendung
+von Menschenleben, was?
+
+826
+01:14:31,809 --> 01:14:35,927
+N-n-nein, nicht bei diesen...
+
+827
+01:14:36,089 --> 01:14:38,842
+Sch-Sch-Schuften.
+
+828
+01:14:42,409 --> 01:14:47,563
+- K-kreuzigen ist noch zu gut fÃ¼r die.
+- Kreuzigung ist schlimm.
+
+829
+01:14:47,729 --> 01:14:49,208
+N-n-nicht so...
+
+830
+01:14:52,369 --> 01:14:55,918
+Nicht so schlimm wie das,
+was ich mir grade ausgedacht habe.
+
+831
+01:14:56,089 --> 01:14:59,479
+- Kreuzigung?
+- Kann ich mit jemandem sprechen?
+
+832
+01:14:59,649 --> 01:15:02,959
+Ich weiÃŸ, wo Sie's herkriegen kÃ¶nnen.
+
+833
+01:15:03,129 --> 01:15:07,520
+Einfach ig-ig-ignorieren, Herr.
+D-d-der ist...
+
+834
+01:15:09,049 --> 01:15:11,438
+ta-ta-taub und wa-wa-wahnsinnig.
+
+835
+01:15:11,609 --> 01:15:15,568
+- Wie hat er den Posten gekriegt?
+- Liebling von Pilatus.
+
+836
+01:15:15,729 --> 01:15:20,200
+Hau ab, Dicknase. Hier warten Leute
+auf ihre Kreuzigung.
+
+837
+01:15:20,369 --> 01:15:24,078
+Kann ich einen Anwalt sprechen?
+Ich bin RÃ¶mer.
+
+838
+01:15:24,249 --> 01:15:26,922
+Wiederaufnahmeverfahren?
+Wir haben ja Zeit.
+
+839
+01:15:27,089 --> 01:15:31,401
+- Maul halten.
+- RÃ¶mer. Keinen Sinn fÃ¼r Humor.
+
+840
+01:15:31,569 --> 01:15:37,121
+Tut mir Leid, wir sind etwas in Eile.
+Links anstellen, jeder nur ein Kreuz.
+
+841
+01:15:45,569 --> 01:15:48,561
+Hab ich waf Wipfigef gefagt?
+
+842
+01:15:50,129 --> 01:15:51,129
+Wuhe!
+
+843
+01:15:54,369 --> 01:15:58,840
+Dieser Mann kommandiert
+eine wuhmvolle Legion.
+
+844
+01:16:01,969 --> 01:16:04,927
+Er ist ein WÃ¶mer von Wang.
+
+845
+01:16:09,529 --> 01:16:13,602
+Kreuzigungstrupp. Guten Morgen.
+
+846
+01:16:13,769 --> 01:16:18,240
+Wir haben Zuschauer,
+also lasst euch nicht gehen.
+
+847
+01:16:18,409 --> 01:16:23,437
+Lauft in einer Reihe,
+haltet Abstand, gleichmÃ¤ÃŸiges Tempo.
+
+848
+01:16:23,609 --> 01:16:30,606
+Kreuz auf die linke Schulter, schÃ¶n
+buckeln, dann geht das wie nichts.
+
+849
+01:16:30,769 --> 01:16:36,639
+- Kann losgehen, Zenturio.
+- Kreuzigungstrupp, Ach-tung!
+
+850
+01:16:36,809 --> 01:16:42,441
+Kreuzigungstrupp, und links.
+Marsch!
+
+851
+01:16:46,249 --> 01:16:48,649
+GlÃ¼ckspilze.
+
+852
+01:16:49,849 --> 01:16:53,842
+Verdammte GlÃ¼ckspilze.
+
+853
+01:17:01,329 --> 01:17:05,607
+Lass mich deine BÃ¼rde tragen, Bruder.
+
+854
+01:17:08,169 --> 01:17:11,684
+- Was hast du denn vor?
+- Das ist nicht mein Kreuz.
+
+855
+01:17:11,849 --> 01:17:14,682
+Maul halten und weiterlaufen.
+
+856
+01:17:16,169 --> 01:17:20,048
+Der hat dich schÃ¶n reingelegt.
+Das wird dich lehren.
+
+857
+01:17:21,129 --> 01:17:25,566
+Na gut, eine Chance habt ihr noch.
+
+858
+01:17:25,729 --> 01:17:31,759
+Diesmal will ich nichts von Wubens
+hÃ¶wen, nichts von Weginald...
+
+859
+01:17:31,929 --> 01:17:34,762
+nichts von Wudolph,
+dem Wotnasenwentier...
+
+860
+01:17:34,929 --> 01:17:38,683
+- Nichtf von Fpenfer Trafy.
+- Sonst lassen wir keinen fwei.
+
+861
+01:17:38,849 --> 01:17:41,921
+- Lasst Brian frei.
+- Ja, der ist gut.
+
+862
+01:17:42,089 --> 01:17:46,640
+Lasst Brian frei, lasst Brian frei.
+
+863
+01:17:47,689 --> 01:17:49,441
+Jetzt weicht's!
+
+864
+01:17:49,609 --> 01:17:54,000
+Wir haben einen Brian. Sie haben
+ihn zur Kreuzigung geschickt.
+
+865
+01:17:54,169 --> 01:18:00,039
+Moment, wir haben einen Bwian.
+Lasst ihn fwei, aber wuckzuck!
+
+866
+01:18:02,769 --> 01:18:07,969
+Gut, ich lasse Bwian fwei.
+
+867
+01:18:11,649 --> 01:18:14,209
+- Los, schneller.
+- Oder sonst?
+
+868
+01:18:14,369 --> 01:18:16,724
+- Sonst kriegst du Ã„rger.
+- Oh je.
+
+869
+01:18:16,889 --> 01:18:20,802
+Darf ich mich dann
+nicht mehr kreuzigen lassen?
+
+870
+01:18:20,969 --> 01:18:24,245
+Das wÃ¤re hart, oder?
+Ich hÃ¤tte gar nichts zu tun.
+
+871
+01:18:24,449 --> 01:18:25,649
+Danke.
+
+872
+01:18:28,969 --> 01:18:31,688
+Sind alle weg?
+
+873
+01:18:31,849 --> 01:18:35,967
+Hinten sind so KlÃ¼mpchen.
+
+874
+01:18:36,129 --> 01:18:37,129
+Was?
+
+875
+01:18:37,329 --> 01:18:41,368
+HÃ¶ren Sie nicht auf ihn, Herr.
+Er ist w...
+
+876
+01:18:41,529 --> 01:18:43,679
+Er ist w...
+
+877
+01:18:43,849 --> 01:18:47,524
+- Er ist wahnsinnig, Herr.
+- Sind alle weg?
+
+878
+01:18:56,969 --> 01:19:00,279
+- Mach schon.
+- Na ja, Herr.
+
+879
+01:19:00,449 --> 01:19:04,237
+- ErzÃ¤hl weiter.
+- Na ja, er hÃ¤ngt so dran, und da...
+
+880
+01:19:05,329 --> 01:19:11,768
+Gut, Antrag angenommen. Ich schlage
+vor, dass wir aufbrechen. EinwÃ¤nde?
+
+881
+01:19:27,729 --> 01:19:31,847
+- ScheiÃŸrÃ¶mer.
+- Pass bloÃŸ auf. Sind noch Kreuze da.
+
+882
+01:19:33,729 --> 01:19:38,883
+- Rauf mit dir, Dicknase.
+- Das zahl ich dir heim, du Schwein.
+
+883
+01:19:39,049 --> 01:19:42,121
+Wart's ab.
+Ich vergess kein Gesicht.
+
+884
+01:19:42,289 --> 01:19:48,558
+- Du kriegst die Fresse dick, RÃ¶mer.
+- Halts Maul, Judenarsch.
+
+885
+01:19:48,729 --> 01:19:52,802
+Jude? Ich bin kein Jude.
+Ich bin Samariter.
+
+886
+01:19:52,969 --> 01:19:55,802
+Ein Samariter?
+Hier ist der jÃ¼dische Sektor.
+
+887
+01:19:55,969 --> 01:19:59,518
+Ist doch egal. In ein, zwei Tagen
+seid ihr alle tot.
+
+888
+01:19:59,689 --> 01:20:04,444
+Dir ist das vielleicht egal, RÃ¶mer,
+aber uns nicht, oder, Schatz?
+
+889
+01:20:04,609 --> 01:20:09,478
+Wir haben das Recht,
+unter Juden gekreuzigt zu werden.
+
+890
+01:20:09,649 --> 01:20:14,803
+- PharisÃ¤er getrennt von SadduzÃ¤ern.
+- Schweden getrennt von Walisern.
+
+891
+01:20:14,969 --> 01:20:19,042
+Also gut. Das haben wir gleich.
+
+892
+01:20:19,209 --> 01:20:24,363
+Wer anderswo gekreuzigt werden will,
+hebt die Hand.
+
+893
+01:20:24,529 --> 01:20:28,920
+- Wer ist der NÃ¤chste?
+- Das ist nicht mein Kreuz.
+
+894
+01:20:29,089 --> 01:20:33,480
+- Ich hab nur tragen geholfen.
+- Leg dich hin, ich hab keine Zeit.
+
+895
+01:20:33,649 --> 01:20:39,201
+- Ja. Ich will keinen Ã„rger machen...
+- Ist viel los heute, 140 mÃ¼ssen rauf.
+
+896
+01:20:39,369 --> 01:20:45,239
+Ist der Jude? Wir wollen hier
+nicht noch mehr Samariter.
+
+897
+01:20:45,409 --> 01:20:49,641
+- Kann ich runter, wenn er auftaucht?
+- Na klar.
+
+898
+01:20:49,809 --> 01:20:54,963
+- Sie mÃ¼ssen keine Befehle ausfÃ¼hren.
+- Mach ich aber gern.
+
+899
+01:21:15,889 --> 01:21:19,245
+Siehst du? Halb so wild,
+wenn man mal oben hÃ¤ngt.
+
+900
+01:21:19,409 --> 01:21:23,004
+- Wirst du gerettet?
+- Bisschen spÃ¤t jetzt, oder?
+
+901
+01:21:23,169 --> 01:21:28,118
+Nein, wir hÃ¤ngen ja ein paar Tage.
+Eine Menge Leute werden gerettet.
+
+902
+01:21:28,289 --> 01:21:33,488
+Meistens rettet mich mein Bruder,
+wenn er mal gerade nicht vÃ¶geln muss.
+
+903
+01:21:33,649 --> 01:21:37,608
+Geiler Hurenbock. Rauf und runter
+wie das assyrische Reich.
+
+904
+01:21:42,209 --> 01:21:45,645
+Hallo. Kommt da deine Familie?
+
+905
+01:21:45,809 --> 01:21:48,721
+- Hallo, Geschwister Brian.
+- Gott sei Dank, Reg.
+
+906
+01:21:48,889 --> 01:21:53,440
+Ehrlich gesagt sind wir nicht
+das Rettungskomitee, Brian.
+
+907
+01:21:53,609 --> 01:21:58,149
+Aber ich soll diese ErklÃ¤rung
+der Bewegung vorlesen.
+
+908
+01:21:58,249 --> 01:22:01,480
+"Wir, die Volksfront von JudÃ¤a,
+FunktionÃ¤re...
+
+909
+01:22:01,649 --> 01:22:06,006
+Ã¼berbringen dir brÃ¼derliche
+und schwesterliche GlÃ¼ckwÃ¼nsche...
+
+910
+01:22:06,169 --> 01:22:09,161
+zu deinem MÃ¤rtyrertod.
+
+911
+01:22:09,329 --> 01:22:16,326
+Dein Tod ist ein Meilenstein im Kampf
+um die Befreiung von den RÃ¶mern...
+
+912
+01:22:16,489 --> 01:22:21,085
+auÃŸer denen, die fÃ¼r Kanalisation,
+Bildung und Weinbau zustÃ¤ndig sind...
+
+913
+01:22:21,249 --> 01:22:26,767
+und den WohltÃ¤tern der Juden beider
+Geschlechter und Hermaphroditen.
+
+914
+01:22:26,929 --> 01:22:29,682
+Im Namen der VVJ und so weiter..."
+
+915
+01:22:29,849 --> 01:22:34,445
+Ich mÃ¶chte noch hinzufÃ¼gen,
+dass ich deine Tat sehr bewundere...
+
+916
+01:22:34,609 --> 01:22:37,885
+es muss eine schwere Zeit
+fÃ¼r dich sein.
+
+917
+01:22:38,049 --> 01:22:42,679
+- Reg, was willst du...
+- Leb wohl, Brian, und danke.
+
+918
+01:22:44,449 --> 01:22:48,283
+- Gut gemacht, Brian. Weiter so.
+- Saubere Arbeit, Brian.
+
+919
+01:22:53,849 --> 01:22:55,601
+Achtung. Und:
+
+920
+01:22:55,769 --> 01:22:57,885
+<i>For he's a jolly good fellow</i>
+
+921
+01:22:58,049 --> 01:23:00,040
+<i>For he's a jolly good fellow</i>
+
+922
+01:23:00,209 --> 01:23:02,882
+<i>For he's a jolly good fellow</i>
+
+923
+01:23:03,049 --> 01:23:04,960
+<i>And so say all of us</i>
+
+924
+01:23:05,129 --> 01:23:07,689
+<i>And so say all of...</i>
+
+925
+01:23:10,609 --> 01:23:13,601
+Ihr miesen Schweine!
+
+926
+01:23:13,769 --> 01:23:19,526
+Wer von euch ist Brian von Nazareth?
+Er soll freigelassen werden.
+
+927
+01:23:20,849 --> 01:23:24,637
+- Ich bin Brian von Nazareth.
+- Holt ihn runter.
+
+928
+01:23:24,809 --> 01:23:28,518
+- Ich bin Brian von Nazareth.
+- Ich bin Brian.
+
+929
+01:23:28,689 --> 01:23:31,362
+- Ich bin Brian.
+- Nein, ich bin Brian.
+
+930
+01:23:32,609 --> 01:23:35,521
+Ich bin Brian, und meine Frau auch.
+
+931
+01:23:37,369 --> 01:23:42,045
+- Lasst ihn frei.
+- War nur SpaÃŸ. Ich bin nicht Brian.
+
+932
+01:23:42,209 --> 01:23:47,920
+Ich bin nicht Brian.
+Das war doch bloÃŸ ein Witz.
+
+933
+01:23:48,089 --> 01:23:53,925
+Ich hab euch nur verarscht.
+Bringt mich zurÃ¼ck. BlÃ¶de RÃ¶mer.
+
+934
+01:24:03,689 --> 01:24:06,283
+Die JudÃ¤ische Volksfront.
+
+935
+01:24:06,449 --> 01:24:12,126
+- Die JudÃ¤ische Volksfront.
+- Zum Angriff!
+
+936
+01:24:15,489 --> 01:24:20,438
+- Achtung! Die JudÃ¤ische Volksfront!
+- Die JudÃ¤ische Volksfront!
+
+937
+01:24:20,609 --> 01:24:23,123
+Die JudÃ¤ische Volksfront!
+
+938
+01:24:26,929 --> 01:24:32,208
+Wir sind die Elite-Selbstmordeinheit
+der JudÃ¤ischen Volksfront.
+
+939
+01:24:32,369 --> 01:24:36,726
+Selbstmordeinheit, zum Angriff!
+
+940
+01:24:44,489 --> 01:24:46,798
+Wir haben's ihnen gezeigt.
+
+941
+01:24:48,289 --> 01:24:51,089
+BlÃ¶de Trottel.
+
+942
+01:24:56,209 --> 01:24:57,609
+Judith!
+
+943
+01:24:58,409 --> 01:25:03,961
+Toll. Reg hat mir alles erklÃ¤rt.
+Ganz toll, was du da machst.
+
+944
+01:25:04,129 --> 01:25:08,680
+Danke, Brian.
+Ich werde dich nie vergessen.
+
+945
+01:25:16,249 --> 01:25:21,164
+Da steckst du also. HÃ¤tte ich mir
+ja denken kÃ¶nnen.
+
+946
+01:25:21,329 --> 01:25:24,924
+All die Liebe,
+die ich an dich verschwendet habe.
+
+947
+01:25:25,089 --> 01:25:30,083
+Wenn du deine alte Mutter im Herbst
+ihres Lebens so behandeln willst...
+
+948
+01:25:30,249 --> 01:25:35,369
+kann ich nur sagen: Nur zu,
+lass dich kreuzigen. Mir doch egal.
+
+949
+01:25:35,529 --> 01:25:40,398
+Ich hÃ¤tte es wissen mÃ¼ssen. Die
+jungen Leute denken doch nur an Sex.
+
+950
+01:25:40,569 --> 01:25:42,679
+Wo soll das nur hinfÃ¼hren?
+
+951
+01:25:42,779 --> 01:25:44,003
+Wo soll das nur hinfÃ¼hren?
+
+952
+01:25:47,729 --> 01:25:51,642
+Kopf hoch. Brian.
+Du weiÃŸt doch, wie man so sagt?
+
+953
+01:25:51,809 --> 01:25:57,202
+Im Leben geht manches schief,
+und man regt sich ziemlich auf...
+
+954
+01:25:57,369 --> 01:26:00,964
+und Ã¼ber andere Sachen
+flucht man nur wÃ¼st.
+
+955
+01:26:01,129 --> 01:26:06,840
+<i>Wenn was nicht klappen will,</i>
+<i>maul nicht rum, pfeif dir eins...</i>
+
+956
+01:26:07,009 --> 01:26:11,241
+<i>dann wird alles wieder gut.</i>
+
+957
+01:26:11,409 --> 01:26:13,219
+<i>Und</i>
+
+958
+01:26:13,319 --> 01:26:18,999
+<i>Schau nur auf</i>
+<i>Des Lebens sonnige Seit'</i>
+
+959
+01:26:21,169 --> 01:26:26,527
+<i>Schau nur auf</i>
+<i>Des Lebens sonnige Seit'</i>
+
+960
+01:26:28,129 --> 01:26:30,120
+<i>Scheint das Leben sehr beschissen</i>
+
+961
+01:26:30,289 --> 01:26:32,007
+<i>Hast du sicher was vergessen</i>
+
+962
+01:26:32,169 --> 01:26:35,718
+<i>NÃ¤mlich zu lachen und zu lÃ¤cheln</i>
+<i>Zu tanzen und zu singen</i>
+
+963
+01:26:35,889 --> 01:26:37,641
+<i>Wenn du glaubst</i>
+<i>Es sei zu Ende</i>
+
+964
+01:26:37,809 --> 01:26:39,925
+<i>Spuck dir noch Mal in die HÃ¤nde</i>
+
+965
+01:26:40,089 --> 01:26:43,001
+<i>Spitz einfach die Lippen</i>
+<i>Und pfeif dir eins</i>
+
+966
+01:26:43,169 --> 01:26:49,358
+<i>Schau nur auf</i>
+<i>Des Lebens sonnige Seit'</i>
+
+967
+01:26:49,529 --> 01:26:51,326
+Alle zusammen!
+
+968
+01:26:51,689 --> 01:26:56,604
+<i>Schau nur auf</i>
+<i>Des Lebens sonnige Seit'</i>
+
+969
+01:26:59,169 --> 01:27:00,887
+<i>Das Leben ist absurd</i>
+
+970
+01:27:01,049 --> 01:27:02,721
+<i>Der Tod das letzte Wort</i>
+
+971
+01:27:02,889 --> 01:27:06,484
+<i>Wenn der Vorhang fÃ¤llt</i>
+<i>Sich dein Gesicht erhellt</i>
+
+972
+01:27:06,649 --> 01:27:08,446
+<i>Vergiss doch deine SÃ¼nden</i>
+
+973
+01:27:08,609 --> 01:27:10,600
+<i>Lass uns das Publikum entzÃ¼nden</i>
+
+974
+01:27:10,769 --> 01:27:13,727
+<i>Wir stimmen an</i>
+<i>zum letzten Refrain</i>
+
+975
+01:27:13,889 --> 01:27:19,361
+<i>Schau nur auf</i>
+<i>Des Todes sonnige Seit'</i>
+
+976
+01:27:22,489 --> 01:27:27,005
+<i>Vorm letzten Atemhauch</i>
+<i>Bleibt dir ein wenig Zeit</i>
+
+977
+01:27:30,049 --> 01:27:31,801
+<i>Das Leben ist doch Kacke</i>
+
+978
+01:27:31,969 --> 01:27:33,687
+<i>Es tritt dich in die Hacke</i>
+
+979
+01:27:33,849 --> 01:27:37,398
+<i>Ein schlechter Witz</i>
+<i>Ein letzter Lacher</i>
+
+980
+01:27:37,569 --> 01:27:39,207
+<i>Ist doch alles nur 'ne Show</i>
+
+981
+01:27:39,369 --> 01:27:41,166
+<i>Lachen wir uns noch einmal tot</i>
+
+982
+01:27:41,329 --> 01:27:44,844
+<i>Denn ein LÃ¤cheln tut uns Not</i>
+
+983
+01:27:45,009 --> 01:27:51,039
+<i>Schau nur auf</i>
+<i>Des Lebens sonnige Seit'</i>
+
+984
+01:27:53,289 --> 01:27:57,919
+<i>Schau nur auf</i>
+<i>Des Lebens sonnige Seit'</i>
+
+985
+01:27:58,209 --> 01:28:00,848
+Na komm, Brian. Nicht aufgeben.
+
+986
+01:28:01,009 --> 01:28:06,367
+<i>Schau nur auf</i>
+<i>Des Lebens sonnige Seit'</i>
+
+987
+01:28:08,529 --> 01:28:12,920
+<i>Schau nur auf</i>
+<i>Des Lebens sonnige Seit'</i>
+
+988
+01:28:13,169 --> 01:28:16,081
+Hat schon Schlimmeres gegeben.
+
+989
+01:28:16,249 --> 01:28:19,241
+<i>Schau nur auf</i>
+<i>Des Lebens sonnige Seit'</i>
+
+990
+01:28:19,609 --> 01:28:25,525
+Am Anfang und am Ende hat man nichts.
+Was hat man verloren? Nichts.
+
+991
+01:28:28,889 --> 01:28:33,041
+Von nichts kommt nichts.
+Kopf hoch, altes Haus.
+
+992
+01:28:33,209 --> 01:28:37,361
+Na komm, lach mal. Siehst du?
+Der Film ist vorbei.
+
+993
+01:28:37,529 --> 01:28:43,604
+Ãœbrigens ist diese Platte im Foyer
+erhÃ¤ltlich. Wir mÃ¼ssen auch leben.
+
+994
+01:28:45,009 --> 01:28:50,481
+Irgendwer muss den Quatsch ja
+bezahlen. Das holen sie nie raus.
+
+995
+01:28:50,649 --> 01:28:55,723
+Und ich sag noch. Ich sag:
+"Bernie, das holen sie nie wieder raus."
+
+996
+01:29:42,089 --> 01:29:48,039
+Wenn Ihnen dieser Film gefÃ¤llt,
+sehen Sie auch <i>La Notte.</i>
+
+997
+01:29:48,329 --> 01:29:49,829
+<i>Untertitel:</i>
+SDI Media Group
+
