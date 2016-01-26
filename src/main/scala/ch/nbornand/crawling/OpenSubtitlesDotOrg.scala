@@ -32,12 +32,12 @@ object OpenSubtitlesDotOrg {
   def getMovieInformationFor(movieName: String, languageCode: String): Option[(List[Int], String)] = {
 
     val movieForSearch = cleanMovieName(movieName)
-    val movieSearchUrl = s"http://www.opensubtitles.org/en/search2/sublanguageid-$languageCode/moviename-" + URLEncoder.encode(movieForSearch, "UTF-8")
+    val movieSearchUrl = s"http://www.opensubtitles.org/en/search2/sublanguageid-$languageCode/moviename-" + movieForSearch
 
     def lookForInfosAt(url: String): (Option[Int], Option[List[Int]]) = {
       CrawlingUtils.performHttpGet(url) match {
         case None => {
-          logger.error(s"request for $movieName failed")
+          logger.error(s"request failed: $movieSearchUrl")
           (None, None)
         }
         case Some(stream) => {

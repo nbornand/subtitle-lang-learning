@@ -14,10 +14,13 @@ object CrawlingUtils{
     try{
       val connection = new URL(url).openConnection().asInstanceOf[HttpURLConnection];
       connection.setRequestMethod("GET");
-      connection.addRequestProperty("User-Agent", "Mozilla/5.0 (Windows NT 6.3; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0")
+      connection.addRequestProperty("Cookie" ,"PHPSESSID=huqgel901l4spktmgh213tvdi6;")
       connection.setInstanceFollowRedirects(true)
       if(connection.getResponseCode / 100 == 2) Some(connection.getInputStream)
-      else None
+      else{
+        logger.error("response code: "+connection.getResponseCode)
+        None
+      }
     } catch{
       case e:IOException => {
         logger.error(s"request failed: $url",e)
