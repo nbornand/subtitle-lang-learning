@@ -1,7 +1,5 @@
 package ch.nbornand.crawling
 
-import java.io.InputStream
-import java.net.URLEncoder
 import java.util.zip.ZipInputStream
 
 import org.apache.commons.io.IOUtils

@@ -28,19 +28,19 @@ object WikiDumpParser {
       }
 
       private def computeNext:Option[Word] = {
-        if(xmlIterator.hasNext){
-          var last = xmlIterator.next()
-          while(xmlIterator.hasNext){
-            val current = xmlIterator.next()
-            (last, current) match {
-              case (EvElemStart(_, "text", _, _), EvText(text)) => {
-                val potential = parseMarkup(text)
-                if(potential.isDefined) return potential
+            if(xmlIterator.hasNext){
+              var last = xmlIterator.next()
+              while(xmlIterator.hasNext){
+                val current = xmlIterator.next()
+                (last, current) match {
+                  case (EvElemStart(_, "text", _, _), EvText(text)) => {
+                    val potential = parseMarkup(text)
+                    if(potential.isDefined) return potential
+                  }
+                  case _ =>
+                }
+                last = current
               }
-              case _ =>
-            }
-            last = current
-          }
         }
         source.close()
         None
